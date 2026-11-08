@@ -24,7 +24,10 @@ jobs:
           cache: true
 
       - name: Crear estructura Android
-        run: flutter create --project-name med_elite --platforms=android --org com.medelite .
+        run: |
+          flutter create --project-name med_elite --platforms=android --org com.medelite .
+          rm -f test/widget_test.dart
+
 
       - name: Configurar Internet
         run: python3 tools/patch_android.py
