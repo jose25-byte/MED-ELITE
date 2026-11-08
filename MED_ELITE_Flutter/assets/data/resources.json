@@ -1,0 +1,50 @@
+[
+  {
+    "id": "openstax_intro",
+    "subjectId": 1,
+    "topicId": 1,
+    "title": "Anatomy and Physiology 2e — introducción (OpenStax)",
+    "category": "Libros oficiales y bibliografía",
+    "kind": "web",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-introduction",
+    "access": "free",
+    "source": "OpenStax",
+    "note": "Enlace al recurso externo, sujeto a términos de OpenStax. No se redistribuye dentro de la app."
+  },
+  {
+    "id": "openstax_overview",
+    "subjectId": 1,
+    "topicId": 1,
+    "title": "Panorama general de anatomía y fisiología (OpenStax)",
+    "category": "Resúmenes y apuntes",
+    "kind": "web",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-1-overview-of-anatomy-and-physiology",
+    "access": "free",
+    "source": "OpenStax",
+    "note": "Capítulo de acceso gratuito en el sitio original."
+  },
+  {
+    "id": "medlineplus_anatomia",
+    "subjectId": 1,
+    "topicId": 1,
+    "title": "Anatomía humana — MedlinePlus en español",
+    "category": "Extras",
+    "kind": "web",
+    "url": "https://medlineplus.gov/spanish/anatomy.html",
+    "access": "free",
+    "source": "MedlinePlus / NIH",
+    "note": "Enlace a información pública de salud en la web de MedlinePlus."
+  },
+  {
+    "id": "openstax_sistema_nervioso",
+    "subjectId": 1,
+    "topicId": 42,
+    "title": "Sistema nervioso — introducción (OpenStax)",
+    "category": "Libros oficiales y bibliografía",
+    "kind": "web",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-introduction",
+    "access": "free",
+    "source": "OpenStax",
+    "note": "Referencia externa gratuita; verificar términos de uso antes de incorporarla comercialmente."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "topicId": 1,
+    "question": "¿Cuál es la posición anatómica estándar?",
+    "answer": "Cuerpo erguido; mirada al frente; miembros superiores a los lados, palmas hacia delante; pies orientados hacia delante."
+  },
+  {
+    "id": 2,
+    "topicId": 1,
+    "question": "¿Qué divide el plano sagital?",
+    "answer": "Divide el cuerpo en porciones derecha e izquierda. El plano sagital medio pasa por la línea media."
+  },
+  {
+    "id": 3,
+    "topicId": 1,
+    "question": "¿Qué divide el plano coronal?",
+    "answer": "Divide el cuerpo en regiones anterior y posterior."
+  },
+  {
+    "id": 4,
+    "topicId": 1,
+    "question": "¿Qué divide el plano transversal?",
+    "answer": "Divide el cuerpo en regiones superior e inferior."
+  },
+  {
+    "id": 5,
+    "topicId": 1,
+    "question": "¿Qué significa proximal?",
+    "answer": "Más cerca del punto de origen o inserción de una estructura, habitualmente en los miembros."
+  },
+  {
+    "id": 6,
+    "topicId": 1,
+    "question": "¿Qué diferencia hay entre medial y lateral?",
+    "answer": "Medial: más cerca de la línea media. Lateral: más alejado de la línea media."
+  },
+  {
+    "id": 7,
+    "topicId": 2,
+    "question": "¿Cuántos huesos tiene el miembro superior libre adulto?",
+    "answer": "Habitualmente 30 por lado: 1 húmero, 1 radio, 1 ulna, 8 carpianos, 5 metacarpianos y 14 falanges."
+  },
+  {
+    "id": 8,
+    "topicId": 42,
+    "question": "¿Cuántos segmentos medulares se describen?",
+    "answer": "31 segmentos medulares: 8 cervicales, 12 torácicos, 5 lumbares, 5 sacros y 1 coccígeo."
+  }
+]

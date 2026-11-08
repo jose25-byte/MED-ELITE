@@ -1,0 +1,8024 @@
+[
+  {
+    "id": 1,
+    "subjectId": 1,
+    "title": "GENERALIDADES DE LA ANATOMÍA",
+    "rotation": 0
+  },
+  {
+    "id": 2,
+    "subjectId": 1,
+    "title": "OSTEOLOGÍA DEL MIEMBRO SUPERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 3,
+    "subjectId": 1,
+    "title": "ARTROLOGÍA DEL MIEMBRO SUPERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 4,
+    "subjectId": 1,
+    "title": "MIOLOGÍA DEL MIEMBRO SUPERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 5,
+    "subjectId": 1,
+    "title": "INERVACIÓN DEL MIEMBRO SUPERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 6,
+    "subjectId": 1,
+    "title": "IRRIGACIÓN DEL MIEMBRO SUPERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 7,
+    "subjectId": 1,
+    "title": "OSTEOLOGÍA DEL MIEMBRO INFERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 8,
+    "subjectId": 1,
+    "title": "ARTROLOGÍA DEL MIEMBRO INFERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 9,
+    "subjectId": 1,
+    "title": "MIOLOGÍA DEL MIEMBRO INFERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 10,
+    "subjectId": 1,
+    "title": "INERVACIÓN DEL MIEMBRO INFERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 11,
+    "subjectId": 1,
+    "title": "IRRIGACIÓN DEL MIEMBRO INFERIOR",
+    "rotation": 1
+  },
+  {
+    "id": 12,
+    "subjectId": 1,
+    "title": "HUESOS DEL CRÁNEO",
+    "rotation": 2
+  },
+  {
+    "id": 13,
+    "subjectId": 1,
+    "title": "HUESOS DE LA CARA",
+    "rotation": 2
+  },
+  {
+    "id": 14,
+    "subjectId": 1,
+    "title": "MÚSCULOS DE LA MÍMICA FACIAL Y PC VII",
+    "rotation": 2
+  },
+  {
+    "id": 15,
+    "subjectId": 1,
+    "title": "REGIÓN TEMPORAL E INFRATEMPORAL Y PC V",
+    "rotation": 2
+  },
+  {
+    "id": 16,
+    "subjectId": 1,
+    "title": "OÍDO",
+    "rotation": 2
+  },
+  {
+    "id": 17,
+    "subjectId": 1,
+    "title": "CAVIDAD ORBITARIA, PC III, PC IV, PC VI A. OFTÁLMICA",
+    "rotation": 2
+  },
+  {
+    "id": 18,
+    "subjectId": 1,
+    "title": "GLOBO OCULAR Y PC II",
+    "rotation": 2
+  },
+  {
+    "id": 19,
+    "subjectId": 1,
+    "title": "NARIZ, SENOS PARANASALES Y PC I",
+    "rotation": 2
+  },
+  {
+    "id": 20,
+    "subjectId": 1,
+    "title": "CAVIDAD BUCAL, GLÁNDULA MANDIBULAR Y SUBLINGUAL",
+    "rotation": 2
+  },
+  {
+    "id": 21,
+    "subjectId": 1,
+    "title": "REGIÓN SUPRA E INFRA HIOIDEA PARA/TIROIDES TIMO",
+    "rotation": 2
+  },
+  {
+    "id": 22,
+    "subjectId": 1,
+    "title": "C. CERVICAL, M. PRE Y POST VERTEBRALES",
+    "rotation": 2
+  },
+  {
+    "id": 23,
+    "subjectId": 1,
+    "title": "REGIÓN CAROTIDEA, A. CARÓTIDA Y V. YUGULAR",
+    "rotation": 2
+  },
+  {
+    "id": 24,
+    "subjectId": 1,
+    "title": "REGIÓN SUPRACLAVICULAR",
+    "rotation": 2
+  },
+  {
+    "id": 25,
+    "subjectId": 1,
+    "title": "PC IX, X, XI, XII PLEXO CERVICAL",
+    "rotation": 2
+  },
+  {
+    "id": 26,
+    "subjectId": 1,
+    "title": "FARINGE",
+    "rotation": 2
+  },
+  {
+    "id": 27,
+    "subjectId": 1,
+    "title": "LARINGE",
+    "rotation": 2
+  },
+  {
+    "id": 28,
+    "subjectId": 1,
+    "title": "ESQUELETO Y M. DEL TRONCO",
+    "rotation": 3
+  },
+  {
+    "id": 29,
+    "subjectId": 1,
+    "title": "MEDIASTINO ANTERIOR, CORAZÓN",
+    "rotation": 3
+  },
+  {
+    "id": 30,
+    "subjectId": 1,
+    "title": "MEDIASTINO POSTERIOR",
+    "rotation": 3
+  },
+  {
+    "id": 31,
+    "subjectId": 1,
+    "title": "TRÁQUEA Y PULMONES",
+    "rotation": 3
+  },
+  {
+    "id": 32,
+    "subjectId": 1,
+    "title": "PARED ANTEROLATERAL DEL ABDOMEN",
+    "rotation": 3
+  },
+  {
+    "id": 33,
+    "subjectId": 1,
+    "title": "ESÓFAGO ABDOMINAL Y ESTÓMAGO",
+    "rotation": 3
+  },
+  {
+    "id": 34,
+    "subjectId": 1,
+    "title": "DUODENO, PÁNCREAS Y BAZO",
+    "rotation": 3
+  },
+  {
+    "id": 35,
+    "subjectId": 1,
+    "title": "YEYUNO, ÍLEON E INTESTINO GRUESO",
+    "rotation": 3
+  },
+  {
+    "id": 36,
+    "subjectId": 1,
+    "title": "HÍGADO Y VÍAS BILIARES",
+    "rotation": 4
+  },
+  {
+    "id": 37,
+    "subjectId": 1,
+    "title": "APARATO URINARIO",
+    "rotation": 4
+  },
+  {
+    "id": 38,
+    "subjectId": 1,
+    "title": "VASOS Y NERVIOS DEL ABDOMEN Y PELVIS",
+    "rotation": 4
+  },
+  {
+    "id": 39,
+    "subjectId": 1,
+    "title": "APARATO GENITAL MASCULINO",
+    "rotation": 4
+  },
+  {
+    "id": 40,
+    "subjectId": 1,
+    "title": "APARATO GENITAL FEMENINO",
+    "rotation": 4
+  },
+  {
+    "id": 41,
+    "subjectId": 1,
+    "title": "PERINÉ",
+    "rotation": 4
+  },
+  {
+    "id": 42,
+    "subjectId": 1,
+    "title": "MÉDULA ESPINAL",
+    "rotation": 5
+  },
+  {
+    "id": 43,
+    "subjectId": 1,
+    "title": "TRONCO DEL ENCÉFALO",
+    "rotation": 5
+  },
+  {
+    "id": 44,
+    "subjectId": 1,
+    "title": "CEREBELO – CUARTO VENTRÍCULO",
+    "rotation": 5
+  },
+  {
+    "id": 45,
+    "subjectId": 1,
+    "title": "DIENCÉFALO Y TERCER VENTRÍCULO",
+    "rotation": 5
+  },
+  {
+    "id": 46,
+    "subjectId": 1,
+    "title": "CEREBRO I (C. EXTERNA)",
+    "rotation": 5
+  },
+  {
+    "id": 47,
+    "subjectId": 1,
+    "title": "CEREBRO II (C. INTERNA)",
+    "rotation": 5
+  },
+  {
+    "id": 48,
+    "subjectId": 1,
+    "title": "SISTEMA LÍMBICO, RETICULAR Y AUTÓNOMO",
+    "rotation": 5
+  },
+  {
+    "id": 49,
+    "subjectId": 1,
+    "title": "VÍAS DE CONDUCCIÓN ASCENDENTES",
+    "rotation": 5
+  },
+  {
+    "id": 50,
+    "subjectId": 1,
+    "title": "VÍAS DE CONDUCCIÓN DESCENDENTES",
+    "rotation": 5
+  },
+  {
+    "id": 51,
+    "subjectId": 1,
+    "title": "VASOS DEL SNC Y MENINGES",
+    "rotation": 5
+  },
+  {
+    "id": 52,
+    "subjectId": 2,
+    "title": "GENERALIDADES DE HISTOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 53,
+    "subjectId": 2,
+    "title": "ÓPTICA Y MICROSCOPÍA",
+    "rotation": null
+  },
+  {
+    "id": 54,
+    "subjectId": 2,
+    "title": "TÉCNICA HISTOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 55,
+    "subjectId": 2,
+    "title": "LA CÉLULA I: MEMBRANA C.",
+    "rotation": null
+  },
+  {
+    "id": 56,
+    "subjectId": 2,
+    "title": "LA CÉLULA II: CITOPLASMA Y ORGANELOS ENDOMEMBRAN.",
+    "rotation": null
+  },
+  {
+    "id": 57,
+    "subjectId": 2,
+    "title": "LA CÉLULA III: OTROS ORGANELOS Y NÚCLEO CEL.",
+    "rotation": null
+  },
+  {
+    "id": 58,
+    "subjectId": 2,
+    "title": "MATRIZ EXTRACELULAR",
+    "rotation": null
+  },
+  {
+    "id": 59,
+    "subjectId": 2,
+    "title": "TEJIDO EPITELIAL Y GLÁNDULAR",
+    "rotation": null
+  },
+  {
+    "id": 60,
+    "subjectId": 2,
+    "title": "TEJIDO CONECTIVO Y ADIPOSO",
+    "rotation": null
+  },
+  {
+    "id": 61,
+    "subjectId": 2,
+    "title": "TEJIDO CARTILAGINOSO Y ÓSEO",
+    "rotation": null
+  },
+  {
+    "id": 62,
+    "subjectId": 2,
+    "title": "TEJIDO MUSCULAR",
+    "rotation": null
+  },
+  {
+    "id": 63,
+    "subjectId": 2,
+    "title": "TEJIDO NERVIOSO",
+    "rotation": null
+  },
+  {
+    "id": 64,
+    "subjectId": 2,
+    "title": "SANGRE Y HEMATOPOYESIS",
+    "rotation": null
+  },
+  {
+    "id": 65,
+    "subjectId": 2,
+    "title": "SISTEMA CARDIOVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 66,
+    "subjectId": 2,
+    "title": "SISTEMA LINFOIDE",
+    "rotation": null
+  },
+  {
+    "id": 67,
+    "subjectId": 2,
+    "title": "APARATO RESPIRATORIO",
+    "rotation": null
+  },
+  {
+    "id": 68,
+    "subjectId": 2,
+    "title": "PIEL Y ANEXOS",
+    "rotation": null
+  },
+  {
+    "id": 69,
+    "subjectId": 2,
+    "title": "APARATO DIGESTIVO I: BOCA",
+    "rotation": null
+  },
+  {
+    "id": 70,
+    "subjectId": 2,
+    "title": "APARATO DIGESTIVO II: TUBO DIGESTIVO",
+    "rotation": null
+  },
+  {
+    "id": 71,
+    "subjectId": 2,
+    "title": "APARATO DIGESTIVO III: GLÁNDULAS Y ANEXOS",
+    "rotation": null
+  },
+  {
+    "id": 72,
+    "subjectId": 2,
+    "title": "SISTEMA ENDÓCRINO",
+    "rotation": null
+  },
+  {
+    "id": 73,
+    "subjectId": 2,
+    "title": "APARATO URINARIO",
+    "rotation": null
+  },
+  {
+    "id": 74,
+    "subjectId": 2,
+    "title": "APARATO REPRODUCTOR FEMENINO",
+    "rotation": null
+  },
+  {
+    "id": 75,
+    "subjectId": 2,
+    "title": "APARATO REPRODUCTOR MASCULINO",
+    "rotation": null
+  },
+  {
+    "id": 76,
+    "subjectId": 2,
+    "title": "OJO Y OIDO",
+    "rotation": null
+  },
+  {
+    "id": 77,
+    "subjectId": 3,
+    "title": "GENERALIDADES DE LA EMBRIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 78,
+    "subjectId": 3,
+    "title": "ANATOMÍA DE LOS ÓRGANOS REPRODUCTORES FEMENINOS",
+    "rotation": null
+  },
+  {
+    "id": 79,
+    "subjectId": 3,
+    "title": "FISIOLOGÍA DE LOS ÓRGANOS REPRODUCTORES FEMENINOS",
+    "rotation": null
+  },
+  {
+    "id": 80,
+    "subjectId": 3,
+    "title": "GAMETOGÉNESIS",
+    "rotation": null
+  },
+  {
+    "id": 81,
+    "subjectId": 3,
+    "title": "PRIMERA SEMANA DEL DESARROLLO EMBRIONARIO",
+    "rotation": null
+  },
+  {
+    "id": 82,
+    "subjectId": 3,
+    "title": "SEGUNDA SEMANA DEL DESARROLLO EMBRIONARIO",
+    "rotation": null
+  },
+  {
+    "id": 83,
+    "subjectId": 3,
+    "title": "TERCERA SEMANA DEL DESARROLLO EMBRIONARIO",
+    "rotation": null
+  },
+  {
+    "id": 84,
+    "subjectId": 3,
+    "title": "ORGANOGÉNESIS",
+    "rotation": null
+  },
+  {
+    "id": 85,
+    "subjectId": 3,
+    "title": "MORFOGÉNESIS",
+    "rotation": null
+  },
+  {
+    "id": 86,
+    "subjectId": 3,
+    "title": "PERIODO FETAL",
+    "rotation": null
+  },
+  {
+    "id": 87,
+    "subjectId": 3,
+    "title": "DECIDUA Y MEMBRANAS FETALES",
+    "rotation": null
+  },
+  {
+    "id": 88,
+    "subjectId": 3,
+    "title": "PLACENTA Y MALFORMACIONES",
+    "rotation": null
+  },
+  {
+    "id": 89,
+    "subjectId": 3,
+    "title": "DESARROLLO DE SISTEMA ÓSEO",
+    "rotation": null
+  },
+  {
+    "id": 90,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL SISTEMA ÓSEO",
+    "rotation": null
+  },
+  {
+    "id": 91,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL SISTEMA MUSCULAR",
+    "rotation": null
+  },
+  {
+    "id": 92,
+    "subjectId": 3,
+    "title": "DESARROLLO NORMAL DEL CORAZÓN",
+    "rotation": null
+  },
+  {
+    "id": 93,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL CORAZÓN",
+    "rotation": null
+  },
+  {
+    "id": 94,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL SISTEMA VASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 95,
+    "subjectId": 3,
+    "title": "MALFORMACIÓN VASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 96,
+    "subjectId": 3,
+    "title": "CIRCULACIÓN FETAL",
+    "rotation": null
+  },
+  {
+    "id": 97,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL SISTEMA URINARIO",
+    "rotation": null
+  },
+  {
+    "id": 98,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL SISTEMA URINARIO",
+    "rotation": null
+  },
+  {
+    "id": 99,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL SISTEMA GENITAL",
+    "rotation": null
+  },
+  {
+    "id": 100,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL SISTEMA GENITAL",
+    "rotation": null
+  },
+  {
+    "id": 101,
+    "subjectId": 3,
+    "title": "DESARROLLO DE BOCA, NARIZ Y PALADAR",
+    "rotation": null
+  },
+  {
+    "id": 102,
+    "subjectId": 3,
+    "title": "MALFORMACONES DE BOCA, NARIZ Y PALADAR",
+    "rotation": null
+  },
+  {
+    "id": 103,
+    "subjectId": 3,
+    "title": "DESARROLLO DE INTESTINO ANTERIOR",
+    "rotation": null
+  },
+  {
+    "id": 104,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL INTESTINO ANTERIOR",
+    "rotation": null
+  },
+  {
+    "id": 105,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL INTESTINO MEDIO Y CAUDAL",
+    "rotation": null
+  },
+  {
+    "id": 106,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL INTESTINO MEDIO Y CAUDAL",
+    "rotation": null
+  },
+  {
+    "id": 107,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL APARATO RESPIRATORIO",
+    "rotation": null
+  },
+  {
+    "id": 108,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL APARATO RESPIRATORIO",
+    "rotation": null
+  },
+  {
+    "id": 109,
+    "subjectId": 3,
+    "title": "DESARROLLO DEL CELOMA Y MALFORMACIONES",
+    "rotation": null
+  },
+  {
+    "id": 110,
+    "subjectId": 3,
+    "title": "SISTEMA NERVIOSO CENTRAL E INTRODUCCIÓN",
+    "rotation": null
+  },
+  {
+    "id": 111,
+    "subjectId": 3,
+    "title": "MÉDULA ESPINAL Y MIELENCÉFALO",
+    "rotation": null
+  },
+  {
+    "id": 112,
+    "subjectId": 3,
+    "title": "METENCÉFALO Y MESENCÉFALO",
+    "rotation": null
+  },
+  {
+    "id": 113,
+    "subjectId": 3,
+    "title": "DIENCÉFALO Y TELENCÉFALO",
+    "rotation": null
+  },
+  {
+    "id": 114,
+    "subjectId": 3,
+    "title": "MALFORMACIONES DEL SNC",
+    "rotation": null
+  },
+  {
+    "id": 115,
+    "subjectId": 3,
+    "title": "DESARROLLO DE LA VISIÓN",
+    "rotation": null
+  },
+  {
+    "id": 116,
+    "subjectId": 3,
+    "title": "DESARROLLO DE LA AUDICIÓN",
+    "rotation": null
+  },
+  {
+    "id": 117,
+    "subjectId": 3,
+    "title": "DESARROLLO DE LA PIEL, ANEXOS Y MAMA",
+    "rotation": null
+  },
+  {
+    "id": 118,
+    "subjectId": 3,
+    "title": "DESARROLLO DE LAS GLÁNDULAS ENDÓCRINAS",
+    "rotation": null
+  },
+  {
+    "id": 119,
+    "subjectId": 3,
+    "title": "GENERALIDADES DE LA GENÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 120,
+    "subjectId": 3,
+    "title": "MATERIAL HEREDITARIO",
+    "rotation": null
+  },
+  {
+    "id": 121,
+    "subjectId": 3,
+    "title": "HERENCIA MENDELIANA",
+    "rotation": null
+  },
+  {
+    "id": 122,
+    "subjectId": 3,
+    "title": "PATRONES DE HERENCIA",
+    "rotation": null
+  },
+  {
+    "id": 123,
+    "subjectId": 3,
+    "title": "CROMATINA Y CROMOSOMAS",
+    "rotation": null
+  },
+  {
+    "id": 124,
+    "subjectId": 3,
+    "title": "ANORMALIDADES CROMOSÓMICAS Y MALFORMACIONES GENÉTICAS",
+    "rotation": null
+  },
+  {
+    "id": 125,
+    "subjectId": 4,
+    "title": "GENERALIDADES DE SALUD PÚBLICA",
+    "rotation": null
+  },
+  {
+    "id": 126,
+    "subjectId": 4,
+    "title": "ESTILOS DE VIDA Y ENTORNOS SALUDABLES",
+    "rotation": null
+  },
+  {
+    "id": 127,
+    "subjectId": 4,
+    "title": "PREVENCIÓN DEL TABAQUISMO",
+    "rotation": null
+  },
+  {
+    "id": 128,
+    "subjectId": 4,
+    "title": "PREVENCIÓN DEL ALCOHOLISMO",
+    "rotation": null
+  },
+  {
+    "id": 129,
+    "subjectId": 4,
+    "title": "ALIMENTACIÓN SALUDABLE",
+    "rotation": null
+  },
+  {
+    "id": 130,
+    "subjectId": 4,
+    "title": "COMIDA CHATARRA",
+    "rotation": null
+  },
+  {
+    "id": 131,
+    "subjectId": 4,
+    "title": "ALIMENTACIÓN NO SALUDABLE / ADITIVOS ALIM.",
+    "rotation": null
+  },
+  {
+    "id": 132,
+    "subjectId": 4,
+    "title": "SEDENTARISMO Y ACTIVIDAD FÍSICA",
+    "rotation": null
+  },
+  {
+    "id": 133,
+    "subjectId": 4,
+    "title": "SOBREPESO Y OBESIDAD",
+    "rotation": null
+  },
+  {
+    "id": 134,
+    "subjectId": 4,
+    "title": "PREVENCIÓN DE ENT’s 1 (cardiovascular y metabólico)",
+    "rotation": null
+  },
+  {
+    "id": 135,
+    "subjectId": 4,
+    "title": "PREVENCIÓN DE ENT´s 2 (Prevención de la Diabetes)",
+    "rotation": null
+  },
+  {
+    "id": 136,
+    "subjectId": 4,
+    "title": "GENERALIDADES DE LA EDUCACIÓN PARA LA SALUD",
+    "rotation": null
+  },
+  {
+    "id": 137,
+    "subjectId": 4,
+    "title": "ELABORACIÓN DE MATERIALES DIDÁCTICOS",
+    "rotation": null
+  },
+  {
+    "id": 138,
+    "subjectId": 4,
+    "title": "MÉTODOS Y TÉCNICAS DE EPS",
+    "rotation": null
+  },
+  {
+    "id": 139,
+    "subjectId": 4,
+    "title": "PLAGIO. BUSQUEDA DE INFORMACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 140,
+    "subjectId": 4,
+    "title": "NORMAS DE VANCOUVER",
+    "rotation": null
+  },
+  {
+    "id": 141,
+    "subjectId": 4,
+    "title": "ELABORACIÓN DE PERFIL DE INVESTIGACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 142,
+    "subjectId": 5,
+    "title": "INTRODUCCIÓN Y PRINCIPIOS GENERALES DE LA FISIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 143,
+    "subjectId": 5,
+    "title": "MECANISMOS DE CONTROL Y ADAPTACIÓN DE LOS SERES V.",
+    "rotation": null
+  },
+  {
+    "id": 144,
+    "subjectId": 5,
+    "title": "CELULA, MEMBRANA CELULAR, ORGANELOS, NÚCLEO, CÓDIGO GENÉTICO",
+    "rotation": null
+  },
+  {
+    "id": 145,
+    "subjectId": 5,
+    "title": "VÍAS DE SEÑALIZACIÓN INTRACELULAR, FIS. MUSCULAR",
+    "rotation": null
+  },
+  {
+    "id": 146,
+    "subjectId": 5,
+    "title": "POTENCIALES DE ACCIÓN / MEMBRANA / EQUILIBRIO / LOCALES Y ECUACIONES",
+    "rotation": null
+  },
+  {
+    "id": 147,
+    "subjectId": 5,
+    "title": "MEDIO INTERNO",
+    "rotation": null
+  },
+  {
+    "id": 148,
+    "subjectId": 5,
+    "title": "COMPOSICIÓN CORPORAL, AGUA Y ELECTROLITOS/ EQUILIBRIO HÍDRICO",
+    "rotation": null
+  },
+  {
+    "id": 149,
+    "subjectId": 5,
+    "title": "ORGANIZACIÓN GENERAL DEL TEJIDO NERVIOSO",
+    "rotation": null
+  },
+  {
+    "id": 150,
+    "subjectId": 5,
+    "title": "SINAPSIS, RECEPTORES Y NEUROTRANSMISORES",
+    "rotation": null
+  },
+  {
+    "id": 151,
+    "subjectId": 5,
+    "title": "SOMESTESIA: Receptores y Vías Sensoriales Periféricas",
+    "rotation": null
+  },
+  {
+    "id": 152,
+    "subjectId": 5,
+    "title": "NOCICEPCIÓN: Bases fisiológicas del Dolor",
+    "rotation": null
+  },
+  {
+    "id": 153,
+    "subjectId": 5,
+    "title": "NEUROFISIOLOGÍA DE LA VISIÓN / ÓPTICA",
+    "rotation": null
+  },
+  {
+    "id": 154,
+    "subjectId": 5,
+    "title": "NEUROFISIOLOGÍA DE LA AUDICIÓN Y ACUSTICA",
+    "rotation": null
+  },
+  {
+    "id": 155,
+    "subjectId": 5,
+    "title": "NEUROFISIOLOGÍA DEL GUSTO",
+    "rotation": null
+  },
+  {
+    "id": 156,
+    "subjectId": 5,
+    "title": "NEUROFISIOLOGÍA DEL OLFATO",
+    "rotation": null
+  },
+  {
+    "id": 157,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA DE LA MOTRICIDAD",
+    "rotation": null
+  },
+  {
+    "id": 158,
+    "subjectId": 5,
+    "title": "MARCHA Y POSTURA",
+    "rotation": null
+  },
+  {
+    "id": 159,
+    "subjectId": 5,
+    "title": "EQUILIBRIO",
+    "rotation": null
+  },
+  {
+    "id": 160,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA DE LA MÉDULA ESPINAL EN GENERAL",
+    "rotation": null
+  },
+  {
+    "id": 161,
+    "subjectId": 5,
+    "title": "REFLEJOS",
+    "rotation": null
+  },
+  {
+    "id": 162,
+    "subjectId": 5,
+    "title": "SISTEMA VEGETATIVO / VÍA DE ESTRÉS (LUCHA Y HUIDA)",
+    "rotation": null
+  },
+  {
+    "id": 163,
+    "subjectId": 5,
+    "title": "SUEÑO Y VIGILIA / EEG ELECTROENCEFALOGRAMA",
+    "rotation": null
+  },
+  {
+    "id": 164,
+    "subjectId": 5,
+    "title": "FUNCIONES COGNITIVAS SUPERIORES",
+    "rotation": null
+  },
+  {
+    "id": 165,
+    "subjectId": 5,
+    "title": "FILOGENIA Y ONTOGENIA DEL SISTEMA NERVIOSO",
+    "rotation": null
+  },
+  {
+    "id": 166,
+    "subjectId": 5,
+    "title": "MEMORIA Y APRENDIZAJE / FUNCIONES DEL HIPOCAMPO",
+    "rotation": null
+  },
+  {
+    "id": 167,
+    "subjectId": 5,
+    "title": "HIPOTÁLAMO / HOMEOSTASIS Y CICLO CIRCADIANO",
+    "rotation": null
+  },
+  {
+    "id": 168,
+    "subjectId": 5,
+    "title": "SISTEMA LÍMBICO",
+    "rotation": null
+  },
+  {
+    "id": 169,
+    "subjectId": 5,
+    "title": "NEUROPSICOLOGÍA DEL LÓBULO FRONTAL",
+    "rotation": null
+  },
+  {
+    "id": 170,
+    "subjectId": 5,
+    "title": "NEUROPSICOLOGÍA DEL LÓBULO TEMPORAL/PARIETAL",
+    "rotation": null
+  },
+  {
+    "id": 171,
+    "subjectId": 5,
+    "title": "NEUROPSICOLOGÍA DEL LÓBULO OCCIPITAL",
+    "rotation": null
+  },
+  {
+    "id": 172,
+    "subjectId": 5,
+    "title": "SÍNDROME DE DESCONEXIÓN INTERHEMISFÉRICA/APRAXIAS",
+    "rotation": null
+  },
+  {
+    "id": 173,
+    "subjectId": 5,
+    "title": "GENERALIDADES DE LA FISIOLOGÍA SANGUINEA",
+    "rotation": null
+  },
+  {
+    "id": 174,
+    "subjectId": 5,
+    "title": "HEMOGRAMA/ERITROPOYESIS Y GLOBULOS ROJOS",
+    "rotation": null
+  },
+  {
+    "id": 175,
+    "subjectId": 5,
+    "title": "HEMOGLOBINA (Hb) / METABOLISMO DEL HIERRO",
+    "rotation": null
+  },
+  {
+    "id": 176,
+    "subjectId": 5,
+    "title": "HEMOSTASIA Y COAGULACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 177,
+    "subjectId": 5,
+    "title": "GRUPOS SANGUÍNEOS",
+    "rotation": null
+  },
+  {
+    "id": 178,
+    "subjectId": 5,
+    "title": "SISTEMA INMUNITARIO INNATO / LEUCOPOYESIS",
+    "rotation": null
+  },
+  {
+    "id": 179,
+    "subjectId": 5,
+    "title": "INMUNIDAD CELULAR / INMUNIDAD HUMORAL",
+    "rotation": null
+  },
+  {
+    "id": 180,
+    "subjectId": 5,
+    "title": "PRESENTACIÓN DE ANTIGENO Y SISTEMA DE COMPLEMENTO",
+    "rotation": null
+  },
+  {
+    "id": 181,
+    "subjectId": 5,
+    "title": "GENERALIDADES DE LA FISIOLOGÍA CARDIOVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 182,
+    "subjectId": 5,
+    "title": "EL CORAZÓN COMO BOMBA / CICLO CARDIACO",
+    "rotation": null
+  },
+  {
+    "id": 183,
+    "subjectId": 5,
+    "title": "GASTO CARDIACO/PROCESO DE ACTIVACIÓN DEL CORAZÓN Y RUIDOS CARDIACOS",
+    "rotation": null
+  },
+  {
+    "id": 184,
+    "subjectId": 5,
+    "title": "DINÁMICA CIRCULATORIA / HEMODINAMIA",
+    "rotation": null
+  },
+  {
+    "id": 185,
+    "subjectId": 5,
+    "title": "CIRCULACIÓN VENOSA / MICROCIRCULACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 186,
+    "subjectId": 5,
+    "title": "CONTROL NERVIOSO DE LA PRESIÓN ARTERIAL",
+    "rotation": null
+  },
+  {
+    "id": 187,
+    "subjectId": 5,
+    "title": "GENERALIDADES DE LA FISIOLOGÍA RESPIRATORIA",
+    "rotation": null
+  },
+  {
+    "id": 188,
+    "subjectId": 5,
+    "title": "TRANSPORTE DE GASES E INTERCAMBIO GASEOSO",
+    "rotation": null
+  },
+  {
+    "id": 189,
+    "subjectId": 5,
+    "title": "VENTILACIÓN / PERFUSIÓN",
+    "rotation": null
+  },
+  {
+    "id": 190,
+    "subjectId": 5,
+    "title": "REGULACIÓN NERVIOSA DE LA RESPIRACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 191,
+    "subjectId": 5,
+    "title": "PRUEBAS DE FUNCIÓN RESPIRATORIA",
+    "rotation": null
+  },
+  {
+    "id": 192,
+    "subjectId": 5,
+    "title": "ADAPTACIÓN RESPIRATORIA",
+    "rotation": null
+  },
+  {
+    "id": 193,
+    "subjectId": 5,
+    "title": "GENERALIDADES DE LA FISIOLOGÍA RENAL",
+    "rotation": null
+  },
+  {
+    "id": 194,
+    "subjectId": 5,
+    "title": "HEMODINAMIA RENAL",
+    "rotation": null
+  },
+  {
+    "id": 195,
+    "subjectId": 5,
+    "title": "FUNCIÓN GLOMERULAR",
+    "rotation": null
+  },
+  {
+    "id": 196,
+    "subjectId": 5,
+    "title": "FUNCIÓN TUBULAR",
+    "rotation": null
+  },
+  {
+    "id": 197,
+    "subjectId": 5,
+    "title": "CLEARENCE RENAL",
+    "rotation": null
+  },
+  {
+    "id": 198,
+    "subjectId": 5,
+    "title": "PROPIEDADES FISICO- QUIMICAS Y EQUILIBRIO HIDROELECTROLITICO",
+    "rotation": null
+  },
+  {
+    "id": 199,
+    "subjectId": 5,
+    "title": "EQUILIBRIO ACIDO-BASE",
+    "rotation": null
+  },
+  {
+    "id": 200,
+    "subjectId": 5,
+    "title": "GENERALIDADES DE LA FISIOLOGÍA DIGESTIVA",
+    "rotation": null
+  },
+  {
+    "id": 201,
+    "subjectId": 5,
+    "title": "SISTEMA NERVIOSO ENTÉRICO",
+    "rotation": null
+  },
+  {
+    "id": 202,
+    "subjectId": 5,
+    "title": "LA MASTICACIÓN Y DEGLUCIÓN",
+    "rotation": null
+  },
+  {
+    "id": 203,
+    "subjectId": 5,
+    "title": "MOTILIDAD DE TRACTO DIGESTIVO / EXCRECIÓN",
+    "rotation": null
+  },
+  {
+    "id": 204,
+    "subjectId": 5,
+    "title": "SECRECIÓN SALIVAL, ESOFÁGICA Y GÁSTRICA",
+    "rotation": null
+  },
+  {
+    "id": 205,
+    "subjectId": 5,
+    "title": "SECRECIÓN PANCREÁTICA Y BILIAR",
+    "rotation": null
+  },
+  {
+    "id": 206,
+    "subjectId": 5,
+    "title": "DIGESTIÓN Y ABSORCIÓN DE NUTRIENTES",
+    "rotation": null
+  },
+  {
+    "id": 207,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA DE LA MICROBIOTA INTESTINAL",
+    "rotation": null
+  },
+  {
+    "id": 208,
+    "subjectId": 5,
+    "title": "GENERALIDADES DE LA FISIOLOGÍA ENDOCRINA",
+    "rotation": null
+  },
+  {
+    "id": 209,
+    "subjectId": 5,
+    "title": "EJE HIPOTÁLAMO-HIPÓFISIS HORMONAS",
+    "rotation": null
+  },
+  {
+    "id": 210,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA DE LA TIROIDES Y REGULACÍÓN DEL YODO",
+    "rotation": null
+  },
+  {
+    "id": 211,
+    "subjectId": 5,
+    "title": "CRECIMIENTO / FISIOLOGÍA DE LA PARATIROIDES",
+    "rotation": null
+  },
+  {
+    "id": 212,
+    "subjectId": 5,
+    "title": "EL PÁNCREAS ENDÓCRINO",
+    "rotation": null
+  },
+  {
+    "id": 213,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA DE LA CORTEZA SUPRARRENAL",
+    "rotation": null
+  },
+  {
+    "id": 214,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA SEXUAL MASCULINA / FI",
+    "rotation": null
+  },
+  {
+    "id": 215,
+    "subjectId": 5,
+    "title": "FISIOLOGÍA SEXUAL FEMENINA / LACTANCIA",
+    "rotation": null
+  },
+  {
+    "id": 216,
+    "subjectId": 6,
+    "title": "GENERALIDADES Y TAXONOMÍA",
+    "rotation": null
+  },
+  {
+    "id": 217,
+    "subjectId": 6,
+    "title": "RELACIÓN HOSPEDADOR- PARÁSITO",
+    "rotation": null
+  },
+  {
+    "id": 218,
+    "subjectId": 6,
+    "title": "CONCEPTOS DE INMUNOLOGÍA PARASITOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 219,
+    "subjectId": 6,
+    "title": "DX. PARASITOLOGÍCO DIRECTO E INDIRECTO",
+    "rotation": null
+  },
+  {
+    "id": 220,
+    "subjectId": 6,
+    "title": "DIAGNÓSTICO MOLECULAR",
+    "rotation": null
+  },
+  {
+    "id": 221,
+    "subjectId": 6,
+    "title": "GENERALIDADES DE LOS HELMINTOS",
+    "rotation": null
+  },
+  {
+    "id": 222,
+    "subjectId": 6,
+    "title": "Taenia solium/Taenia saginata",
+    "rotation": null
+  },
+  {
+    "id": 223,
+    "subjectId": 6,
+    "title": "CISTICERCOSIS / NEUROCIST.",
+    "rotation": null
+  },
+  {
+    "id": 224,
+    "subjectId": 6,
+    "title": "Echinococcus granulosus y sp.",
+    "rotation": null
+  },
+  {
+    "id": 225,
+    "subjectId": 6,
+    "title": "Hymenolepis nana/ Hymenolepis diminuta",
+    "rotation": null
+  },
+  {
+    "id": 226,
+    "subjectId": 6,
+    "title": "Fasciola hepatica",
+    "rotation": null
+  },
+  {
+    "id": 227,
+    "subjectId": 6,
+    "title": "Schistosoma mansoni",
+    "rotation": null
+  },
+  {
+    "id": 228,
+    "subjectId": 6,
+    "title": "Ascaris lumbricoides",
+    "rotation": null
+  },
+  {
+    "id": 229,
+    "subjectId": 6,
+    "title": "Ancylostoma duodenale y Necator americanus",
+    "rotation": null
+  },
+  {
+    "id": 230,
+    "subjectId": 6,
+    "title": "Strongyloides stercoralis",
+    "rotation": null
+  },
+  {
+    "id": 231,
+    "subjectId": 6,
+    "title": "Larva migrans",
+    "rotation": null
+  },
+  {
+    "id": 232,
+    "subjectId": 6,
+    "title": "Trichuris trichiura",
+    "rotation": null
+  },
+  {
+    "id": 233,
+    "subjectId": 6,
+    "title": "Enterobius vermicularis",
+    "rotation": null
+  },
+  {
+    "id": 234,
+    "subjectId": 6,
+    "title": "FILARIAS y Dracunculus medinensis",
+    "rotation": null
+  },
+  {
+    "id": 235,
+    "subjectId": 6,
+    "title": "Trichinella spiralis y otros",
+    "rotation": null
+  },
+  {
+    "id": 236,
+    "subjectId": 6,
+    "title": "GENERALIDADES DE PROTOZOARIOS",
+    "rotation": null
+  },
+  {
+    "id": 237,
+    "subjectId": 6,
+    "title": "COMPLEJO Entamoeba histolytica/dispar/moshkovskii",
+    "rotation": null
+  },
+  {
+    "id": 238,
+    "subjectId": 6,
+    "title": "Giardia intestinalis Y OTROS FLAGELADOS",
+    "rotation": null
+  },
+  {
+    "id": 239,
+    "subjectId": 6,
+    "title": "Cryptosporidium sp.",
+    "rotation": null
+  },
+  {
+    "id": 240,
+    "subjectId": 6,
+    "title": "Cyclospora cayetanensis",
+    "rotation": null
+  },
+  {
+    "id": 241,
+    "subjectId": 6,
+    "title": "Blastocystis hominis",
+    "rotation": null
+  },
+  {
+    "id": 242,
+    "subjectId": 6,
+    "title": "Neobalantidium coli",
+    "rotation": null
+  },
+  {
+    "id": 243,
+    "subjectId": 6,
+    "title": "Trichomonas vaginalis",
+    "rotation": null
+  },
+  {
+    "id": 244,
+    "subjectId": 6,
+    "title": "Toxoplasma gondii",
+    "rotation": null
+  },
+  {
+    "id": 245,
+    "subjectId": 6,
+    "title": "MALARIA Plasmodium sp.",
+    "rotation": null
+  },
+  {
+    "id": 246,
+    "subjectId": 6,
+    "title": "CHAGAS Trypanosoma cruzi",
+    "rotation": null
+  },
+  {
+    "id": 247,
+    "subjectId": 6,
+    "title": "GÉNERO Leishmania sp.",
+    "rotation": null
+  },
+  {
+    "id": 248,
+    "subjectId": 6,
+    "title": "ENTOMOLOGÍA MÉDICA",
+    "rotation": null
+  },
+  {
+    "id": 249,
+    "subjectId": 6,
+    "title": "DIPTEROS Y MIASIS",
+    "rotation": null
+  },
+  {
+    "id": 250,
+    "subjectId": 6,
+    "title": "HEMÍPTEROS",
+    "rotation": null
+  },
+  {
+    "id": 251,
+    "subjectId": 6,
+    "title": "SIFONÁPTEROS, ANOPLUROS Y ÁCAROS",
+    "rotation": null
+  },
+  {
+    "id": 252,
+    "subjectId": 6,
+    "title": "GENERALIDADES DE LA MÍCOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 253,
+    "subjectId": 6,
+    "title": "MICOSIS SUPERFICIALES DERMATOFITOSIS O TIÑAS",
+    "rotation": null
+  },
+  {
+    "id": 254,
+    "subjectId": 6,
+    "title": "MICOSIS SUBCUTANEAS",
+    "rotation": null
+  },
+  {
+    "id": 255,
+    "subjectId": 6,
+    "title": "MICOSIS SISTÉMICAS Y OPORTUNISTAS",
+    "rotation": null
+  },
+  {
+    "id": 256,
+    "subjectId": 6,
+    "title": "PARASITOSIS Y DESNUTRICIÓN",
+    "rotation": null
+  },
+  {
+    "id": 257,
+    "subjectId": 6,
+    "title": "PARASITOSIS Y VIH-SIDA",
+    "rotation": null
+  },
+  {
+    "id": 258,
+    "subjectId": 7,
+    "title": "GENERALIDADES E HISTORIA DE LA MICROBIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 259,
+    "subjectId": 7,
+    "title": "ORIGEN DE LOS MICROORGANISMOS",
+    "rotation": null
+  },
+  {
+    "id": 260,
+    "subjectId": 7,
+    "title": "REINOS BIOLÓGICOS Y TAXONOMÍA BACTERIANA",
+    "rotation": null
+  },
+  {
+    "id": 261,
+    "subjectId": 7,
+    "title": "ESTRUCTURA BACTERIANA 1: C. PROCARIOTA, ENVOLTURAS",
+    "rotation": null
+  },
+  {
+    "id": 262,
+    "subjectId": 7,
+    "title": "ESTRUCTURA BACTERIANA 2: CONTENIDO",
+    "rotation": null
+  },
+  {
+    "id": 263,
+    "subjectId": 7,
+    "title": "MORFOLOGÍA BACTERIANA",
+    "rotation": null
+  },
+  {
+    "id": 264,
+    "subjectId": 7,
+    "title": "GENÉTICA BACTERIANA, FISIÓN BINARIA Y CRECIMIENTO BACT.",
+    "rotation": null
+  },
+  {
+    "id": 265,
+    "subjectId": 7,
+    "title": "METABOLISMO BACTERIANO",
+    "rotation": null
+  },
+  {
+    "id": 266,
+    "subjectId": 7,
+    "title": "ANTIMICROBIANOS 1: CONCEPTO, CLASIF., CIM, CBM",
+    "rotation": null
+  },
+  {
+    "id": 267,
+    "subjectId": 7,
+    "title": "ANTIMICROBIANOS 2: BETALACTÁMICOS Y OTROS",
+    "rotation": null
+  },
+  {
+    "id": 268,
+    "subjectId": 7,
+    "title": "MECANISMOS GENERALES DE RESISTENCIA BACTERIANA",
+    "rotation": null
+  },
+  {
+    "id": 269,
+    "subjectId": 7,
+    "title": "MECANISMO DE RESISTENCIA DE BACTERIAS GRAM +",
+    "rotation": null
+  },
+  {
+    "id": 270,
+    "subjectId": 7,
+    "title": "MECANISMO DE RESISTENCIA DE BACTERIAS GRAM -",
+    "rotation": null
+  },
+  {
+    "id": 271,
+    "subjectId": 7,
+    "title": "MICROBIOMA Y MICROBIOTA",
+    "rotation": null
+  },
+  {
+    "id": 272,
+    "subjectId": 7,
+    "title": "INTRODUCCIÓN A LA VIROLOGÍA: DESCRIPCIÓN.",
+    "rotation": null
+  },
+  {
+    "id": 273,
+    "subjectId": 7,
+    "title": "INTRODUCCIÓN A LA VIROLOGÍA: GENOMA, MUTACIÓN Y REPLICACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 274,
+    "subjectId": 7,
+    "title": "ANTIVIRALES",
+    "rotation": null
+  },
+  {
+    "id": 275,
+    "subjectId": 7,
+    "title": "TIPOS DE INMUNIDAD 1: INMUNIDAD INNATA",
+    "rotation": null
+  },
+  {
+    "id": 276,
+    "subjectId": 7,
+    "title": "TIPOS DE INMUNIDAD 2: INMUNIDAD ADQUIRIDA",
+    "rotation": null
+  },
+  {
+    "id": 277,
+    "subjectId": 7,
+    "title": "AG BACTERIANOS Y VIRALES, INMUNIDAD PASIVA, VACUNA",
+    "rotation": null
+  },
+  {
+    "id": 278,
+    "subjectId": 7,
+    "title": "ANTICUERPOS",
+    "rotation": null
+  },
+  {
+    "id": 279,
+    "subjectId": 7,
+    "title": "COMPLEMENTO",
+    "rotation": null
+  },
+  {
+    "id": 280,
+    "subjectId": 7,
+    "title": "HIPERSENSIBILIDAD",
+    "rotation": null
+  },
+  {
+    "id": 281,
+    "subjectId": 7,
+    "title": "CITOCINAS",
+    "rotation": null
+  },
+  {
+    "id": 282,
+    "subjectId": 7,
+    "title": "RESPUESTA FRENTE A INMUNÓGENOS BACTERIANOS",
+    "rotation": null
+  },
+  {
+    "id": 283,
+    "subjectId": 7,
+    "title": "MÉTODOS DE DIAGNÓSTICO INMUNOLÓGICO EN MICROB.",
+    "rotation": null
+  },
+  {
+    "id": 284,
+    "subjectId": 7,
+    "title": "Streptotococcus pyogenes",
+    "rotation": null
+  },
+  {
+    "id": 285,
+    "subjectId": 7,
+    "title": "Corynebacterium diphteriae",
+    "rotation": null
+  },
+  {
+    "id": 286,
+    "subjectId": 7,
+    "title": "Bordetella pertussis",
+    "rotation": null
+  },
+  {
+    "id": 287,
+    "subjectId": 7,
+    "title": "Rhinovirus",
+    "rotation": null
+  },
+  {
+    "id": 288,
+    "subjectId": 7,
+    "title": "Adenovirus",
+    "rotation": null
+  },
+  {
+    "id": 289,
+    "subjectId": 7,
+    "title": "Virus de la Influenza",
+    "rotation": null
+  },
+  {
+    "id": 290,
+    "subjectId": 7,
+    "title": "Virus de la Parainfluenza",
+    "rotation": null
+  },
+  {
+    "id": 291,
+    "subjectId": 7,
+    "title": "CORONAVIRUS, SARS, MERS",
+    "rotation": null
+  },
+  {
+    "id": 292,
+    "subjectId": 7,
+    "title": "SARS COV 2 – COVID-19",
+    "rotation": null
+  },
+  {
+    "id": 293,
+    "subjectId": 7,
+    "title": "Streptococcus pneumoniae",
+    "rotation": null
+  },
+  {
+    "id": 294,
+    "subjectId": 7,
+    "title": "Haemophilus influenzae",
+    "rotation": null
+  },
+  {
+    "id": 295,
+    "subjectId": 7,
+    "title": "Mycobacterium tuberculosis",
+    "rotation": null
+  },
+  {
+    "id": 296,
+    "subjectId": 7,
+    "title": "Chlamydophila pneumoniae",
+    "rotation": null
+  },
+  {
+    "id": 297,
+    "subjectId": 7,
+    "title": "Moraxella catarrhalis",
+    "rotation": null
+  },
+  {
+    "id": 298,
+    "subjectId": 7,
+    "title": "Mycoplasma pneumoniae",
+    "rotation": null
+  },
+  {
+    "id": 299,
+    "subjectId": 7,
+    "title": "VIRUS SINCITIAL RESPIRATORIO Y OTROS VIRUS RESPIRATORIOS",
+    "rotation": null
+  },
+  {
+    "id": 300,
+    "subjectId": 7,
+    "title": "Escherichia coli uro patógena Y OTRAS ENTEROBACTERIAS",
+    "rotation": null
+  },
+  {
+    "id": 301,
+    "subjectId": 7,
+    "title": "Staphylococcus spp.",
+    "rotation": null
+  },
+  {
+    "id": 302,
+    "subjectId": 7,
+    "title": "Enterococcus spp.",
+    "rotation": null
+  },
+  {
+    "id": 303,
+    "subjectId": 7,
+    "title": "Neisseria gonorrhoeae",
+    "rotation": null
+  },
+  {
+    "id": 304,
+    "subjectId": 7,
+    "title": "Treponema pallidum",
+    "rotation": null
+  },
+  {
+    "id": 305,
+    "subjectId": 7,
+    "title": "Haemophilus ducreyii",
+    "rotation": null
+  },
+  {
+    "id": 306,
+    "subjectId": 7,
+    "title": "VAGINOSIS BACTERIANA",
+    "rotation": null
+  },
+  {
+    "id": 307,
+    "subjectId": 7,
+    "title": "Chlamydia trachomatis, Mycoplasma, Ureaplasma",
+    "rotation": null
+  },
+  {
+    "id": 308,
+    "subjectId": 7,
+    "title": "HERPES SIMPLE TIPO 2",
+    "rotation": null
+  },
+  {
+    "id": 309,
+    "subjectId": 7,
+    "title": "VIRUS DEL MOLUSCO CONTAGIOSO",
+    "rotation": null
+  },
+  {
+    "id": 310,
+    "subjectId": 7,
+    "title": "PAPILOMAVIRUS VPH",
+    "rotation": null
+  },
+  {
+    "id": 311,
+    "subjectId": 7,
+    "title": "VIH-SIDA",
+    "rotation": null
+  },
+  {
+    "id": 312,
+    "subjectId": 7,
+    "title": "HEPATITIS B, C, D",
+    "rotation": null
+  },
+  {
+    "id": 313,
+    "subjectId": 7,
+    "title": "Escherichia coli",
+    "rotation": null
+  },
+  {
+    "id": 314,
+    "subjectId": 7,
+    "title": "Shigella",
+    "rotation": null
+  },
+  {
+    "id": 315,
+    "subjectId": 7,
+    "title": "Salmonella",
+    "rotation": null
+  },
+  {
+    "id": 316,
+    "subjectId": 7,
+    "title": "Vibrio cholerae",
+    "rotation": null
+  },
+  {
+    "id": 317,
+    "subjectId": 7,
+    "title": "Helycobacter pylori",
+    "rotation": null
+  },
+  {
+    "id": 318,
+    "subjectId": 7,
+    "title": "Campylobacter spp.",
+    "rotation": null
+  },
+  {
+    "id": 319,
+    "subjectId": 7,
+    "title": "Brucella spp",
+    "rotation": null
+  },
+  {
+    "id": 320,
+    "subjectId": 7,
+    "title": "Yersinia enterocolitica",
+    "rotation": null
+  },
+  {
+    "id": 321,
+    "subjectId": 7,
+    "title": "INT. AL. Clostridium botulinum",
+    "rotation": null
+  },
+  {
+    "id": 322,
+    "subjectId": 7,
+    "title": "INT. AL. Listeria,",
+    "rotation": null
+  },
+  {
+    "id": 323,
+    "subjectId": 7,
+    "title": "INT. AL. Bacillus cereus",
+    "rotation": null
+  },
+  {
+    "id": 324,
+    "subjectId": 7,
+    "title": "HEPATITIS A, E",
+    "rotation": null
+  },
+  {
+    "id": 325,
+    "subjectId": 7,
+    "title": "ENTEROVIRUS COMUNES: Rotavirus, Norovirus y otros",
+    "rotation": null
+  },
+  {
+    "id": 326,
+    "subjectId": 7,
+    "title": "Enterococcus spp. (CV)",
+    "rotation": null
+  },
+  {
+    "id": 327,
+    "subjectId": 7,
+    "title": "BACTERIAS ODONTOCARIO- GENICAS CARDIOPATÓGENAS",
+    "rotation": null
+  },
+  {
+    "id": 328,
+    "subjectId": 7,
+    "title": "COMPLEJO HACEK",
+    "rotation": null
+  },
+  {
+    "id": 329,
+    "subjectId": 7,
+    "title": "Staphylococcus aureus",
+    "rotation": null
+  },
+  {
+    "id": 330,
+    "subjectId": 7,
+    "title": "Bacillus anthracis",
+    "rotation": null
+  },
+  {
+    "id": 331,
+    "subjectId": 7,
+    "title": "Mycobacterium lepreae",
+    "rotation": null
+  },
+  {
+    "id": 332,
+    "subjectId": 7,
+    "title": "Clostridium perfringens",
+    "rotation": null
+  },
+  {
+    "id": 333,
+    "subjectId": 7,
+    "title": "Herpes virus",
+    "rotation": null
+  },
+  {
+    "id": 334,
+    "subjectId": 7,
+    "title": "VIRUS DEL SARAMPION",
+    "rotation": null
+  },
+  {
+    "id": 335,
+    "subjectId": 7,
+    "title": "VIRUS DE LA RUBEOLA",
+    "rotation": null
+  },
+  {
+    "id": 336,
+    "subjectId": 7,
+    "title": "PARVOVIRUS",
+    "rotation": null
+  },
+  {
+    "id": 337,
+    "subjectId": 7,
+    "title": "Neisseria meningitidis",
+    "rotation": null
+  },
+  {
+    "id": 338,
+    "subjectId": 7,
+    "title": "Streptococcus agalactiae",
+    "rotation": null
+  },
+  {
+    "id": 339,
+    "subjectId": 7,
+    "title": "Listeria monocytogenes",
+    "rotation": null
+  },
+  {
+    "id": 340,
+    "subjectId": 7,
+    "title": "VIRUS DE LA RABIA",
+    "rotation": null
+  },
+  {
+    "id": 341,
+    "subjectId": 7,
+    "title": "Clostridium tetani",
+    "rotation": null
+  },
+  {
+    "id": 342,
+    "subjectId": 7,
+    "title": "POLIOVIRUS",
+    "rotation": null
+  },
+  {
+    "id": 343,
+    "subjectId": 7,
+    "title": "PRIONES",
+    "rotation": null
+  },
+  {
+    "id": 344,
+    "subjectId": 7,
+    "title": "BACILOS GRAM – Pseudomonas aeruginosa",
+    "rotation": null
+  },
+  {
+    "id": 345,
+    "subjectId": 7,
+    "title": "COMPLEJO ACINETOBACTER",
+    "rotation": null
+  },
+  {
+    "id": 346,
+    "subjectId": 7,
+    "title": "Stenotrophomonas",
+    "rotation": null
+  },
+  {
+    "id": 347,
+    "subjectId": 7,
+    "title": "Maltophilia",
+    "rotation": null
+  },
+  {
+    "id": 348,
+    "subjectId": 7,
+    "title": "Burkholderia cepacia",
+    "rotation": null
+  },
+  {
+    "id": 349,
+    "subjectId": 7,
+    "title": "GRUPO KES (Klebsiella, Enterobacter, Serratia)",
+    "rotation": null
+  },
+  {
+    "id": 350,
+    "subjectId": 7,
+    "title": "Clostridioides difficile",
+    "rotation": null
+  },
+  {
+    "id": 351,
+    "subjectId": 7,
+    "title": "Leptospira spp.",
+    "rotation": null
+  },
+  {
+    "id": 352,
+    "subjectId": 7,
+    "title": "Borrelia spp.",
+    "rotation": null
+  },
+  {
+    "id": 353,
+    "subjectId": 7,
+    "title": "Yersinia pestis",
+    "rotation": null
+  },
+  {
+    "id": 354,
+    "subjectId": 7,
+    "title": "CITOMEGALOVIRUS",
+    "rotation": null
+  },
+  {
+    "id": 355,
+    "subjectId": 7,
+    "title": "FIEBRE AMARILLA",
+    "rotation": null
+  },
+  {
+    "id": 356,
+    "subjectId": 7,
+    "title": "FIEBRES HEMORRÁGICAS AMÉRICANAS (Marayo, Junin Oropuche, Machupo, Chapare)",
+    "rotation": null
+  },
+  {
+    "id": 357,
+    "subjectId": 7,
+    "title": "FIEBRES HEMORRÁGICAS AFRICANAS (Ébola y Lassa)",
+    "rotation": null
+  },
+  {
+    "id": 358,
+    "subjectId": 7,
+    "title": "DENGUE, ZIKA Y CHICUNGUÑA",
+    "rotation": null
+  },
+  {
+    "id": 359,
+    "subjectId": 7,
+    "title": "HANTAVIRUS",
+    "rotation": null
+  },
+  {
+    "id": 360,
+    "subjectId": 7,
+    "title": "VIRUELA Y VIRUELA SÍMICA",
+    "rotation": null
+  },
+  {
+    "id": 361,
+    "subjectId": 8,
+    "title": "BIOQUÍMICA Y MEDICINA",
+    "rotation": null
+  },
+  {
+    "id": 362,
+    "subjectId": 8,
+    "title": "AGUA Y PH",
+    "rotation": null
+  },
+  {
+    "id": 363,
+    "subjectId": 8,
+    "title": "AMINOÁCIDOS Y PÉPTIDOS",
+    "rotation": null
+  },
+  {
+    "id": 364,
+    "subjectId": 8,
+    "title": "PROTEINAS I. ESTRUCTURA PRIMARIA",
+    "rotation": null
+  },
+  {
+    "id": 365,
+    "subjectId": 8,
+    "title": "PROTEINAS II. ESTRUCTURA SECUNDARIA",
+    "rotation": null
+  },
+  {
+    "id": 366,
+    "subjectId": 8,
+    "title": "PROTEINAS III. HEMOGLOBINA Y MIOGLOBINA",
+    "rotation": null
+  },
+  {
+    "id": 367,
+    "subjectId": 8,
+    "title": "ENZIMAS I. MECANISMO DE ACCIÓN",
+    "rotation": null
+  },
+  {
+    "id": 368,
+    "subjectId": 8,
+    "title": "ENZIMAS II. CINÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 369,
+    "subjectId": 8,
+    "title": "ENZIMAS III. REGULACIÓN DE ACTIVIDADES",
+    "rotation": null
+  },
+  {
+    "id": 370,
+    "subjectId": 8,
+    "title": "ROL BIOQUÍMICO DE LOS METALES EN TRANSICIÓN.",
+    "rotation": null
+  },
+  {
+    "id": 371,
+    "subjectId": 8,
+    "title": "BIOENERGÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 372,
+    "subjectId": 8,
+    "title": "OXIDACIÓN BIOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 373,
+    "subjectId": 8,
+    "title": "LA CADENA RESPIRATORIA Y FOSFORILACIÓN OXIDATIVA",
+    "rotation": null
+  },
+  {
+    "id": 374,
+    "subjectId": 8,
+    "title": "VISIÓN GENERAL DEL METABOLISMO",
+    "rotation": null
+  },
+  {
+    "id": 375,
+    "subjectId": 8,
+    "title": "CARBOHIDRATOS IMPORTANTES",
+    "rotation": null
+  },
+  {
+    "id": 376,
+    "subjectId": 8,
+    "title": "GLUCOLISIS Y OXIDACIÓN DE PIRUVATO",
+    "rotation": null
+  },
+  {
+    "id": 377,
+    "subjectId": 8,
+    "title": "EL CICLO DEL ÁCIDO CÍTRICO",
+    "rotation": null
+  },
+  {
+    "id": 378,
+    "subjectId": 8,
+    "title": "METABOLISMO DEL GLUCÓGENO",
+    "rotation": null
+  },
+  {
+    "id": 379,
+    "subjectId": 8,
+    "title": "GLUCONEOGÉNESIS",
+    "rotation": null
+  },
+  {
+    "id": 380,
+    "subjectId": 8,
+    "title": "LA VÍA DE LA PENTOSA FOSFATO Y OTRAS VÍAS MET.",
+    "rotation": null
+  },
+  {
+    "id": 381,
+    "subjectId": 8,
+    "title": "LÍPIDOS IMPORTANTES DESDE EL POV FISIOLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 382,
+    "subjectId": 8,
+    "title": "OXIDACIÓN DE ÁCIDOS GRASOS / CETOGÉNESIS",
+    "rotation": null
+  },
+  {
+    "id": 383,
+    "subjectId": 8,
+    "title": "BIOSÍNTESIS DE ÁCIDOS GRASOS Y EICOSANOIDES",
+    "rotation": null
+  },
+  {
+    "id": 384,
+    "subjectId": 8,
+    "title": "METABOLISMO DE ACILGLICEROL Y ESFINGOLIP.",
+    "rotation": null
+  },
+  {
+    "id": 385,
+    "subjectId": 8,
+    "title": "LÍPIDOS: TRANSPORTE Y ALMACENAMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 386,
+    "subjectId": 8,
+    "title": "SÍNTESIS, TRANSPORTE Y EXCRECIÓN DE COLESTEROL",
+    "rotation": null
+  },
+  {
+    "id": 387,
+    "subjectId": 8,
+    "title": "BIOSÍNTESIS DE LOS AAs NO ESENCIALES",
+    "rotation": null
+  },
+  {
+    "id": 388,
+    "subjectId": 8,
+    "title": "CATABOLISMO DE PROTEINAS Y DEL NITRÓGENO DE AAs",
+    "rotation": null
+  },
+  {
+    "id": 389,
+    "subjectId": 8,
+    "title": "CATABOLISMO DE ESQUELETO DE CARBONO DE AAs",
+    "rotation": null
+  },
+  {
+    "id": 390,
+    "subjectId": 8,
+    "title": "CONVERSIÓN DE AAs EN PRODUCTOS ESPECIALIZADOS",
+    "rotation": null
+  },
+  {
+    "id": 391,
+    "subjectId": 8,
+    "title": "PROTEINAS PLASMÁTICAS E INMUNOGLOBULINAS",
+    "rotation": null
+  },
+  {
+    "id": 392,
+    "subjectId": 8,
+    "title": "PORFIRINA Y PIGMENTOS BILIARES",
+    "rotation": null
+  },
+  {
+    "id": 393,
+    "subjectId": 8,
+    "title": "CONTEXTO HISTÓRICO DE LA BIOLOGÍA MOLECULAR / COMPUTAC. Y BIOTECNOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 394,
+    "subjectId": 8,
+    "title": "NUCLEÓTIDOS",
+    "rotation": null
+  },
+  {
+    "id": 395,
+    "subjectId": 8,
+    "title": "METAB. DE NUCLEÓTIDOS: PURINAS Y PIRIMIDINAS",
+    "rotation": null
+  },
+  {
+    "id": 396,
+    "subjectId": 8,
+    "title": "ESTRUCTURA Y FUNCIÓN DEL ÁCIDO NUCLEICO",
+    "rotation": null
+  },
+  {
+    "id": 397,
+    "subjectId": 8,
+    "title": "ORGANIZACIÓN, REPLICACIÓN Y REPARACIÓN DEL DNA",
+    "rotation": null
+  },
+  {
+    "id": 398,
+    "subjectId": 8,
+    "title": "SÍNTESIS, PROCESAMIENTO Y MODIFICACIÓN DEL RNA",
+    "rotation": null
+  },
+  {
+    "id": 399,
+    "subjectId": 8,
+    "title": "SÍNTESIS DE PROTEINAS / CÓDIGO GENÉTICO",
+    "rotation": null
+  },
+  {
+    "id": 400,
+    "subjectId": 8,
+    "title": "REGULACIÓN DE LA EXPRESIÓN GÉNICA",
+    "rotation": null
+  },
+  {
+    "id": 401,
+    "subjectId": 8,
+    "title": "GENÉTICA MOLECULAR, DNA RECOMBINANTE, TEC. GENÓM.",
+    "rotation": null
+  },
+  {
+    "id": 402,
+    "subjectId": 8,
+    "title": "MEMBRANA CELULAR: ESTRUCTURA Y FUNCIÓN",
+    "rotation": null
+  },
+  {
+    "id": 403,
+    "subjectId": 8,
+    "title": "LA DIVERSIDAD DEL SISTEMA ENDÓCRINO",
+    "rotation": null
+  },
+  {
+    "id": 404,
+    "subjectId": 8,
+    "title": "ACCIÓN HORMONAL Y TRANSDUCCIÓN DE SEÑAL",
+    "rotation": null
+  },
+  {
+    "id": 405,
+    "subjectId": 8,
+    "title": "BIOQUÍMICA EN NUTRICIÓN: ABSORCIÓN Y DIGESTIÓN",
+    "rotation": null
+  },
+  {
+    "id": 406,
+    "subjectId": 8,
+    "title": "MICRONUTRIENTES: VITAMINAS Y MINERALES",
+    "rotation": null
+  },
+  {
+    "id": 407,
+    "subjectId": 8,
+    "title": "RADICALES, GLUCOPROTEINAS, XENOBIÓTICO, ANTIOXIDANTE",
+    "rotation": null
+  },
+  {
+    "id": 408,
+    "subjectId": 8,
+    "title": "BIOQUIMICA CLÍNICA Y TEMAS ESPECIALES: CELULAS Y MATRIZ",
+    "rotation": null
+  },
+  {
+    "id": 409,
+    "subjectId": 8,
+    "title": "CÁNCER:PERSPECTIVA GENERAL",
+    "rotation": null
+  },
+  {
+    "id": 410,
+    "subjectId": 8,
+    "title": "BIOQUÍMICA DEL ENVEJECIMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 411,
+    "subjectId": 9,
+    "title": "GENERALIDADES: ESTADÍSTICA DESCRIPTIVA EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 412,
+    "subjectId": 9,
+    "title": "METODOLOGÍA ESTADISTICA",
+    "rotation": null
+  },
+  {
+    "id": 413,
+    "subjectId": 9,
+    "title": "ELABORACIÓN DEL INSTRUMENTO ESTADÍSTICO",
+    "rotation": null
+  },
+  {
+    "id": 414,
+    "subjectId": 9,
+    "title": "PRESENTACIÓN DE DATOS",
+    "rotation": null
+  },
+  {
+    "id": 415,
+    "subjectId": 9,
+    "title": "MEDIDAS DE TENDENCIA CENTRAL",
+    "rotation": null
+  },
+  {
+    "id": 416,
+    "subjectId": 9,
+    "title": "MEDIDAS DE DISPERSIÓN",
+    "rotation": null
+  },
+  {
+    "id": 417,
+    "subjectId": 9,
+    "title": "MEDIDAS DE POSICIÓN, MEDIDAS DE FORMA",
+    "rotation": null
+  },
+  {
+    "id": 418,
+    "subjectId": 9,
+    "title": "DISTRIBUCIÓN NORMAL / CAMPANA DE GAUSS",
+    "rotation": null
+  },
+  {
+    "id": 419,
+    "subjectId": 9,
+    "title": "GENERALIDADES: ESTADÍSTICA INFERENCIAL EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 420,
+    "subjectId": 9,
+    "title": "HIPÓTESIS, IC",
+    "rotation": null
+  },
+  {
+    "id": 421,
+    "subjectId": 9,
+    "title": "SIGNIFICANCIA ESTADÍSTICA",
+    "rotation": null
+  },
+  {
+    "id": 422,
+    "subjectId": 9,
+    "title": "PRUEBA ESTADÍSTICA: ¨T¨ DE STUDENT Y TIPIFICACIÓN ¨Z¨",
+    "rotation": null
+  },
+  {
+    "id": 423,
+    "subjectId": 9,
+    "title": "PRUEBA ESTADÍSTICA: ¨CHI CUADRADO¨,¨R DE PEARSON¨",
+    "rotation": null
+  },
+  {
+    "id": 424,
+    "subjectId": 9,
+    "title": "ESTADÍSTICA BIVARIANTE Y REGRESIÓN LINEAL",
+    "rotation": null
+  },
+  {
+    "id": 425,
+    "subjectId": 9,
+    "title": "VARIABLES Y MUESTRA",
+    "rotation": null
+  },
+  {
+    "id": 426,
+    "subjectId": 9,
+    "title": "POBLACIÓN Y DESARROLLO",
+    "rotation": null
+  },
+  {
+    "id": 427,
+    "subjectId": 9,
+    "title": "SISTEMAS DE INFORMACIÓN DEMOGRÁFICA",
+    "rotation": null
+  },
+  {
+    "id": 428,
+    "subjectId": 9,
+    "title": "INDICADORES DEMOGRÁFICOS Y DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 429,
+    "subjectId": 9,
+    "title": "COMPOSICIÓN DE LA POB. EDAD,SEXO,PIRAMIDE DE POB",
+    "rotation": null
+  },
+  {
+    "id": 430,
+    "subjectId": 9,
+    "title": "DISTRIBUCIÓN ESPACIAL DE LA POBLACIÓN Y SALUD",
+    "rotation": null
+  },
+  {
+    "id": 431,
+    "subjectId": 9,
+    "title": "DINÁMICAS DE POBLACIÓN: FECUNDIDAD",
+    "rotation": null
+  },
+  {
+    "id": 432,
+    "subjectId": 9,
+    "title": "MIGRACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 433,
+    "subjectId": 9,
+    "title": "MORTALIDAD",
+    "rotation": null
+  },
+  {
+    "id": 434,
+    "subjectId": 9,
+    "title": "TRANSICIÓN DEMOGRÁFICA",
+    "rotation": null
+  },
+  {
+    "id": 435,
+    "subjectId": 9,
+    "title": "POLÍTICAS DE POBLACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 436,
+    "subjectId": 9,
+    "title": "LA CIENCIA: MÉTODO CIENTÍFICO",
+    "rotation": null
+  },
+  {
+    "id": 437,
+    "subjectId": 9,
+    "title": "EL CONOCIMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 438,
+    "subjectId": 9,
+    "title": "EL TRABAJO CIENTÍFICO",
+    "rotation": null
+  },
+  {
+    "id": 439,
+    "subjectId": 9,
+    "title": "BIBLIOGRAFÍA",
+    "rotation": null
+  },
+  {
+    "id": 440,
+    "subjectId": 9,
+    "title": "PROBLEMA DE INVESTIGACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 441,
+    "subjectId": 9,
+    "title": "JUSTIFICACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 442,
+    "subjectId": 9,
+    "title": "MARCO TEÓRICO",
+    "rotation": null
+  },
+  {
+    "id": 443,
+    "subjectId": 9,
+    "title": "OBJETIVOS",
+    "rotation": null
+  },
+  {
+    "id": 444,
+    "subjectId": 9,
+    "title": "VARIABLES",
+    "rotation": null
+  },
+  {
+    "id": 445,
+    "subjectId": 9,
+    "title": "DISEÑO METODOLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 446,
+    "subjectId": 9,
+    "title": "DISCUSIÓN Y RESULTADOS",
+    "rotation": null
+  },
+  {
+    "id": 447,
+    "subjectId": 9,
+    "title": "ELABORACIÓN DE PERFIL DE INVESTIGACIÓN/PROTOCOLO",
+    "rotation": null
+  },
+  {
+    "id": 448,
+    "subjectId": 9,
+    "title": "BIOÉTICA EN INVESTIGACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 449,
+    "subjectId": 9,
+    "title": "LA MEDICINA PRIMITIVA",
+    "rotation": null
+  },
+  {
+    "id": 450,
+    "subjectId": 9,
+    "title": "LA MEDICINA EN LA EDAD ANTIGUA",
+    "rotation": null
+  },
+  {
+    "id": 451,
+    "subjectId": 9,
+    "title": "MEDICINA EN LA EDAD MEDIA",
+    "rotation": null
+  },
+  {
+    "id": 452,
+    "subjectId": 9,
+    "title": "HITOS DE LA MEDICINA DEL RENACIMIENTO Y MODERNA",
+    "rotation": null
+  },
+  {
+    "id": 453,
+    "subjectId": 9,
+    "title": "LA MEDICINA PRECOLOMBINA Y COLONIAL EN BOLIVIA",
+    "rotation": null
+  },
+  {
+    "id": 454,
+    "subjectId": 9,
+    "title": "PRINCIPALES MEDIDAS DE SALUD PÚBLICA",
+    "rotation": null
+  },
+  {
+    "id": 455,
+    "subjectId": 9,
+    "title": "PRINCIPIOS DE ÉTICA MÉDICA",
+    "rotation": null
+  },
+  {
+    "id": 456,
+    "subjectId": 9,
+    "title": "CÓDIGO DE ÉTICA MÉDICA",
+    "rotation": null
+  },
+  {
+    "id": 457,
+    "subjectId": 10,
+    "title": "GENERALIDADES DE FSP C-GCM",
+    "rotation": null
+  },
+  {
+    "id": 458,
+    "subjectId": 10,
+    "title": "FLOGOSIS",
+    "rotation": null
+  },
+  {
+    "id": 459,
+    "subjectId": 10,
+    "title": "TORMENTA CITOKINICA EN COVID-19",
+    "rotation": null
+  },
+  {
+    "id": 460,
+    "subjectId": 10,
+    "title": "SEPSIS",
+    "rotation": null
+  },
+  {
+    "id": 461,
+    "subjectId": 10,
+    "title": "SEPSIS Y COVID-19",
+    "rotation": null
+  },
+  {
+    "id": 462,
+    "subjectId": 10,
+    "title": "FIEBRE",
+    "rotation": null
+  },
+  {
+    "id": 463,
+    "subjectId": 10,
+    "title": "EDEMA",
+    "rotation": null
+  },
+  {
+    "id": 464,
+    "subjectId": 10,
+    "title": "TRASTORNOS HIDROELECTROLÍTICOS",
+    "rotation": null
+  },
+  {
+    "id": 465,
+    "subjectId": 10,
+    "title": "TRASTORNOS ÁCIDO-BASE",
+    "rotation": null
+  },
+  {
+    "id": 466,
+    "subjectId": 10,
+    "title": "SHOCK",
+    "rotation": null
+  },
+  {
+    "id": 467,
+    "subjectId": 10,
+    "title": "DOLOR",
+    "rotation": null
+  },
+  {
+    "id": 468,
+    "subjectId": 10,
+    "title": "RESPUESTA METABÓLICA AL TRAUMA",
+    "rotation": null
+  },
+  {
+    "id": 469,
+    "subjectId": 10,
+    "title": "GLUCOCALIX: BASES GENOCITOMOLECULARES",
+    "rotation": null
+  },
+  {
+    "id": 470,
+    "subjectId": 10,
+    "title": "DOLOR TORÁCICO",
+    "rotation": null
+  },
+  {
+    "id": 471,
+    "subjectId": 10,
+    "title": "ARRITMIAS",
+    "rotation": null
+  },
+  {
+    "id": 472,
+    "subjectId": 10,
+    "title": "HAS: HIPERTENSIÓN ARTERIAL",
+    "rotation": null
+  },
+  {
+    "id": 473,
+    "subjectId": 10,
+    "title": "VALVULOPATÍAS",
+    "rotation": null
+  },
+  {
+    "id": 474,
+    "subjectId": 10,
+    "title": "IC: INSUFICIENCIA CARDIACA",
+    "rotation": null
+  },
+  {
+    "id": 475,
+    "subjectId": 10,
+    "title": "CID: COAG. INTRAV. DISEMIN.",
+    "rotation": null
+  },
+  {
+    "id": 476,
+    "subjectId": 10,
+    "title": "COAGULOPATIAS",
+    "rotation": null
+  },
+  {
+    "id": 477,
+    "subjectId": 10,
+    "title": "ANEMIAS",
+    "rotation": null
+  },
+  {
+    "id": 478,
+    "subjectId": 10,
+    "title": "COVID-19 Y CARDIOPATÍAS",
+    "rotation": null
+  },
+  {
+    "id": 479,
+    "subjectId": 10,
+    "title": "EPOC",
+    "rotation": null
+  },
+  {
+    "id": 480,
+    "subjectId": 10,
+    "title": "TEP",
+    "rotation": null
+  },
+  {
+    "id": 481,
+    "subjectId": 10,
+    "title": "ASMA",
+    "rotation": null
+  },
+  {
+    "id": 482,
+    "subjectId": 10,
+    "title": "NEUMONÍA",
+    "rotation": null
+  },
+  {
+    "id": 483,
+    "subjectId": 10,
+    "title": "SDRA",
+    "rotation": null
+  },
+  {
+    "id": 484,
+    "subjectId": 10,
+    "title": "SDRA EN COVID-19",
+    "rotation": null
+  },
+  {
+    "id": 485,
+    "subjectId": 10,
+    "title": "INSUFICIENCIA RESPIRATORIA AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 486,
+    "subjectId": 10,
+    "title": "EAPA",
+    "rotation": null
+  },
+  {
+    "id": 487,
+    "subjectId": 10,
+    "title": "ENFERMEDAD DE MONJE",
+    "rotation": null
+  },
+  {
+    "id": 488,
+    "subjectId": 10,
+    "title": "ERITROCITOSIS",
+    "rotation": null
+  },
+  {
+    "id": 489,
+    "subjectId": 10,
+    "title": "HAS EN LA ALTURA",
+    "rotation": null
+  },
+  {
+    "id": 490,
+    "subjectId": 10,
+    "title": "HIPERTENSION ARTERIAL PULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 491,
+    "subjectId": 10,
+    "title": "DOLOR DIGESTIVO",
+    "rotation": null
+  },
+  {
+    "id": 492,
+    "subjectId": 10,
+    "title": "SX DIARRÉICO",
+    "rotation": null
+  },
+  {
+    "id": 493,
+    "subjectId": 10,
+    "title": "SX ULCEROPÉPTICO",
+    "rotation": null
+  },
+  {
+    "id": 494,
+    "subjectId": 10,
+    "title": "HIPERTENSIÓN PORTAL",
+    "rotation": null
+  },
+  {
+    "id": 495,
+    "subjectId": 10,
+    "title": "SX ICTÉRICO",
+    "rotation": null
+  },
+  {
+    "id": 496,
+    "subjectId": 10,
+    "title": "PANCREATITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 497,
+    "subjectId": 10,
+    "title": "SX HEPATORENAL",
+    "rotation": null
+  },
+  {
+    "id": 498,
+    "subjectId": 10,
+    "title": "INSUFICIENCIA HEPÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 499,
+    "subjectId": 10,
+    "title": "DOLOR GENITOURINARIO",
+    "rotation": null
+  },
+  {
+    "id": 500,
+    "subjectId": 10,
+    "title": "PRUEBA FUNCIONAL RENAL",
+    "rotation": null
+  },
+  {
+    "id": 501,
+    "subjectId": 10,
+    "title": "SX NEFRITICO",
+    "rotation": null
+  },
+  {
+    "id": 502,
+    "subjectId": 10,
+    "title": "SX NEFROTICO",
+    "rotation": null
+  },
+  {
+    "id": 503,
+    "subjectId": 10,
+    "title": "INSUFICIENCIA RENAL AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 504,
+    "subjectId": 10,
+    "title": "IRA Y COVID-19",
+    "rotation": null
+  },
+  {
+    "id": 505,
+    "subjectId": 10,
+    "title": "FSP - INSUFICIENCIA RENAL CRÓNICA",
+    "rotation": null
+  },
+  {
+    "id": 506,
+    "subjectId": 10,
+    "title": "FSP - CEFALEA",
+    "rotation": null
+  },
+  {
+    "id": 507,
+    "subjectId": 10,
+    "title": "FSP - COMA NEUROLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 508,
+    "subjectId": 10,
+    "title": "FSP - HIPERTENSIÓN INTRACRANEAL",
+    "rotation": null
+  },
+  {
+    "id": 509,
+    "subjectId": 10,
+    "title": "FSP - SX CONVULSIVO",
+    "rotation": null
+  },
+  {
+    "id": 510,
+    "subjectId": 10,
+    "title": "FSP - AVE",
+    "rotation": null
+  },
+  {
+    "id": 511,
+    "subjectId": 10,
+    "title": "PARÁLISIS",
+    "rotation": null
+  },
+  {
+    "id": 512,
+    "subjectId": 10,
+    "title": "ALTERACIONES DEL EJE HIPOTÁLAMO-HIPÓFISIS",
+    "rotation": null
+  },
+  {
+    "id": 513,
+    "subjectId": 10,
+    "title": "FSP - HIPERTIROIDISMO",
+    "rotation": null
+  },
+  {
+    "id": 514,
+    "subjectId": 10,
+    "title": "FSP - HIPOTIROIDISMO",
+    "rotation": null
+  },
+  {
+    "id": 515,
+    "subjectId": 10,
+    "title": "FSP - HIPERPARATIROIDISMO",
+    "rotation": null
+  },
+  {
+    "id": 516,
+    "subjectId": 10,
+    "title": "FSP - HIPOPARATIROIDISMO",
+    "rotation": null
+  },
+  {
+    "id": 517,
+    "subjectId": 10,
+    "title": "HIPERFUNCIÓN ADRENAL",
+    "rotation": null
+  },
+  {
+    "id": 518,
+    "subjectId": 10,
+    "title": "HIPOFUNCIÓN ADRENAL",
+    "rotation": null
+  },
+  {
+    "id": 519,
+    "subjectId": 10,
+    "title": "DIABETES MELLITUS",
+    "rotation": null
+  },
+  {
+    "id": 520,
+    "subjectId": 10,
+    "title": "CETOSIS DIABÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 521,
+    "subjectId": 10,
+    "title": "ESTADO HIPEROSMOLAR",
+    "rotation": null
+  },
+  {
+    "id": 522,
+    "subjectId": 10,
+    "title": "SX METABÓLICO",
+    "rotation": null
+  },
+  {
+    "id": 523,
+    "subjectId": 11,
+    "title": "GENERALIDADES DE LA FARMACOLOGIA",
+    "rotation": null
+  },
+  {
+    "id": 524,
+    "subjectId": 11,
+    "title": "ABSORCIÓN, DISTRIBUCIÓN Y EXCRECIÓN",
+    "rotation": null
+  },
+  {
+    "id": 525,
+    "subjectId": 11,
+    "title": "METABOLISMO DE LOS FÁRMACOS",
+    "rotation": null
+  },
+  {
+    "id": 526,
+    "subjectId": 11,
+    "title": "FARMACODINAMIA",
+    "rotation": null
+  },
+  {
+    "id": 527,
+    "subjectId": 11,
+    "title": "FARMACOTOXICIDAD Y FARMACOVIGILANCIA",
+    "rotation": null
+  },
+  {
+    "id": 528,
+    "subjectId": 11,
+    "title": "GENERALIDADES DE LOS ANTIMICROBIANOS",
+    "rotation": null
+  },
+  {
+    "id": 529,
+    "subjectId": 11,
+    "title": "BETALACTÁMICOS (PENICILINAS Y CEFALOSPORINAS)",
+    "rotation": null
+  },
+  {
+    "id": 530,
+    "subjectId": 11,
+    "title": "MONOBACTÁMICOS Y CARBAPENEMES + GLUCOPÉPTIDOS",
+    "rotation": null
+  },
+  {
+    "id": 531,
+    "subjectId": 11,
+    "title": "AMINOGLUCÓSIDOS, MACRÓLIDOS Y LINCOSAMIDAS",
+    "rotation": null
+  },
+  {
+    "id": 532,
+    "subjectId": 11,
+    "title": "TETRACICLINAS Y CLORANFENICOL",
+    "rotation": null
+  },
+  {
+    "id": 533,
+    "subjectId": 11,
+    "title": "SULFAS, QUINOLONAS Y NITROFURANOS",
+    "rotation": null
+  },
+  {
+    "id": 534,
+    "subjectId": 11,
+    "title": "ANTITUBERCULOSOS",
+    "rotation": null
+  },
+  {
+    "id": 535,
+    "subjectId": 11,
+    "title": "ANTIMICÓTICOS",
+    "rotation": null
+  },
+  {
+    "id": 536,
+    "subjectId": 11,
+    "title": "ANTIPROTOZOARIOS",
+    "rotation": null
+  },
+  {
+    "id": 537,
+    "subjectId": 11,
+    "title": "ANTIHELMÍNTICOS",
+    "rotation": null
+  },
+  {
+    "id": 538,
+    "subjectId": 11,
+    "title": "ANTIVIRALES",
+    "rotation": null
+  },
+  {
+    "id": 539,
+    "subjectId": 11,
+    "title": "AGONISTAS ADRENÉRGICOS (AMINAS SIMPATICOMIMÉTICAS)",
+    "rotation": null
+  },
+  {
+    "id": 540,
+    "subjectId": 11,
+    "title": "ANTAGONISTAS ADRENÉRGICOS",
+    "rotation": null
+  },
+  {
+    "id": 541,
+    "subjectId": 11,
+    "title": "AGONISTAS COLINÉRGICOS",
+    "rotation": null
+  },
+  {
+    "id": 542,
+    "subjectId": 11,
+    "title": "ANTAGONISTAS COLINÉRGICOS",
+    "rotation": null
+  },
+  {
+    "id": 543,
+    "subjectId": 11,
+    "title": "ANTIHISTAMÍNICOS",
+    "rotation": null
+  },
+  {
+    "id": 544,
+    "subjectId": 11,
+    "title": "ANESTÉSICOS LOCALES",
+    "rotation": null
+  },
+  {
+    "id": 545,
+    "subjectId": 11,
+    "title": "ANESTÉSICOS GENERALES",
+    "rotation": null
+  },
+  {
+    "id": 546,
+    "subjectId": 11,
+    "title": "BENZODIACEPINAS",
+    "rotation": null
+  },
+  {
+    "id": 547,
+    "subjectId": 11,
+    "title": "ANTICONVULSIVANTES",
+    "rotation": null
+  },
+  {
+    "id": 548,
+    "subjectId": 11,
+    "title": "OPIOIDES (HIPNOANALGÉSICOS)",
+    "rotation": null
+  },
+  {
+    "id": 549,
+    "subjectId": 11,
+    "title": "AINES",
+    "rotation": null
+  },
+  {
+    "id": 550,
+    "subjectId": 11,
+    "title": "DIURÉTICOS",
+    "rotation": null
+  },
+  {
+    "id": 551,
+    "subjectId": 11,
+    "title": "ANTIHIPERTENSIVOS",
+    "rotation": null
+  },
+  {
+    "id": 552,
+    "subjectId": 11,
+    "title": "ANTAGONISTAS DEL CALCIO",
+    "rotation": null
+  },
+  {
+    "id": 553,
+    "subjectId": 11,
+    "title": "HIPOLIPEMIANTES",
+    "rotation": null
+  },
+  {
+    "id": 554,
+    "subjectId": 11,
+    "title": "DIGITÁLICOS Y ANTIANGINOSOS",
+    "rotation": null
+  },
+  {
+    "id": 555,
+    "subjectId": 11,
+    "title": "ANTICOAGULANTES Y ANTIANÉMICOS",
+    "rotation": null
+  },
+  {
+    "id": 556,
+    "subjectId": 11,
+    "title": "CORTICOSTEROIDES",
+    "rotation": null
+  },
+  {
+    "id": 557,
+    "subjectId": 11,
+    "title": "INSULINA Y ADOS",
+    "rotation": null
+  },
+  {
+    "id": 558,
+    "subjectId": 11,
+    "title": "FARM. GÁSTRICA Y ANTIÁCIDOS",
+    "rotation": null
+  },
+  {
+    "id": 559,
+    "subjectId": 11,
+    "title": "MOTILIDAD INTESTINAL",
+    "rotation": null
+  },
+  {
+    "id": 560,
+    "subjectId": 11,
+    "title": "MOTILIDAD UTERINA",
+    "rotation": null
+  },
+  {
+    "id": 561,
+    "subjectId": 11,
+    "title": "ANTITUSÍGENOS",
+    "rotation": null
+  },
+  {
+    "id": 562,
+    "subjectId": 11,
+    "title": "OTROS MEDICAMENTOS",
+    "rotation": null
+  },
+  {
+    "id": 563,
+    "subjectId": 12,
+    "title": "INTRODUCCIÓN, AUTOPSIA Y MANEJO DE BIOPSIAS",
+    "rotation": null
+  },
+  {
+    "id": 564,
+    "subjectId": 12,
+    "title": "ADAPTACIÓN, LESIÓN CELULAR, NECROSIS, APOPTOSIS Y ACÚMULOS INTRACELULARES",
+    "rotation": null
+  },
+  {
+    "id": 565,
+    "subjectId": 12,
+    "title": "INFLAMACIÓN Y REPARACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 566,
+    "subjectId": 12,
+    "title": "TRASTORNOS CIRCULATORIOS",
+    "rotation": null
+  },
+  {
+    "id": 567,
+    "subjectId": 12,
+    "title": "ENFERMEDADES GENÉTICAS, G- O-P, E INMUNITARIAS",
+    "rotation": null
+  },
+  {
+    "id": 568,
+    "subjectId": 12,
+    "title": "TRASTORNO DEL CRECIMIENTO Y DIFERENCIACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 569,
+    "subjectId": 12,
+    "title": "NEOPLASIAS",
+    "rotation": null
+  },
+  {
+    "id": 570,
+    "subjectId": 12,
+    "title": "PAT. MEDIOAMBIENTAL Y EN NUTRICIÓN",
+    "rotation": null
+  },
+  {
+    "id": 571,
+    "subjectId": 12,
+    "title": "PATOLOGÍA INFECCIOSA",
+    "rotation": null
+  },
+  {
+    "id": 572,
+    "subjectId": 12,
+    "title": "PATOLOGÍA CARDIOVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 573,
+    "subjectId": 12,
+    "title": "PATOLOGÍA RESPIRATORIA",
+    "rotation": null
+  },
+  {
+    "id": 574,
+    "subjectId": 12,
+    "title": "PATOLOGÍA HEMOLINFÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 575,
+    "subjectId": 12,
+    "title": "PATOLOGÍA DE CABEZA Y CUELLO",
+    "rotation": null
+  },
+  {
+    "id": 576,
+    "subjectId": 12,
+    "title": "PATOLOGÍA DEL TUBO DIGESTIVO",
+    "rotation": null
+  },
+  {
+    "id": 577,
+    "subjectId": 12,
+    "title": "PATOLOGÍA HEPATO-BILIAR",
+    "rotation": null
+  },
+  {
+    "id": 578,
+    "subjectId": 12,
+    "title": "PATOLOGÍA PANCREÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 579,
+    "subjectId": 12,
+    "title": "PATOLOGÍA RENAL",
+    "rotation": null
+  },
+  {
+    "id": 580,
+    "subjectId": 12,
+    "title": "PATOLOGÍA UROLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 581,
+    "subjectId": 12,
+    "title": "PATOLOGÍA GENITAL MASCULINA",
+    "rotation": null
+  },
+  {
+    "id": 582,
+    "subjectId": 12,
+    "title": "PATOLOGÍA GENITAL FEMENINA",
+    "rotation": null
+  },
+  {
+    "id": 583,
+    "subjectId": 12,
+    "title": "PATOLOGÍA OBSTÉTRICA",
+    "rotation": null
+  },
+  {
+    "id": 584,
+    "subjectId": 12,
+    "title": "PATOLOGÍA MAMARIA",
+    "rotation": null
+  },
+  {
+    "id": 585,
+    "subjectId": 12,
+    "title": "PATOLOGÍA OSTEOARTICULAR",
+    "rotation": null
+  },
+  {
+    "id": 586,
+    "subjectId": 12,
+    "title": "PATOLOGÍA DE PARTES BLANDAS",
+    "rotation": null
+  },
+  {
+    "id": 587,
+    "subjectId": 12,
+    "title": "PATOLOGÍA ENDÓCRINA",
+    "rotation": null
+  },
+  {
+    "id": 588,
+    "subjectId": 12,
+    "title": "PATOLOGÍA DE PIEL",
+    "rotation": null
+  },
+  {
+    "id": 589,
+    "subjectId": 12,
+    "title": "PATOLOGÍA DEL SNC / OJO",
+    "rotation": null
+  },
+  {
+    "id": 590,
+    "subjectId": 12,
+    "title": "PATOLOGÍA DEL SNP",
+    "rotation": null
+  },
+  {
+    "id": 591,
+    "subjectId": 12,
+    "title": "BIOÉTICA APLICADA A LA PATOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 592,
+    "subjectId": 13,
+    "title": "GENERALIDADES DE LA SEMIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 593,
+    "subjectId": 13,
+    "title": "HISTORIA CLÍNICA Y EXPEDIENTE CLÍNICO",
+    "rotation": null
+  },
+  {
+    "id": 594,
+    "subjectId": 13,
+    "title": "SÍNTOMAS Y SIGNOS APARATO RESPIRATORIO",
+    "rotation": null
+  },
+  {
+    "id": 595,
+    "subjectId": 13,
+    "title": "SÍNTOMAS Y SIGNOS CARDIOVASCULARES",
+    "rotation": null
+  },
+  {
+    "id": 596,
+    "subjectId": 13,
+    "title": "SÍNTOMAS Y SIGNOS DEL APARATO DIGESTIVO",
+    "rotation": null
+  },
+  {
+    "id": 597,
+    "subjectId": 13,
+    "title": "SÍNTOMAS Y SIGNOS INTESTINO DELGADO",
+    "rotation": null
+  },
+  {
+    "id": 598,
+    "subjectId": 13,
+    "title": "SÍNTOMAS Y SIGNOS RENALES Y APARATO URINARIO",
+    "rotation": null
+  },
+  {
+    "id": 599,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA GENITAL EXTERNA MASCULINA SEMIOLOGÍA GENITAL Y FEMENINA",
+    "rotation": null
+  },
+  {
+    "id": 600,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL APARATO LOCOMOTOR",
+    "rotation": null
+  },
+  {
+    "id": 601,
+    "subjectId": 13,
+    "title": "SÍNTOMAS Y SIGNOS DEL SISTEMA NERVIOSO",
+    "rotation": null
+  },
+  {
+    "id": 602,
+    "subjectId": 13,
+    "title": "EXAMEN FÍSICO GENERAL",
+    "rotation": null
+  },
+  {
+    "id": 603,
+    "subjectId": 13,
+    "title": "PIEL I (Signos y síntomas, examen físico)",
+    "rotation": null
+  },
+  {
+    "id": 604,
+    "subjectId": 13,
+    "title": "PIEL II (Lesiones primarias y secundarias)",
+    "rotation": null
+  },
+  {
+    "id": 605,
+    "subjectId": 13,
+    "title": "EXAMEN DE CRÁNEO",
+    "rotation": null
+  },
+  {
+    "id": 606,
+    "subjectId": 13,
+    "title": "PARES CRANEALES I, II, III, IV, V VI, VII",
+    "rotation": null
+  },
+  {
+    "id": 607,
+    "subjectId": 13,
+    "title": "PARES CRANEALES VIII, IX, X, XI, XII",
+    "rotation": null
+  },
+  {
+    "id": 608,
+    "subjectId": 13,
+    "title": "EXPLORACIÓN DE LOS SENTIDOS",
+    "rotation": null
+  },
+  {
+    "id": 609,
+    "subjectId": 13,
+    "title": "EXAMEN DE CAVIDAD ORAL",
+    "rotation": null
+  },
+  {
+    "id": 610,
+    "subjectId": 13,
+    "title": "EXPLORACIÓN DE CUELLO",
+    "rotation": null
+  },
+  {
+    "id": 611,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DE GLÁNDULAS MAMARIAS",
+    "rotation": null
+  },
+  {
+    "id": 612,
+    "subjectId": 13,
+    "title": "TÓRAX INSPECCIÓN ESTÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 613,
+    "subjectId": 13,
+    "title": "TÓRAX INSPECCIÓN DINÁMICA",
+    "rotation": null
+  },
+  {
+    "id": 614,
+    "subjectId": 13,
+    "title": "TÓRAX: PALPACIÓN, PERCUSIÓN, AUSCULTACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 615,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA APLICADA DEL APARATO RESPIRATORIO",
+    "rotation": null
+  },
+  {
+    "id": 616,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL APARATO CARDIOVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 617,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA APLICADA: CARDIOVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 618,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL APARATO DIGESTIVO GENERALIDADES",
+    "rotation": null
+  },
+  {
+    "id": 619,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL ESTÓMAGO",
+    "rotation": null
+  },
+  {
+    "id": 620,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA INTESTINOS DELGADO Y GRUESO",
+    "rotation": null
+  },
+  {
+    "id": 621,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA APLICADA: ABDOMEN AGUDO",
+    "rotation": null
+  },
+  {
+    "id": 622,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DE HÍGADO Y VÍAS BILIARES",
+    "rotation": null
+  },
+  {
+    "id": 623,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL PÁNCREAS",
+    "rotation": null
+  },
+  {
+    "id": 624,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL RIÑÓN Y VÍAS URINARIAS",
+    "rotation": null
+  },
+  {
+    "id": 625,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA GENITAL MASCULINA",
+    "rotation": null
+  },
+  {
+    "id": 626,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA GENITAL FEMENINA",
+    "rotation": null
+  },
+  {
+    "id": 627,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA ARTICULAR I (Signos y sintomas frecuentes)",
+    "rotation": null
+  },
+  {
+    "id": 628,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA ARTICULAR II (Columna Vertebral y MMSS)",
+    "rotation": null
+  },
+  {
+    "id": 629,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA ARTICULAR III (MMII)",
+    "rotation": null
+  },
+  {
+    "id": 630,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA SISTEMA NERVIOSO CENTRAL",
+    "rotation": null
+  },
+  {
+    "id": 631,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA SNC MOTOR",
+    "rotation": null
+  },
+  {
+    "id": 632,
+    "subjectId": 13,
+    "title": "SENSIBILIDAD SUPERIOR Y PROFUNDA",
+    "rotation": null
+  },
+  {
+    "id": 633,
+    "subjectId": 13,
+    "title": "REFLEJOS SUPERIORES Y PROFUNDOS",
+    "rotation": null
+  },
+  {
+    "id": 634,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA DEL SISTEMA NERVIOSO APLICADA",
+    "rotation": null
+  },
+  {
+    "id": 635,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA HEMATOPOYÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 636,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA ENDÓCRINO I, II",
+    "rotation": null
+  },
+  {
+    "id": 637,
+    "subjectId": 13,
+    "title": "SEMIOLOGÍA ENDOCRINOLÓGICA APLICADA",
+    "rotation": null
+  },
+  {
+    "id": 638,
+    "subjectId": 14,
+    "title": "GENERALIDADES DE LA RADIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 639,
+    "subjectId": 14,
+    "title": "RADIOLOGÍA DEL CRÁNEO",
+    "rotation": null
+  },
+  {
+    "id": 640,
+    "subjectId": 14,
+    "title": "RADIOLOGÍA PULMONAR NORMAL Y PATOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 641,
+    "subjectId": 14,
+    "title": "RX CARDIOVASCULAR NORMAL Y PATOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 642,
+    "subjectId": 14,
+    "title": "RX DEL APARATO DIGESTIVO",
+    "rotation": null
+  },
+  {
+    "id": 643,
+    "subjectId": 14,
+    "title": "RADIOLOGIA DEL ESÓFAGO, ESTÓMAGO Y DUODENO",
+    "rotation": null
+  },
+  {
+    "id": 644,
+    "subjectId": 14,
+    "title": "RADIOLOGÍA DEL INTESTINO DELGADO Y COLON",
+    "rotation": null
+  },
+  {
+    "id": 645,
+    "subjectId": 14,
+    "title": "ECOGRAFÍA HEPÁTICA Y VÍAS BILIARES",
+    "rotation": null
+  },
+  {
+    "id": 646,
+    "subjectId": 14,
+    "title": "RADIOLOGÍA DEL RIÑON Y VÍAS URINARIAS",
+    "rotation": null
+  },
+  {
+    "id": 647,
+    "subjectId": 14,
+    "title": "RADIOLOGÍA DE FRACTURAS Y OSTEOARTICULAR",
+    "rotation": null
+  },
+  {
+    "id": 648,
+    "subjectId": 14,
+    "title": "RADIOLOGÍA DE COLUMNA VERTEBRAL",
+    "rotation": null
+  },
+  {
+    "id": 649,
+    "subjectId": 15,
+    "title": "INTRODUCCIÓN A LA PATOLOGÍA CLÍNICA",
+    "rotation": null
+  },
+  {
+    "id": 650,
+    "subjectId": 15,
+    "title": "COMPOSICIÓN DE LA SANGRE",
+    "rotation": null
+  },
+  {
+    "id": 651,
+    "subjectId": 15,
+    "title": "REACTANTES DE FASE AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 652,
+    "subjectId": 15,
+    "title": "GLÓBULOS BLANCOS",
+    "rotation": null
+  },
+  {
+    "id": 653,
+    "subjectId": 15,
+    "title": "FASES DE LA HEMOSTASIA",
+    "rotation": null
+  },
+  {
+    "id": 654,
+    "subjectId": 15,
+    "title": "GRUPO SANGUÍNEO, RH",
+    "rotation": null
+  },
+  {
+    "id": 655,
+    "subjectId": 15,
+    "title": "PROTEÍNAS PLASMÁTICAS",
+    "rotation": null
+  },
+  {
+    "id": 656,
+    "subjectId": 15,
+    "title": "ELECTRÓLITOS SÉRICOS",
+    "rotation": null
+  },
+  {
+    "id": 657,
+    "subjectId": 15,
+    "title": "QUÍMICA SANGUINEA BÁSICA",
+    "rotation": null
+  },
+  {
+    "id": 658,
+    "subjectId": 15,
+    "title": "PRUEBAS FUNCIONALES HEPÁTICAS",
+    "rotation": null
+  },
+  {
+    "id": 659,
+    "subjectId": 15,
+    "title": "PÁNCREAS EXÓCRINO",
+    "rotation": null
+  },
+  {
+    "id": 660,
+    "subjectId": 15,
+    "title": "EXÁMEN DE ORINA",
+    "rotation": null
+  },
+  {
+    "id": 661,
+    "subjectId": 15,
+    "title": "ESTUDIO FÍSICO-QUÍMICO DEL LÍQUIDO PLEURAL",
+    "rotation": null
+  },
+  {
+    "id": 662,
+    "subjectId": 15,
+    "title": "EXPLORACIÓN FUNCIONAL ENDÓCRINA",
+    "rotation": null
+  },
+  {
+    "id": 663,
+    "subjectId": 15,
+    "title": "PERFIL INMUNOLÓGICO INFLAMATORIO",
+    "rotation": null
+  },
+  {
+    "id": 664,
+    "subjectId": 15,
+    "title": "MARCADORES TUMORALES",
+    "rotation": null
+  },
+  {
+    "id": 665,
+    "subjectId": 16,
+    "title": "GENERALIDADES EN CIRUGÍA",
+    "rotation": null
+  },
+  {
+    "id": 666,
+    "subjectId": 16,
+    "title": "METODOLOGÍA DE LA INVESTIGACIÓN EN CIRUGÍA",
+    "rotation": null
+  },
+  {
+    "id": 667,
+    "subjectId": 16,
+    "title": "TERMINOLOGÍA QUIRÚRGICA",
+    "rotation": null
+  },
+  {
+    "id": 668,
+    "subjectId": 16,
+    "title": "SEMIOLOGÍA QUIRÚRGICA I (Introduccion, cabeza y cuello, torax y mamá, columna)",
+    "rotation": null
+  },
+  {
+    "id": 669,
+    "subjectId": 16,
+    "title": "SEMIOLOGÍA QUIRÚRGICA II (Abdomen y pelvis, vascular periférico y extremidades)",
+    "rotation": null
+  },
+  {
+    "id": 670,
+    "subjectId": 16,
+    "title": "VENDAS Y VENDAJES",
+    "rotation": null
+  },
+  {
+    "id": 671,
+    "subjectId": 16,
+    "title": "ASEPSIA, ANTISEPSIA Y BIOSEGURIDAD",
+    "rotation": null
+  },
+  {
+    "id": 672,
+    "subjectId": 16,
+    "title": "AMBIENTES QUIRÚRGICOS",
+    "rotation": null
+  },
+  {
+    "id": 673,
+    "subjectId": 16,
+    "title": "INSTRUMENTAL QUIRÚRGICO",
+    "rotation": null
+  },
+  {
+    "id": 674,
+    "subjectId": 16,
+    "title": "SONDAS Y SONDAJES",
+    "rotation": null
+  },
+  {
+    "id": 675,
+    "subjectId": 16,
+    "title": "PREOPERATORIO",
+    "rotation": null
+  },
+  {
+    "id": 676,
+    "subjectId": 16,
+    "title": "ACTO QUIRÚRGICO",
+    "rotation": null
+  },
+  {
+    "id": 677,
+    "subjectId": 16,
+    "title": "DIERESIS Y DISECCIÓN DE TEJIDOS",
+    "rotation": null
+  },
+  {
+    "id": 678,
+    "subjectId": 16,
+    "title": "HEMOSTASIA",
+    "rotation": null
+  },
+  {
+    "id": 679,
+    "subjectId": 16,
+    "title": "DRENES Y DRENAJES",
+    "rotation": null
+  },
+  {
+    "id": 680,
+    "subjectId": 16,
+    "title": "SÍNTESIS DE TEJIDOS, NUDOS Y SUTURAS",
+    "rotation": null
+  },
+  {
+    "id": 681,
+    "subjectId": 16,
+    "title": "SUTURA MECÁNICA, SÍNTESIS ÓSEA",
+    "rotation": null
+  },
+  {
+    "id": 682,
+    "subjectId": 16,
+    "title": "CIRUGÍA VIDEOSCÓPICA, TELECIRUGÍA Y CIRUGÍA ROBÓTICA",
+    "rotation": null
+  },
+  {
+    "id": 683,
+    "subjectId": 16,
+    "title": "POSOPERATORIO",
+    "rotation": null
+  },
+  {
+    "id": 684,
+    "subjectId": 16,
+    "title": "VÍAS DE ADMINISTRACIÓN DE MEDICAMENTOS",
+    "rotation": null
+  },
+  {
+    "id": 685,
+    "subjectId": 16,
+    "title": "TRATAMIENTO DE HERIDAS",
+    "rotation": null
+  },
+  {
+    "id": 686,
+    "subjectId": 16,
+    "title": "PROCEDIMIENTO QUIRÚRGICO DE URGENCIA",
+    "rotation": null
+  },
+  {
+    "id": 687,
+    "subjectId": 16,
+    "title": "PRINCIPIOS BÁSICOS DE TÉCNICA QUIRÚRGICA ESPECIAL",
+    "rotation": null
+  },
+  {
+    "id": 688,
+    "subjectId": 16,
+    "title": "MICROCIRUGÍA Y NANOCIRUGÍA",
+    "rotation": null
+  },
+  {
+    "id": 689,
+    "subjectId": 16,
+    "title": "CIRUGÍA MAYOR AMBULATORIA Y SIMULADORES DE CIRUGÍA",
+    "rotation": null
+  },
+  {
+    "id": 690,
+    "subjectId": 16,
+    "title": "ÉTICA EN CIRUGÍA, BIOÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 691,
+    "subjectId": 17,
+    "title": "GENERALIDADES DE LA PSICOLOGÍA MÉDICA",
+    "rotation": null
+  },
+  {
+    "id": 692,
+    "subjectId": 17,
+    "title": "PERSONALIDAD EN EL PROCESO DE SALUD- ENFERMEDAD",
+    "rotation": null
+  },
+  {
+    "id": 693,
+    "subjectId": 17,
+    "title": "LA PERSONALIDAD Y SU RELACIÓN CON LA SALUD",
+    "rotation": null
+  },
+  {
+    "id": 694,
+    "subjectId": 17,
+    "title": "TEORÍA DEL DESARROLLO",
+    "rotation": null
+  },
+  {
+    "id": 695,
+    "subjectId": 17,
+    "title": "SÍNDROME DE BURNOUT",
+    "rotation": null
+  },
+  {
+    "id": 696,
+    "subjectId": 17,
+    "title": "LA COMUNICACIÓN HUMANA Y EL MÉDICO",
+    "rotation": null
+  },
+  {
+    "id": 697,
+    "subjectId": 17,
+    "title": "ADHESIÓN AL TRATAMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 698,
+    "subjectId": 17,
+    "title": "FAMILIA Y SOCIEDAD EN EL PROCESO SALUD-ENFERMEDAD",
+    "rotation": null
+  },
+  {
+    "id": 699,
+    "subjectId": 17,
+    "title": "IMPACTO DE LA ENFERMEDAD EN LA FAMILIA",
+    "rotation": null
+  },
+  {
+    "id": 700,
+    "subjectId": 17,
+    "title": "DESARROLLO SOCIAL DEL CEREBRO",
+    "rotation": null
+  },
+  {
+    "id": 701,
+    "subjectId": 17,
+    "title": "RELACIÓN MÉDICO-PACIENTE: RELACIÓN DE AYUDA",
+    "rotation": null
+  },
+  {
+    "id": 702,
+    "subjectId": 17,
+    "title": "CICLO VITAL I (Etapa prenatal, Primera y Segunda infancia)",
+    "rotation": null
+  },
+  {
+    "id": 703,
+    "subjectId": 17,
+    "title": "CICLO VITAL II (Adolescencia, Juventud, Adultez y Vejez)",
+    "rotation": null
+  },
+  {
+    "id": 704,
+    "subjectId": 17,
+    "title": "SÍNDROME GENERAL DE ADAPTACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 705,
+    "subjectId": 17,
+    "title": "CAPACIDADES MENTALES SUPERIORES",
+    "rotation": null
+  },
+  {
+    "id": 706,
+    "subjectId": 17,
+    "title": "PSICONEUROINMUNOENDOC RINOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 707,
+    "subjectId": 17,
+    "title": "NEURONAS ESPEJO",
+    "rotation": null
+  },
+  {
+    "id": 708,
+    "subjectId": 17,
+    "title": "ENTREVISTA CLÍNICA I",
+    "rotation": null
+  },
+  {
+    "id": 709,
+    "subjectId": 17,
+    "title": "ENTREVISTA CLINICA II",
+    "rotation": null
+  },
+  {
+    "id": 710,
+    "subjectId": 17,
+    "title": "MODELOS DE RELACIÓN MÉDICO-PACIENTE",
+    "rotation": null
+  },
+  {
+    "id": 711,
+    "subjectId": 18,
+    "title": "INTRODUCCIÓN A LA CARDIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 712,
+    "subjectId": 18,
+    "title": "FIEBRE REUMÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 713,
+    "subjectId": 18,
+    "title": "VALVULOPATIA MITRAL Y TRICUSPIDE",
+    "rotation": null
+  },
+  {
+    "id": 714,
+    "subjectId": 18,
+    "title": "VALVULOPATIA AÓRTICA Y PULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 715,
+    "subjectId": 18,
+    "title": "EDEMA AGUDO PULMONAR DE ALTURA",
+    "rotation": null
+  },
+  {
+    "id": 716,
+    "subjectId": 18,
+    "title": "HIPERTENSION ARTERIAL SISTEMICA",
+    "rotation": null
+  },
+  {
+    "id": 717,
+    "subjectId": 18,
+    "title": "TROMBOEMBOLISMO PULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 718,
+    "subjectId": 18,
+    "title": "ANGINA ESTABLE",
+    "rotation": null
+  },
+  {
+    "id": 719,
+    "subjectId": 18,
+    "title": "SINDROME CORONARIO AGUDO",
+    "rotation": null
+  },
+  {
+    "id": 720,
+    "subjectId": 18,
+    "title": "ENFERMEDAD DE CHAGAS",
+    "rotation": null
+  },
+  {
+    "id": 721,
+    "subjectId": 18,
+    "title": "PERICARDITIS",
+    "rotation": null
+  },
+  {
+    "id": 722,
+    "subjectId": 18,
+    "title": "CARDIOPATIAS CONGENITAS",
+    "rotation": null
+  },
+  {
+    "id": 723,
+    "subjectId": 18,
+    "title": "MIOCARDIOPATIAS",
+    "rotation": null
+  },
+  {
+    "id": 724,
+    "subjectId": 18,
+    "title": "FIBRILACION AURICULAR",
+    "rotation": null
+  },
+  {
+    "id": 725,
+    "subjectId": 18,
+    "title": "INSUFICIENCIA CARDIACA",
+    "rotation": null
+  },
+  {
+    "id": 726,
+    "subjectId": 19,
+    "title": "INTRODUCCION A LA NEUMOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 727,
+    "subjectId": 19,
+    "title": "EPIDEMIOLOGIA DE LA TB",
+    "rotation": null
+  },
+  {
+    "id": 728,
+    "subjectId": 19,
+    "title": "TUBERCULOSIS POST PRIMARIA",
+    "rotation": null
+  },
+  {
+    "id": 729,
+    "subjectId": 19,
+    "title": "TRATAMIENTO DE LA TUBERCULOSIS",
+    "rotation": null
+  },
+  {
+    "id": 730,
+    "subjectId": 19,
+    "title": "DERRAME PLEURAL",
+    "rotation": null
+  },
+  {
+    "id": 731,
+    "subjectId": 19,
+    "title": "EPOC",
+    "rotation": null
+  },
+  {
+    "id": 732,
+    "subjectId": 19,
+    "title": "ASMA",
+    "rotation": null
+  },
+  {
+    "id": 733,
+    "subjectId": 19,
+    "title": "INSUFICIENCIA RESPIRATORIA",
+    "rotation": null
+  },
+  {
+    "id": 734,
+    "subjectId": 19,
+    "title": "NEUMONIAS",
+    "rotation": null
+  },
+  {
+    "id": 735,
+    "subjectId": 19,
+    "title": "BRONQUIECTASIAS",
+    "rotation": null
+  },
+  {
+    "id": 736,
+    "subjectId": 19,
+    "title": "EMBOLISMO PULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 737,
+    "subjectId": 19,
+    "title": "ENFERMEDADES INTERSTICIALES",
+    "rotation": null
+  },
+  {
+    "id": 738,
+    "subjectId": 19,
+    "title": "CÁNCER PULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 739,
+    "subjectId": 19,
+    "title": "HIPERTENSION PULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 740,
+    "subjectId": 19,
+    "title": "INTERPRETACIÓN RADIOLÓGICA NEUMOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 741,
+    "subjectId": 20,
+    "title": "GENERALIDADES DE LA INMUNOLOGÍA CLÍNICA",
+    "rotation": null
+  },
+  {
+    "id": 742,
+    "subjectId": 20,
+    "title": "HIPERSENSIBILIDAD TIPO I, ANAFILAXIA, TIPO II, III y IV",
+    "rotation": null
+  },
+  {
+    "id": 743,
+    "subjectId": 20,
+    "title": "HISTORIA CLÍNICA INMUNE, INMUNIZACIONES Y VACUNAS",
+    "rotation": null
+  },
+  {
+    "id": 744,
+    "subjectId": 20,
+    "title": "VACUNACIÓN, CLASIFICACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 745,
+    "subjectId": 20,
+    "title": "ASMA Y DIAGNÓSTICO DEL ASMA ALÉRGICO / ATOPÍAS",
+    "rotation": null
+  },
+  {
+    "id": 746,
+    "subjectId": 20,
+    "title": "VIH-SIDA",
+    "rotation": null
+  },
+  {
+    "id": 747,
+    "subjectId": 20,
+    "title": "INMUNODEFICIENCIAS PRIMARIAS",
+    "rotation": null
+  },
+  {
+    "id": 748,
+    "subjectId": 20,
+    "title": "INMUNODEFICIENCIAS SECUNDARIAS",
+    "rotation": null
+  },
+  {
+    "id": 749,
+    "subjectId": 20,
+    "title": "INMUNOLOGÍA DEL CÁNCER",
+    "rotation": null
+  },
+  {
+    "id": 750,
+    "subjectId": 20,
+    "title": "INMUNOTERAPIA DEL CÁNCER",
+    "rotation": null
+  },
+  {
+    "id": 751,
+    "subjectId": 20,
+    "title": "TRASTORNOS Y DEFECTOS DE LOS ANTICUERPOS (SX ANTIFOSFOLIPÍDICO)",
+    "rotation": null
+  },
+  {
+    "id": 752,
+    "subjectId": 20,
+    "title": "RESPUESTA INMUNE NORMAL Y SUS ALTERACIONES",
+    "rotation": null
+  },
+  {
+    "id": 753,
+    "subjectId": 20,
+    "title": "INMUNOMODULACIÓN I (Inmunización Pasiva, IGIV)",
+    "rotation": null
+  },
+  {
+    "id": 754,
+    "subjectId": 20,
+    "title": "INMUNOMODULACIÓN II (Tratamientos, Plasmaféresis)",
+    "rotation": null
+  },
+  {
+    "id": 755,
+    "subjectId": 20,
+    "title": "EXAMENES DE LABORATORIO EN INMUNOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 756,
+    "subjectId": 20,
+    "title": "ENF. AUTOINMUNES (AR, LES, Sjögren, Vasc., Esclerodermia)",
+    "rotation": null
+  },
+  {
+    "id": 757,
+    "subjectId": 21,
+    "title": "GENERALIDADES DE LA REUMATOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 758,
+    "subjectId": 21,
+    "title": "HISTORIA CLÍNICA Y DEONTOLOGÍA MÉDICA",
+    "rotation": null
+  },
+  {
+    "id": 759,
+    "subjectId": 21,
+    "title": "SEMIOTECNIA REUMATOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 760,
+    "subjectId": 21,
+    "title": "ARTROPATÍAS MICROCRISTALINAS / GOTA",
+    "rotation": null
+  },
+  {
+    "id": 761,
+    "subjectId": 21,
+    "title": "ARTRITIS REUMATOIDE",
+    "rotation": null
+  },
+  {
+    "id": 762,
+    "subjectId": 21,
+    "title": "OSTEOARTRITIS",
+    "rotation": null
+  },
+  {
+    "id": 763,
+    "subjectId": 21,
+    "title": "REUMATISMO DE PARTES BLANDAS / FIBROMIALGIA",
+    "rotation": null
+  },
+  {
+    "id": 764,
+    "subjectId": 21,
+    "title": "LUPUS ERITEMATOSO SISTÉMICO",
+    "rotation": null
+  },
+  {
+    "id": 765,
+    "subjectId": 21,
+    "title": "ESCLEROSIS SISTÉMICA Y MIOPATÍAS IDIOPÁTICAS INFLAMATORIAS",
+    "rotation": null
+  },
+  {
+    "id": 766,
+    "subjectId": 21,
+    "title": "CORTICOIDES",
+    "rotation": null
+  },
+  {
+    "id": 767,
+    "subjectId": 21,
+    "title": "AINES",
+    "rotation": null
+  },
+  {
+    "id": 768,
+    "subjectId": 21,
+    "title": "FARMES",
+    "rotation": null
+  },
+  {
+    "id": 769,
+    "subjectId": 21,
+    "title": "IMAGENOLOGÍA I (MMSS)",
+    "rotation": null
+  },
+  {
+    "id": 770,
+    "subjectId": 21,
+    "title": "IMAGENOLOGÍA II (MMII)",
+    "rotation": null
+  },
+  {
+    "id": 771,
+    "subjectId": 22,
+    "title": "GENERALIDADES DE LA DERMATOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 772,
+    "subjectId": 22,
+    "title": "ENFERMEDADES AMPOLLARES",
+    "rotation": null
+  },
+  {
+    "id": 773,
+    "subjectId": 22,
+    "title": "DISCROMÍAS",
+    "rotation": null
+  },
+  {
+    "id": 774,
+    "subjectId": 22,
+    "title": "FOTODERMATOSIS",
+    "rotation": null
+  },
+  {
+    "id": 775,
+    "subjectId": 22,
+    "title": "PARASITOSIS CUTÁNEA",
+    "rotation": null
+  },
+  {
+    "id": 776,
+    "subjectId": 22,
+    "title": "INFECCIONES VIRALES CUTÁNEAS",
+    "rotation": null
+  },
+  {
+    "id": 777,
+    "subjectId": 22,
+    "title": "DERMATOSIS REACTIVA",
+    "rotation": null
+  },
+  {
+    "id": 778,
+    "subjectId": 22,
+    "title": "ÚLCERAS VASCULARES DE PIERNA",
+    "rotation": null
+  },
+  {
+    "id": 779,
+    "subjectId": 22,
+    "title": "MICOBACTERIOSIS CUTÁNEA",
+    "rotation": null
+  },
+  {
+    "id": 780,
+    "subjectId": 22,
+    "title": "TOXICODERMIAS",
+    "rotation": null
+  },
+  {
+    "id": 781,
+    "subjectId": 22,
+    "title": "PIODERMITIS",
+    "rotation": null
+  },
+  {
+    "id": 782,
+    "subjectId": 22,
+    "title": "ACNÉ Y ROSÁCEA",
+    "rotation": null
+  },
+  {
+    "id": 783,
+    "subjectId": 22,
+    "title": "TUMORES CUTÁNEOS",
+    "rotation": null
+  },
+  {
+    "id": 784,
+    "subjectId": 22,
+    "title": "DERMATOMICOSIS",
+    "rotation": null
+  },
+  {
+    "id": 785,
+    "subjectId": 23,
+    "title": "GENERALIDADES DE LA INFECTOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 786,
+    "subjectId": 23,
+    "title": "INTRODUCCIÓN Y PATOGENÍA DE LAS ENFERMEDADES INFECCIOSAS",
+    "rotation": null
+  },
+  {
+    "id": 787,
+    "subjectId": 23,
+    "title": "DIAGNÓSTICO DE LAS ENFERMEDADES INFECCIOSAS",
+    "rotation": null
+  },
+  {
+    "id": 788,
+    "subjectId": 23,
+    "title": "TRATAMIENTO DE LAS ENFERMEDADES INFECCIOSAS",
+    "rotation": null
+  },
+  {
+    "id": 789,
+    "subjectId": 23,
+    "title": "EPIDEMIOLOGÍA, PROFILAXIS , LAVADO DE MANOS, IAaCS, INMUNIZACIONES",
+    "rotation": null
+  },
+  {
+    "id": 790,
+    "subjectId": 23,
+    "title": "INFECCIONES GASTRO- INTESTINALES AGUDAS (EDAS)",
+    "rotation": null
+  },
+  {
+    "id": 791,
+    "subjectId": 23,
+    "title": "INFECCIONES RESPIRATORIAS AGUDAS (IRAS) / COVID-19",
+    "rotation": null
+  },
+  {
+    "id": 792,
+    "subjectId": 23,
+    "title": "TUBERCULOSIS EXTRAPULMONAR",
+    "rotation": null
+  },
+  {
+    "id": 793,
+    "subjectId": 23,
+    "title": "INFECCION DE PIEL Y PARTES BLANDAS",
+    "rotation": null
+  },
+  {
+    "id": 794,
+    "subjectId": 23,
+    "title": "SEPSIS Y SHOCK SÉPTICO",
+    "rotation": null
+  },
+  {
+    "id": 795,
+    "subjectId": 23,
+    "title": "HEPATITIS INFECCIOSA",
+    "rotation": null
+  },
+  {
+    "id": 796,
+    "subjectId": 23,
+    "title": "VIH-SIDA",
+    "rotation": null
+  },
+  {
+    "id": 797,
+    "subjectId": 23,
+    "title": "MENINGITIS",
+    "rotation": null
+  },
+  {
+    "id": 798,
+    "subjectId": 23,
+    "title": "RABIA",
+    "rotation": null
+  },
+  {
+    "id": 799,
+    "subjectId": 23,
+    "title": "MALARIA",
+    "rotation": null
+  },
+  {
+    "id": 800,
+    "subjectId": 23,
+    "title": "FIEBRES HEMORRÁGICAS VÍRICAS",
+    "rotation": null
+  },
+  {
+    "id": 801,
+    "subjectId": 23,
+    "title": "FIEBRE TIFOIDEA VIRUELA DEL MONO",
+    "rotation": null
+  },
+  {
+    "id": 802,
+    "subjectId": 24,
+    "title": "GENERALIDADES DE LA NEUROLOGÍA/NEUROCIRUGÍA",
+    "rotation": null
+  },
+  {
+    "id": 803,
+    "subjectId": 24,
+    "title": "COMA",
+    "rotation": null
+  },
+  {
+    "id": 804,
+    "subjectId": 24,
+    "title": "PARES CRANEALES",
+    "rotation": null
+  },
+  {
+    "id": 805,
+    "subjectId": 24,
+    "title": "SISTEMA MOTOR",
+    "rotation": null
+  },
+  {
+    "id": 806,
+    "subjectId": 24,
+    "title": "SISTEMA SENSITIVO",
+    "rotation": null
+  },
+  {
+    "id": 807,
+    "subjectId": 24,
+    "title": "REFLEJOS Y FUNCIÓN CEREBELOSA",
+    "rotation": null
+  },
+  {
+    "id": 808,
+    "subjectId": 24,
+    "title": "SX MENINGEO, VEJIGA NEUROGENICA, MARCHA",
+    "rotation": null
+  },
+  {
+    "id": 809,
+    "subjectId": 24,
+    "title": "EXÁMENES DE LABORATORIO",
+    "rotation": null
+  },
+  {
+    "id": 810,
+    "subjectId": 24,
+    "title": "EXÁMENES IMAGENOLOGICOS",
+    "rotation": null
+  },
+  {
+    "id": 811,
+    "subjectId": 24,
+    "title": "REFLEJOS ARCAICOS",
+    "rotation": null
+  },
+  {
+    "id": 812,
+    "subjectId": 24,
+    "title": "DEFECTOS Y MALFORMACIONES",
+    "rotation": null
+  },
+  {
+    "id": 813,
+    "subjectId": 24,
+    "title": "CEFALEA",
+    "rotation": null
+  },
+  {
+    "id": 814,
+    "subjectId": 24,
+    "title": "AVE, ICTUS, ENFERMEDAD CEREBROVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 815,
+    "subjectId": 24,
+    "title": "HEMORRAGIA INTRACRANEAL",
+    "rotation": null
+  },
+  {
+    "id": 816,
+    "subjectId": 24,
+    "title": "EPILEPSIA",
+    "rotation": null
+  },
+  {
+    "id": 817,
+    "subjectId": 24,
+    "title": "HIPERTENSIÓN INTRACRANEAL",
+    "rotation": null
+  },
+  {
+    "id": 818,
+    "subjectId": 24,
+    "title": "TUMORES DEL SN",
+    "rotation": null
+  },
+  {
+    "id": 819,
+    "subjectId": 24,
+    "title": "TRAUMA CRANEOENCEFÁLICO",
+    "rotation": null
+  },
+  {
+    "id": 820,
+    "subjectId": 24,
+    "title": "TRAUMA VERTEBROMEDULAR",
+    "rotation": null
+  },
+  {
+    "id": 821,
+    "subjectId": 24,
+    "title": "SX DE COMPRESIÓN MEDULAR",
+    "rotation": null
+  },
+  {
+    "id": 822,
+    "subjectId": 24,
+    "title": "SX DE COMPRESIÓN RETICULAR",
+    "rotation": null
+  },
+  {
+    "id": 823,
+    "subjectId": 24,
+    "title": "ENF. INFECCIOSAS DEL SN",
+    "rotation": null
+  },
+  {
+    "id": 824,
+    "subjectId": 24,
+    "title": "ENF. EXTRAPIRAMIDALES",
+    "rotation": null
+  },
+  {
+    "id": 825,
+    "subjectId": 24,
+    "title": "NEUROPATÍAS",
+    "rotation": null
+  },
+  {
+    "id": 826,
+    "subjectId": 24,
+    "title": "ENF. NEUROMUSCULARES",
+    "rotation": null
+  },
+  {
+    "id": 827,
+    "subjectId": 24,
+    "title": "ENF. PARASITARIAS",
+    "rotation": null
+  },
+  {
+    "id": 828,
+    "subjectId": 24,
+    "title": "DEMENCIAS",
+    "rotation": null
+  },
+  {
+    "id": 829,
+    "subjectId": 24,
+    "title": "DOLOR",
+    "rotation": null
+  },
+  {
+    "id": 830,
+    "subjectId": 25,
+    "title": "GENERALIDADES DE LA PSICOPATOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 831,
+    "subjectId": 25,
+    "title": "HISTORIA CLINICA Y ENTREVISTA PSIQUIÁTRICA. PSICOBIOGRAFÍA Y PSICOMOTRICIDAD.",
+    "rotation": null
+  },
+  {
+    "id": 832,
+    "subjectId": 25,
+    "title": "CONDUCTA y COGNICIÓN: CONCIENCIA, ORIENTACIÓN, ATENCIÓN, MEMORIA",
+    "rotation": null
+  },
+  {
+    "id": 833,
+    "subjectId": 25,
+    "title": "CÁLCULO, PRAXIAS, GNOSIAS SENSACIÓN, PERCEPCIÓN /ALUCINACIONES/SUEÑO",
+    "rotation": null
+  },
+  {
+    "id": 834,
+    "subjectId": 25,
+    "title": "LENGUAJE,PROSODIA,FUNCION EJECUTIVA, CORTEZA PRE- FRONTAL, SX DE LIBERACIÓN FRONTAL, SX PREFRONTAL / necesidad, impulso, instinto,",
+    "rotation": null
+  },
+  {
+    "id": 835,
+    "subjectId": 25,
+    "title": "EMOCIÓN, SENTIMENTO, ESTADO DE ANIMO, AFECTO, AFECTIVIDAD, DESEOS, PASIONES/PENSAMIENTO /IDEAS DELIRANTES /EL YO",
+    "rotation": null
+  },
+  {
+    "id": 836,
+    "subjectId": 25,
+    "title": "GENERALIDADES DE LA PSIQUIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 837,
+    "subjectId": 25,
+    "title": "TRASTORNO DE LA ANSIEDAD/ PÁNICO/ANSIEDAD SOCIAL Y GENERALIZADA.",
+    "rotation": null
+  },
+  {
+    "id": 838,
+    "subjectId": 25,
+    "title": "TRASTORNOS DEPRESIVOS, DEPRESIÓN MAYOR, DISTIMIA Y URGENCIAS PSIQUIÁTRICAS",
+    "rotation": null
+  },
+  {
+    "id": 839,
+    "subjectId": 25,
+    "title": "TRASTORNO BIPOLAR I, II Y CICLOTIMIA",
+    "rotation": null
+  },
+  {
+    "id": 840,
+    "subjectId": 25,
+    "title": "TRASTORNOS PSICÓTICOS Y ESQUIZOFRENIA.",
+    "rotation": null
+  },
+  {
+    "id": 841,
+    "subjectId": 25,
+    "title": "TRASTORNOS NEUROCOGNITIVOS",
+    "rotation": null
+  },
+  {
+    "id": 842,
+    "subjectId": 25,
+    "title": "TRASTORNOS ADICTIVOS (Alcohol, tabaco, drogas, etc)",
+    "rotation": null
+  },
+  {
+    "id": 843,
+    "subjectId": 25,
+    "title": "TRASTORNOS DE LA PERSONALIDAD (A, B y C)",
+    "rotation": null
+  },
+  {
+    "id": 844,
+    "subjectId": 26,
+    "title": "RESPONSABILIDAD DEL CIRUJANO/ÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 845,
+    "subjectId": 26,
+    "title": "PREOPERATORIO Y POSOPERATORIO",
+    "rotation": null
+  },
+  {
+    "id": 846,
+    "subjectId": 26,
+    "title": "INFECCIONES EN CIRUGÍA",
+    "rotation": null
+  },
+  {
+    "id": 847,
+    "subjectId": 26,
+    "title": "INFECCIÓN NOSOCOMIAL/COMITÉ DE INFECCIONES",
+    "rotation": null
+  },
+  {
+    "id": 848,
+    "subjectId": 26,
+    "title": "CLASIFICACIONES DE LAS INFECCIONES Y MANEJO",
+    "rotation": null
+  },
+  {
+    "id": 849,
+    "subjectId": 26,
+    "title": "QUEMADURAS I: (Definición, etiología y clasificación)",
+    "rotation": null
+  },
+  {
+    "id": 850,
+    "subjectId": 26,
+    "title": "QUEMADURAS II: (Tratamiento, Asistencia, Sx Compartimental)",
+    "rotation": null
+  },
+  {
+    "id": 851,
+    "subjectId": 26,
+    "title": "ONCOLOGÍA BÁSICA",
+    "rotation": null
+  },
+  {
+    "id": 852,
+    "subjectId": 26,
+    "title": "DIAGNÓSTICO Y CONDUCTA ONCOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 853,
+    "subjectId": 26,
+    "title": "URGENCIAS ONCOLÓGICAS/ NEOPLASIAS FRECUENTES",
+    "rotation": null
+  },
+  {
+    "id": 854,
+    "subjectId": 26,
+    "title": "PATOLOGÍA QUIRÚRGICA DE MAMA",
+    "rotation": null
+  },
+  {
+    "id": 855,
+    "subjectId": 26,
+    "title": "TRASTORNO HIDRO- ELECTROLÍTICO/TERAPÉUTICA",
+    "rotation": null
+  },
+  {
+    "id": 856,
+    "subjectId": 26,
+    "title": "ALTERACIONES METABÓLICAS",
+    "rotation": null
+  },
+  {
+    "id": 857,
+    "subjectId": 26,
+    "title": "ALTERACION NUTRICIONAL",
+    "rotation": null
+  },
+  {
+    "id": 858,
+    "subjectId": 27,
+    "title": "ANATOMÍA Y SEMIOLOGÍA DE CARA Y CUELLO",
+    "rotation": null
+  },
+  {
+    "id": 859,
+    "subjectId": 27,
+    "title": "MALFORMACIONES CONGÉNITAS DE CARA-CUELLO",
+    "rotation": null
+  },
+  {
+    "id": 860,
+    "subjectId": 27,
+    "title": "LESIONES TRAUMÁTICAS DEL MACIZO FACIAL I: (EMG)",
+    "rotation": null
+  },
+  {
+    "id": 861,
+    "subjectId": 27,
+    "title": "LESIONES TRAUMÁTICAS DE MACIZO FACIAL II: (Fracturas)",
+    "rotation": null
+  },
+  {
+    "id": 862,
+    "subjectId": 27,
+    "title": "PROCESOS INFECCIOSOS E INFLAMATORIOS",
+    "rotation": null
+  },
+  {
+    "id": 863,
+    "subjectId": 27,
+    "title": "AFECCIONES QUIRÚRGICAS DE GLÁNDULAS SALIVALES",
+    "rotation": null
+  },
+  {
+    "id": 864,
+    "subjectId": 27,
+    "title": "PATOLOGÍA QUIRÚRGICA DE TIROIDES Y PARATIROIDES",
+    "rotation": null
+  },
+  {
+    "id": 865,
+    "subjectId": 27,
+    "title": "BOCIO",
+    "rotation": null
+  },
+  {
+    "id": 866,
+    "subjectId": 27,
+    "title": "TUMORES BENIGNOS Y MALIGNOS DE GL. SALIVALES",
+    "rotation": null
+  },
+  {
+    "id": 867,
+    "subjectId": 27,
+    "title": "TUMORES DE GLÁNDULA TIROIDES Y PARATIROIDES",
+    "rotation": null
+  },
+  {
+    "id": 868,
+    "subjectId": 27,
+    "title": "NEOPLASIAS DE LA PIEL DE CABEZA Y CUELLO",
+    "rotation": null
+  },
+  {
+    "id": 869,
+    "subjectId": 27,
+    "title": "PRINCIPIOS DE CX. PLÁSTICA / ASPECTO ESTÉTICO Y FUNCIONAL DE CARA-CUELLO",
+    "rotation": null
+  },
+  {
+    "id": 870,
+    "subjectId": 28,
+    "title": "TRAUMATISMO TORÁCICO",
+    "rotation": null
+  },
+  {
+    "id": 871,
+    "subjectId": 28,
+    "title": "PATOLOGÍA DEL MEDIASTINO",
+    "rotation": null
+  },
+  {
+    "id": 872,
+    "subjectId": 28,
+    "title": "OBSTRUCCIÓN ARTERIAL AGUDA Y CRÓNICA",
+    "rotation": null
+  },
+  {
+    "id": 873,
+    "subjectId": 28,
+    "title": "PATOLOGIA DEL PERICARDIO",
+    "rotation": null
+  },
+  {
+    "id": 874,
+    "subjectId": 28,
+    "title": "MARCAPASOS CARDIACO",
+    "rotation": null
+  },
+  {
+    "id": 875,
+    "subjectId": 28,
+    "title": "EMPIEMA AGUDO Y CRONICO",
+    "rotation": null
+  },
+  {
+    "id": 876,
+    "subjectId": 28,
+    "title": "CIRUGÍA DE INSUFICIENCIA CORONARIA",
+    "rotation": null
+  },
+  {
+    "id": 877,
+    "subjectId": 28,
+    "title": "ANEURISMAS DE AORTA TORÁCICA Y ABDOMINAL",
+    "rotation": null
+  },
+  {
+    "id": 878,
+    "subjectId": 28,
+    "title": "CIRCULACIÓN EXTRACORPOREA (ECMO)",
+    "rotation": null
+  },
+  {
+    "id": 879,
+    "subjectId": 28,
+    "title": "PATOLOGIA VENOSA",
+    "rotation": null
+  },
+  {
+    "id": 880,
+    "subjectId": 28,
+    "title": "CIRUGÍA DE CARDIOPATÍAS CONGÉNITAS CIANÓTICAS",
+    "rotation": null
+  },
+  {
+    "id": 881,
+    "subjectId": 28,
+    "title": "CIRUGÍA DE CARDIOPATÍAS CONGÉNITAS ACIANOTICAS",
+    "rotation": null
+  },
+  {
+    "id": 882,
+    "subjectId": 28,
+    "title": "LINFOPATÍAS",
+    "rotation": null
+  },
+  {
+    "id": 883,
+    "subjectId": 28,
+    "title": "VALVULOPATÍAS CARDIACAS",
+    "rotation": null
+  },
+  {
+    "id": 884,
+    "subjectId": 29,
+    "title": "INTRODUCCIÓN A LA TRAUMATOLOGÍA Y ORTOPEDIA / HISTORIA",
+    "rotation": null
+  },
+  {
+    "id": 885,
+    "subjectId": 29,
+    "title": "ANATOMÍA, FISIOLOGÍA DE LA MARCHA",
+    "rotation": null
+  },
+  {
+    "id": 886,
+    "subjectId": 29,
+    "title": "HISTORIA CLÍNICA Y SEMIOLOGÍA MMSS",
+    "rotation": null
+  },
+  {
+    "id": 887,
+    "subjectId": 29,
+    "title": "SEMIOLOGÍA DE LOS MIEMBROS SUPERIORES",
+    "rotation": null
+  },
+  {
+    "id": 888,
+    "subjectId": 29,
+    "title": "SEMIOLOGÍA DEL RAQUIS",
+    "rotation": null
+  },
+  {
+    "id": 889,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMÁTICAS DEL APARATO LOCOMOTOR",
+    "rotation": null
+  },
+  {
+    "id": 890,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMÁTICAS DE HOMBRO, BRAZO",
+    "rotation": null
+  },
+  {
+    "id": 891,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMÁTICAS DE CODO, ANTEBRAZO",
+    "rotation": null
+  },
+  {
+    "id": 892,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMÁTICAS DE MUÑECA, MANO",
+    "rotation": null
+  },
+  {
+    "id": 893,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMATICAS DE CADERA, MUSLO",
+    "rotation": null
+  },
+  {
+    "id": 894,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMATICAS DE RODILLA, PIERNA",
+    "rotation": null
+  },
+  {
+    "id": 895,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMATICAS DE TOBILLO, PIE",
+    "rotation": null
+  },
+  {
+    "id": 896,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMATICAS DEL RAQUIS",
+    "rotation": null
+  },
+  {
+    "id": 897,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMATICAS DE PELVIS, ACETABULO",
+    "rotation": null
+  },
+  {
+    "id": 898,
+    "subjectId": 29,
+    "title": "PRINCIPIOS DE TRATAMIENTO, COMPLICACIONES",
+    "rotation": null
+  },
+  {
+    "id": 899,
+    "subjectId": 29,
+    "title": "HOMBRO DOLOROSO, MANGUITO ROTADOR",
+    "rotation": null
+  },
+  {
+    "id": 900,
+    "subjectId": 29,
+    "title": "FRACTURA EXPUESTA",
+    "rotation": null
+  },
+  {
+    "id": 901,
+    "subjectId": 29,
+    "title": "LESIONES TRAUMÁTICAS DE LA INFANCIA",
+    "rotation": null
+  },
+  {
+    "id": 902,
+    "subjectId": 29,
+    "title": "MALFORMACIONES CONGÉNITAS DEL RAQUIS",
+    "rotation": null
+  },
+  {
+    "id": 903,
+    "subjectId": 29,
+    "title": "MALFORMACIONES CONGENITA DE MMSS",
+    "rotation": null
+  },
+  {
+    "id": 904,
+    "subjectId": 29,
+    "title": "MALFORMACIONES CONGÉNITAS MMII",
+    "rotation": null
+  },
+  {
+    "id": 905,
+    "subjectId": 29,
+    "title": "DISPLASIA DE CADERA, PEVC PIE PLANO, PIE CAVO",
+    "rotation": null
+  },
+  {
+    "id": 906,
+    "subjectId": 29,
+    "title": "AFECCIONES ARTICULARES, ARTRITIS, ARTROSIS",
+    "rotation": null
+  },
+  {
+    "id": 907,
+    "subjectId": 29,
+    "title": "INFECCIONES, CELULITIS, ARTRITIS SEPTICA",
+    "rotation": null
+  },
+  {
+    "id": 908,
+    "subjectId": 29,
+    "title": "OSTEOMIELITIS AGUDA, CRONICA",
+    "rotation": null
+  },
+  {
+    "id": 909,
+    "subjectId": 29,
+    "title": "TUBERCULOSIS OSTEOARTICULAR",
+    "rotation": null
+  },
+  {
+    "id": 910,
+    "subjectId": 29,
+    "title": "TUMORES DEL APARATO LOCOMOTOR",
+    "rotation": null
+  },
+  {
+    "id": 911,
+    "subjectId": 29,
+    "title": "OSTEOPATÍAS, OSTEOCONDROSIS",
+    "rotation": null
+  },
+  {
+    "id": 912,
+    "subjectId": 29,
+    "title": "PATOLOGÍA ORTOPÉDICA, ESCOLIOSIS, DORSOPATÍAS",
+    "rotation": null
+  },
+  {
+    "id": 913,
+    "subjectId": 29,
+    "title": "AMPUTACIONES",
+    "rotation": null
+  },
+  {
+    "id": 914,
+    "subjectId": 30,
+    "title": "DEFINICIÓN DE SALUD-OMS",
+    "rotation": null
+  },
+  {
+    "id": 915,
+    "subjectId": 30,
+    "title": "CAUSALIDAD: TRIADA ECOLÓGICA, CAMPOS DE LALONDE. FACTOR DE RIESGO- PROTECTOR. DETERMINANTES DE LA SALUD Y SOCIALES",
+    "rotation": null
+  },
+  {
+    "id": 916,
+    "subjectId": 30,
+    "title": "DEFIN. DE SALUD PÚBLICA. OBJETO DE ESTUDIO/FUNCION",
+    "rotation": null
+  },
+  {
+    "id": 917,
+    "subjectId": 30,
+    "title": "DEFIN., USOS Y RAMAS DE LA EPIDEMIOLOGIA: DESCRIPTIVA, ANALÍTICA Y EXPERIMENTAL)",
+    "rotation": null
+  },
+  {
+    "id": 918,
+    "subjectId": 30,
+    "title": "MÉTODO EPIDEMIOLÓGICO Y TIPOS DE ESTUDIOS (OBSERV. Y EXPERIMENTALES)",
+    "rotation": null
+  },
+  {
+    "id": 919,
+    "subjectId": 30,
+    "title": "DEFIN. DE TIPOS DE ENFERM. (NO TRANSM., TRANSMISIBLE, EMERGENTE Y REEMERGENTE)",
+    "rotation": null
+  },
+  {
+    "id": 920,
+    "subjectId": 30,
+    "title": "DEFINICIÓN Y ETAPAS DE LA HISTORIA NATURAL Y SOCIAL DEL PROCESO SALUD-ENFERM.",
+    "rotation": null
+  },
+  {
+    "id": 921,
+    "subjectId": 30,
+    "title": "PREVENCIÓN: TIPO: PRIMARIA, SECUNDARIA Y TERCIARIA",
+    "rotation": null
+  },
+  {
+    "id": 922,
+    "subjectId": 30,
+    "title": "TIEMPO, LUGAR Y PERSONA (VARIABLES EPIDEM.)",
+    "rotation": null
+  },
+  {
+    "id": 923,
+    "subjectId": 30,
+    "title": "DEFINICIÓN DE CADENA EPIDEMIOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 924,
+    "subjectId": 30,
+    "title": "ELEMENTOS DE LA CADENA EPIDEM.: AGENTE,RESERVORIO, PUERTA DE SALIDA. MEC. DE TRANSMISIÓN. MECANISMO DE ENTRADA. HUÉSPED",
+    "rotation": null
+  },
+  {
+    "id": 925,
+    "subjectId": 30,
+    "title": "MEDIDAS DE FRECUENCIA DE ENFERM.: PREVALENCIA E INCIDENCIA, TASA DE ATAQUE",
+    "rotation": null
+  },
+  {
+    "id": 926,
+    "subjectId": 30,
+    "title": "MEDIDAS DE MORTALIDAD: TASA DE MORTALIDAD GENERAL, INFANTIL, MATERNA. TASA DE LETALIDAD",
+    "rotation": null
+  },
+  {
+    "id": 927,
+    "subjectId": 30,
+    "title": "VIGILANCIA EN SALUD PÚBLICA: DEFINICIONES. OBJETIVOS",
+    "rotation": null
+  },
+  {
+    "id": 928,
+    "subjectId": 30,
+    "title": "VIGILANCIA EN SALUD PÚBLICA: USOS Y ETAPAS BÁSICAS",
+    "rotation": null
+  },
+  {
+    "id": 929,
+    "subjectId": 30,
+    "title": "VIGILANCIA EN SALUD PÚBLICA: EVENTOS DE SALUD A VIGILAR",
+    "rotation": null
+  },
+  {
+    "id": 930,
+    "subjectId": 30,
+    "title": "VIGILANCIA EN SALUD, TIPOS: PASIVA, ACTIVA Y CENTINELA",
+    "rotation": null
+  },
+  {
+    "id": 931,
+    "subjectId": 30,
+    "title": "VIGILANCIA EN SALUD PÚBLICA: NOTIFICACIÓN DE CASOS. ENFERMEDADES VIGILADAS SEGÚN TIPO DE NOTIFICACIÓN EN BOLIVIA",
+    "rotation": null
+  },
+  {
+    "id": 932,
+    "subjectId": 30,
+    "title": "CURVA EPIDEMIOLÓGICA Y SUS ELEMENTOS",
+    "rotation": null
+  },
+  {
+    "id": 933,
+    "subjectId": 30,
+    "title": "CORREDOR ENDÉMICO Y ELEMENTOS",
+    "rotation": null
+  },
+  {
+    "id": 934,
+    "subjectId": 30,
+    "title": "DEFINICIONES DE EPIDEMIOLOGIA, ENDEMIA Y PANDEMIA",
+    "rotation": null
+  },
+  {
+    "id": 935,
+    "subjectId": 30,
+    "title": "(ASIS) DEFINICIÓN, UTILIDAD",
+    "rotation": null
+  },
+  {
+    "id": 936,
+    "subjectId": 30,
+    "title": "TIPOS DE ASIS (Análisis de Situación de Salud)",
+    "rotation": null
+  },
+  {
+    "id": 937,
+    "subjectId": 30,
+    "title": "COMPONENTES DEL ASIS",
+    "rotation": null
+  },
+  {
+    "id": 938,
+    "subjectId": 30,
+    "title": "PRINCIPALES FUENTES DE INFORMACIÓN PARA EL ASIS",
+    "rotation": null
+  },
+  {
+    "id": 939,
+    "subjectId": 30,
+    "title": "(ASIS) ELABORACIÓN DEL INFORME",
+    "rotation": null
+  },
+  {
+    "id": 940,
+    "subjectId": 30,
+    "title": "TIPOS DE ESTUDIOS EPIDEMIOLÓGICOS",
+    "rotation": null
+  },
+  {
+    "id": 941,
+    "subjectId": 30,
+    "title": "ENFOQUE EPIDEMIOLÓGICO DE RIESGO",
+    "rotation": null
+  },
+  {
+    "id": 942,
+    "subjectId": 30,
+    "title": "ESTUDIOS ANALÍTICOS DE CASOS Y CONTROLES",
+    "rotation": null
+  },
+  {
+    "id": 943,
+    "subjectId": 30,
+    "title": "EST. ANALÍTICOS DE COHORTE",
+    "rotation": null
+  },
+  {
+    "id": 944,
+    "subjectId": 30,
+    "title": "ESTUDIOS EPIDEMIOLÓGICOS EXPERIMENTALES",
+    "rotation": null
+  },
+  {
+    "id": 945,
+    "subjectId": 30,
+    "title": "EVALUACIÓN DE PROCEDIMIENTOS DX",
+    "rotation": null
+  },
+  {
+    "id": 946,
+    "subjectId": 30,
+    "title": "INVESTIGACIÓN EPIDEM. DE CAMPO. APLICACIÓN AL ESTUDIO DE BROTES",
+    "rotation": null
+  },
+  {
+    "id": 947,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LOS PROBLEMAS DE SALUD MATERNA",
+    "rotation": null
+  },
+  {
+    "id": 948,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LOS PROBLEMAS DE SALUD INFANTIL Y DE LA NIÑEZ",
+    "rotation": null
+  },
+  {
+    "id": 949,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LAS ENFERMEDADES TRANSMISIBLES",
+    "rotation": null
+  },
+  {
+    "id": 950,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LAS ENFERMEDADES NO TRANSMISIBLES",
+    "rotation": null
+  },
+  {
+    "id": 951,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LAS ENFERMEDADES ONCOLÓGICAS",
+    "rotation": null
+  },
+  {
+    "id": 952,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LOS TRASTORNOS MENTALES MÁS FRECUENTES",
+    "rotation": null
+  },
+  {
+    "id": 953,
+    "subjectId": 30,
+    "title": "PREVENCIÓN DE LA VIOLENCIA, LAS LESIONES Y MUERTES POR ACCIDENTES",
+    "rotation": null
+  },
+  {
+    "id": 954,
+    "subjectId": 30,
+    "title": "INTRODUCCIÓN A LA SALUD AMBIENTAL Y ATENCIÓN PRIMARIA AMBIENTAL (APA)",
+    "rotation": null
+  },
+  {
+    "id": 955,
+    "subjectId": 30,
+    "title": "CONTAMINACIÓN AMBIENTAL Y SUS CLASES",
+    "rotation": null
+  },
+  {
+    "id": 956,
+    "subjectId": 30,
+    "title": "AGUA SEGURA Y SANEAMIENTO BÁSICO",
+    "rotation": null
+  },
+  {
+    "id": 957,
+    "subjectId": 30,
+    "title": "AIRE LIMPIO",
+    "rotation": null
+  },
+  {
+    "id": 958,
+    "subjectId": 30,
+    "title": "ALIMENTO ADECUADO Y SEGURO / ASENTAMIENTOS HUMANOS Y VIVIENDA SALUDABLE",
+    "rotation": null
+  },
+  {
+    "id": 959,
+    "subjectId": 30,
+    "title": "PROBLEMAS AMBIENTALES GLOBALES",
+    "rotation": null
+  },
+  {
+    "id": 960,
+    "subjectId": 30,
+    "title": "DESASTRES NATURALES Y EMERGENCIAS TECNOLÓGICAS",
+    "rotation": null
+  },
+  {
+    "id": 961,
+    "subjectId": 30,
+    "title": "INTRODUCCIÓN A LA SALUD OCUPACIONAL",
+    "rotation": null
+  },
+  {
+    "id": 962,
+    "subjectId": 30,
+    "title": "MEDICINA DEL TRABAJO",
+    "rotation": null
+  },
+  {
+    "id": 963,
+    "subjectId": 30,
+    "title": "SEGURIDAD INDUSTRIAL E HIGIENE INDUSTRIAL",
+    "rotation": null
+  },
+  {
+    "id": 964,
+    "subjectId": 30,
+    "title": "TOXICOLOGÍA AMBIENTAL Y OCUPACIONAL.",
+    "rotation": null
+  },
+  {
+    "id": 965,
+    "subjectId": 30,
+    "title": "PROBLEMAS DE SMAyO EN BOLIVIA / NORMAS Y PROGRAMAS DE SMAyO EN BOLIVIA/ RECOMENDACIONES INTERNACIONALES",
+    "rotation": null
+  },
+  {
+    "id": 966,
+    "subjectId": 31,
+    "title": "GENERALIDADES DE LA UROLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 967,
+    "subjectId": 31,
+    "title": "SEMIOLOGÍA UROLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 968,
+    "subjectId": 31,
+    "title": "TRASTORNOS DE LA MICCIÓN",
+    "rotation": null
+  },
+  {
+    "id": 969,
+    "subjectId": 31,
+    "title": "TUBERCULOSIS UROGENITAL",
+    "rotation": null
+  },
+  {
+    "id": 970,
+    "subjectId": 31,
+    "title": "TRAUMATISMO URETRALES Y DE ESCROTO.",
+    "rotation": null
+  },
+  {
+    "id": 971,
+    "subjectId": 31,
+    "title": "TRAUMATISMOS RENAL Y VESICALES",
+    "rotation": null
+  },
+  {
+    "id": 972,
+    "subjectId": 31,
+    "title": "LITIASIS URINARIA.",
+    "rotation": null
+  },
+  {
+    "id": 973,
+    "subjectId": 31,
+    "title": "PROSTATITIS AGUDA Y CRÓNICA. ORQUIEPIDIDIMITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 974,
+    "subjectId": 31,
+    "title": "HIPERPLASIA DE LA PRÓSTATA",
+    "rotation": null
+  },
+  {
+    "id": 975,
+    "subjectId": 31,
+    "title": "ADENOCARCINOMA DE PRÓSTATA",
+    "rotation": null
+  },
+  {
+    "id": 976,
+    "subjectId": 31,
+    "title": "MALFORMACIONES GENITALES, HIPOSPADIAS, EPISPADIAS.",
+    "rotation": null
+  },
+  {
+    "id": 977,
+    "subjectId": 31,
+    "title": "INFECCIÓN URINARIA",
+    "rotation": null
+  },
+  {
+    "id": 978,
+    "subjectId": 31,
+    "title": "INCONTINENCIA URINARIA DE ESFUERZO.",
+    "rotation": null
+  },
+  {
+    "id": 979,
+    "subjectId": 31,
+    "title": "TUMORES VESICALES",
+    "rotation": null
+  },
+  {
+    "id": 980,
+    "subjectId": 31,
+    "title": "TUMORES DE TESTÍCULO",
+    "rotation": null
+  },
+  {
+    "id": 981,
+    "subjectId": 31,
+    "title": "FISTULAS URINARIAS",
+    "rotation": null
+  },
+  {
+    "id": 982,
+    "subjectId": 31,
+    "title": "TUMORES RENALES Y PTOSIS RENAL",
+    "rotation": null
+  },
+  {
+    "id": 983,
+    "subjectId": 31,
+    "title": "DISFUNCIÓN ERÉCTIL",
+    "rotation": null
+  },
+  {
+    "id": 984,
+    "subjectId": 31,
+    "title": "ITS",
+    "rotation": null
+  },
+  {
+    "id": 985,
+    "subjectId": 32,
+    "title": "GENERALIDADES DE LA ANESTESIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 986,
+    "subjectId": 32,
+    "title": "PREPARACIÓN / MONITORIZACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 987,
+    "subjectId": 32,
+    "title": "ANESTESIA GENERAL",
+    "rotation": null
+  },
+  {
+    "id": 988,
+    "subjectId": 32,
+    "title": "MANEJO DE VÍA AEREA",
+    "rotation": null
+  },
+  {
+    "id": 989,
+    "subjectId": 32,
+    "title": "COMPLICACIONES FRECUENTES / SHOCK HIPOVOLÉMICO",
+    "rotation": null
+  },
+  {
+    "id": 990,
+    "subjectId": 32,
+    "title": "ANESTESIOLOGÍA REGIONAL I (Clasificación, Anestésico local)",
+    "rotation": null
+  },
+  {
+    "id": 991,
+    "subjectId": 32,
+    "title": "ANESTESIOLOGÍA REGIONAL II (A. raquídea, epidural y otros)",
+    "rotation": null
+  },
+  {
+    "id": 992,
+    "subjectId": 32,
+    "title": "RECUPERACIÓN POST- ANESTÉSICA",
+    "rotation": null
+  },
+  {
+    "id": 993,
+    "subjectId": 32,
+    "title": "ACCESOS VASCULARES",
+    "rotation": null
+  },
+  {
+    "id": 994,
+    "subjectId": 32,
+    "title": "DOLOR I (Aspectos básicos y clínicos)",
+    "rotation": null
+  },
+  {
+    "id": 995,
+    "subjectId": 32,
+    "title": "DOLOR II (Tto / Dolor agudo y crónico. CUIDADO PALIATIVO)",
+    "rotation": null
+  },
+  {
+    "id": 996,
+    "subjectId": 32,
+    "title": "RCP BÁSICO Y AVANZADO EN EL ADULTO",
+    "rotation": null
+  },
+  {
+    "id": 997,
+    "subjectId": 32,
+    "title": "RCP BÁSICO Y AVANZADO EN EL NIÑO",
+    "rotation": null
+  },
+  {
+    "id": 998,
+    "subjectId": 32,
+    "title": "MANEJO INICIAL DEL POLITRAUMATIZADO",
+    "rotation": null
+  },
+  {
+    "id": 999,
+    "subjectId": 32,
+    "title": "TOXICOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1000,
+    "subjectId": 33,
+    "title": "GENERALIDADES DE LA OFTALMOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1001,
+    "subjectId": 33,
+    "title": "ANATOMÍA Y FISIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1002,
+    "subjectId": 33,
+    "title": "PÁRPADOS",
+    "rotation": null
+  },
+  {
+    "id": 1003,
+    "subjectId": 33,
+    "title": "APARATO LAGRIMAL",
+    "rotation": null
+  },
+  {
+    "id": 1004,
+    "subjectId": 33,
+    "title": "CONJUNTIVA",
+    "rotation": null
+  },
+  {
+    "id": 1005,
+    "subjectId": 33,
+    "title": "CÓRNEA",
+    "rotation": null
+  },
+  {
+    "id": 1006,
+    "subjectId": 33,
+    "title": "ÚVEA",
+    "rotation": null
+  },
+  {
+    "id": 1007,
+    "subjectId": 33,
+    "title": "CRISTALINO",
+    "rotation": null
+  },
+  {
+    "id": 1008,
+    "subjectId": 33,
+    "title": "RETINA I (Retinopatías, degen., retinosis, retinoblastoma)",
+    "rotation": null
+  },
+  {
+    "id": 1009,
+    "subjectId": 33,
+    "title": "RETINA II (Oclusión arterial y venosa, diabetes e HTA)",
+    "rotation": null
+  },
+  {
+    "id": 1010,
+    "subjectId": 33,
+    "title": "GLAUCOMA",
+    "rotation": null
+  },
+  {
+    "id": 1011,
+    "subjectId": 33,
+    "title": "NEUROOFTALMOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1012,
+    "subjectId": 33,
+    "title": "OFTALMOPEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1013,
+    "subjectId": 33,
+    "title": "SISTEMA ÓPTICO / AMETROPÍAS / ESTRABISMO",
+    "rotation": null
+  },
+  {
+    "id": 1014,
+    "subjectId": 33,
+    "title": "ÓRBITA",
+    "rotation": null
+  },
+  {
+    "id": 1015,
+    "subjectId": 33,
+    "title": "TRAUMATISMOS OCULARES",
+    "rotation": null
+  },
+  {
+    "id": 1016,
+    "subjectId": 33,
+    "title": "CUERPO VITREO",
+    "rotation": null
+  },
+  {
+    "id": 1017,
+    "subjectId": 33,
+    "title": "CEGUERA",
+    "rotation": null
+  },
+  {
+    "id": 1018,
+    "subjectId": 34,
+    "title": "GENERALIDADES DE LA OTORRINOLARINGOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1019,
+    "subjectId": 34,
+    "title": "PATOLOGÍA INFLAMATORIA RINOSINUSAL. RINOSINUSITIS AGUDA Y CRÓNICA. RINITIS ALÉRGICA",
+    "rotation": null
+  },
+  {
+    "id": 1020,
+    "subjectId": 34,
+    "title": "EPISTAXIS",
+    "rotation": null
+  },
+  {
+    "id": 1021,
+    "subjectId": 34,
+    "title": "INSUFICIENCIA VENTILATORIA NASAL",
+    "rotation": null
+  },
+  {
+    "id": 1022,
+    "subjectId": 34,
+    "title": "TRAUMA NASAL. FRACTURA DE HUESOS PROPIOS DE LA NARIZ. CUERPOS EXTRAÑOS",
+    "rotation": null
+  },
+  {
+    "id": 1023,
+    "subjectId": 34,
+    "title": "PATOLOGÍA AGUDA Y ACRÓNICA DE LA FARINGE",
+    "rotation": null
+  },
+  {
+    "id": 1024,
+    "subjectId": 34,
+    "title": "DISFONIAS FUNCIONALES Y ORGÁNICAS",
+    "rotation": null
+  },
+  {
+    "id": 1025,
+    "subjectId": 34,
+    "title": "PATOLOGÍA AMIGDALAR",
+    "rotation": null
+  },
+  {
+    "id": 1026,
+    "subjectId": 34,
+    "title": "LARINGITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1027,
+    "subjectId": 34,
+    "title": "HIPOACUSIA INFANTIL",
+    "rotation": null
+  },
+  {
+    "id": 1028,
+    "subjectId": 34,
+    "title": "PATOLOGÍA DEL OÍDO INTERNO",
+    "rotation": null
+  },
+  {
+    "id": 1029,
+    "subjectId": 34,
+    "title": "PATOLOGÍA DEL OÍDO MEDIO Y EXTERNO",
+    "rotation": null
+  },
+  {
+    "id": 1030,
+    "subjectId": 34,
+    "title": "SÍNDROME VERTIGINOSO PERIFÉRICO",
+    "rotation": null
+  },
+  {
+    "id": 1031,
+    "subjectId": 35,
+    "title": "GENERALIDADES DE LA CIRUGÍA DE ABDOMEN Y PROCTOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1032,
+    "subjectId": 35,
+    "title": "ANATOMÍA QUIRÚRGICA DE LA PARED ABDOMINAL",
+    "rotation": null
+  },
+  {
+    "id": 1033,
+    "subjectId": 35,
+    "title": "VÍAS DE ABORDAJE EN CIRUGÍA ABDOMINAL, LAPAROTOMÍA, LAPAROSCOPÍA",
+    "rotation": null
+  },
+  {
+    "id": 1034,
+    "subjectId": 35,
+    "title": "CONSIDERACIONES GENERALES SOBRE LAS HERNIAS",
+    "rotation": null
+  },
+  {
+    "id": 1035,
+    "subjectId": 35,
+    "title": "HERNIA INGUINAL, CRURAL",
+    "rotation": null
+  },
+  {
+    "id": 1036,
+    "subjectId": 35,
+    "title": "HERNIAS VENTRALES",
+    "rotation": null
+  },
+  {
+    "id": 1037,
+    "subjectId": 35,
+    "title": "EVENTRACIONES",
+    "rotation": null
+  },
+  {
+    "id": 1038,
+    "subjectId": 35,
+    "title": "EVISCERACIONES",
+    "rotation": null
+  },
+  {
+    "id": 1039,
+    "subjectId": 35,
+    "title": "ANATOMÍA QUIRÚRGICA DEL APÉNDICE Y PERITONEO",
+    "rotation": null
+  },
+  {
+    "id": 1040,
+    "subjectId": 35,
+    "title": "APENDICITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1041,
+    "subjectId": 35,
+    "title": "PERITONITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1042,
+    "subjectId": 35,
+    "title": "ABSCESO INTRAABDOMINAL",
+    "rotation": null
+  },
+  {
+    "id": 1043,
+    "subjectId": 35,
+    "title": "PERITONITIS TUBERCULOSA",
+    "rotation": null
+  },
+  {
+    "id": 1044,
+    "subjectId": 35,
+    "title": "ANATOMÍA QUIRÚRGICA DE ESÓFAGO, ESTÓMAGO E INTESTINO DELGADO",
+    "rotation": null
+  },
+  {
+    "id": 1045,
+    "subjectId": 35,
+    "title": "ENFERMEDAD POR REFLUJO GASTROESOFÁGICO",
+    "rotation": null
+  },
+  {
+    "id": 1046,
+    "subjectId": 35,
+    "title": "HERNIA HIATAL – ETIOLOGÍA, DX y TTO",
+    "rotation": null
+  },
+  {
+    "id": 1047,
+    "subjectId": 35,
+    "title": "ENFOQUE QX DE LAS COMPLICACIONES DE LA ENFERMEDAD ULCEROSA",
+    "rotation": null
+  },
+  {
+    "id": 1048,
+    "subjectId": 35,
+    "title": "TUMORES DE ESÓFAGO, ESTÓMAGO E INTESTINO DELGADO",
+    "rotation": null
+  },
+  {
+    "id": 1049,
+    "subjectId": 35,
+    "title": "ENFERMEDAD INFLAMATORIA INTESTINAL (Enf. De Crohn, Colitis Ulcerativa)",
+    "rotation": null
+  },
+  {
+    "id": 1050,
+    "subjectId": 35,
+    "title": "FISTULAS DE INTESTINO DELGADO",
+    "rotation": null
+  },
+  {
+    "id": 1051,
+    "subjectId": 35,
+    "title": "ENFERMEDAD HEMORROIDAL Y FISURA ANAL",
+    "rotation": null
+  },
+  {
+    "id": 1052,
+    "subjectId": 35,
+    "title": "SUPURACIÓN ANORRECTAL",
+    "rotation": null
+  },
+  {
+    "id": 1053,
+    "subjectId": 35,
+    "title": "PROLAPSO RECTAL / QUISTE SC ENFERMEDAD PILONIDAL",
+    "rotation": null
+  },
+  {
+    "id": 1054,
+    "subjectId": 35,
+    "title": "ENFERMEDAD DIVERTICULAR",
+    "rotation": null
+  },
+  {
+    "id": 1055,
+    "subjectId": 35,
+    "title": "OBSTRUCCIÓN INTESTINAL",
+    "rotation": null
+  },
+  {
+    "id": 1056,
+    "subjectId": 35,
+    "title": "MEGACOLON",
+    "rotation": null
+  },
+  {
+    "id": 1057,
+    "subjectId": 35,
+    "title": "COMPLICACIÓN DEL MEGACOLON",
+    "rotation": null
+  },
+  {
+    "id": 1058,
+    "subjectId": 35,
+    "title": "TUMORES DE COLON",
+    "rotation": null
+  },
+  {
+    "id": 1059,
+    "subjectId": 35,
+    "title": "ANATOMÍA QUIRÚRGICA DE HIGADO, VÍAS BILIARES Y PÁNCREAS / BAZO",
+    "rotation": null
+  },
+  {
+    "id": 1060,
+    "subjectId": 35,
+    "title": "COLECISTITIS AGUDA Y CRÓNICA",
+    "rotation": null
+  },
+  {
+    "id": 1061,
+    "subjectId": 35,
+    "title": "COLEDOCOLITIASIS Y COLANGITIS",
+    "rotation": null
+  },
+  {
+    "id": 1062,
+    "subjectId": 35,
+    "title": "FÍSTULAS BILIARES, ÍLEO BILIAR",
+    "rotation": null
+  },
+  {
+    "id": 1063,
+    "subjectId": 35,
+    "title": "PANCREATITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1064,
+    "subjectId": 35,
+    "title": "TUMORES DE VESÍCULA, VÍAS BILIARES Y PÁNCREAS",
+    "rotation": null
+  },
+  {
+    "id": 1065,
+    "subjectId": 35,
+    "title": "ABSCESOS HEPÁTICOS",
+    "rotation": null
+  },
+  {
+    "id": 1066,
+    "subjectId": 35,
+    "title": "HIDATIDOSIS HEPÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 1067,
+    "subjectId": 35,
+    "title": "TUMORES DE HÍGADO",
+    "rotation": null
+  },
+  {
+    "id": 1068,
+    "subjectId": 35,
+    "title": "TRAUMATISMO ABDOMINAL / RUPTURA DE HÍGADO Y BAZO",
+    "rotation": null
+  },
+  {
+    "id": 1069,
+    "subjectId": 35,
+    "title": "TROMBOSIS MESENTÉRICA",
+    "rotation": null
+  },
+  {
+    "id": 1070,
+    "subjectId": 36,
+    "title": "GENERALIDADES DE LA GINECOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1071,
+    "subjectId": 36,
+    "title": "ANATOMÍA DEL APARATO GENITAL FEMENINO",
+    "rotation": null
+  },
+  {
+    "id": 1072,
+    "subjectId": 36,
+    "title": "FISIOLOGÍA DEL APARATO GENITAL FEMENINO",
+    "rotation": null
+  },
+  {
+    "id": 1073,
+    "subjectId": 36,
+    "title": "SEMIOLOGÍA GINECOLÓGICA",
+    "rotation": null
+  },
+  {
+    "id": 1074,
+    "subjectId": 36,
+    "title": "EXAMENES AUXILIARES EN GINECOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1075,
+    "subjectId": 36,
+    "title": "ETAPAS DE LA VIDA DE LA MUJER, NIÑEZ Y ADOLESCENCIA",
+    "rotation": null
+  },
+  {
+    "id": 1076,
+    "subjectId": 36,
+    "title": "TRASTORNOS MENSTRUALES Y HEMORRAGIAS ANORMALES",
+    "rotation": null
+  },
+  {
+    "id": 1077,
+    "subjectId": 36,
+    "title": "CICLO MONOFÁSICO, AMENORREA, HIPERPROLACTIN",
+    "rotation": null
+  },
+  {
+    "id": 1078,
+    "subjectId": 36,
+    "title": "ALGO-DISMENORREAS",
+    "rotation": null
+  },
+  {
+    "id": 1079,
+    "subjectId": 36,
+    "title": "CLIMATERIO,MENOPAUSIA,TRH",
+    "rotation": null
+  },
+  {
+    "id": 1080,
+    "subjectId": 36,
+    "title": "AMENAZA DE ABORTO ABORTO INCOMPLETO",
+    "rotation": null
+  },
+  {
+    "id": 1081,
+    "subjectId": 36,
+    "title": "ABORTO SÉPTICO, HUEVO M.R.",
+    "rotation": null
+  },
+  {
+    "id": 1082,
+    "subjectId": 36,
+    "title": "EMBARAZO ECTÓPICO",
+    "rotation": null
+  },
+  {
+    "id": 1083,
+    "subjectId": 36,
+    "title": "ENFERMEDAD TROFOBLÁSTICA GESTACIONAL",
+    "rotation": null
+  },
+  {
+    "id": 1084,
+    "subjectId": 36,
+    "title": "SALUD SEXUAL-REPRODUCTIVA, PF, MÉTODOS NATURALES",
+    "rotation": null
+  },
+  {
+    "id": 1085,
+    "subjectId": 36,
+    "title": "ANTICONCEPCIÓN HORMONAL",
+    "rotation": null
+  },
+  {
+    "id": 1086,
+    "subjectId": 36,
+    "title": "DIU Y MÉTODOS DEFINITIVOS",
+    "rotation": null
+  },
+  {
+    "id": 1087,
+    "subjectId": 36,
+    "title": "TUBERCULOSIS GENITAL",
+    "rotation": null
+  },
+  {
+    "id": 1088,
+    "subjectId": 36,
+    "title": "FLUJO GENITAL PATOLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 1089,
+    "subjectId": 36,
+    "title": "ITS: TRICOMONA, VAGINOSIS CANDIDIASIS, GONORREA, CLAMIDIA, ETC",
+    "rotation": null
+  },
+  {
+    "id": 1090,
+    "subjectId": 36,
+    "title": "ENFERMEDAD PÉLVICA INFLAMATORIA",
+    "rotation": null
+  },
+  {
+    "id": 1091,
+    "subjectId": 36,
+    "title": "SIFILIS, HIV-SIDA",
+    "rotation": null
+  },
+  {
+    "id": 1092,
+    "subjectId": 36,
+    "title": "FISIO-PATOLOGÍA DEL CERVIX, ECTROPIÓN, POLIPOS, ETC.",
+    "rotation": null
+  },
+  {
+    "id": 1093,
+    "subjectId": 36,
+    "title": "HISTORIA NATURAL DEL CÁNCER DE CUELLO UTERINO",
+    "rotation": null
+  },
+  {
+    "id": 1094,
+    "subjectId": 36,
+    "title": "DIAGNÓSTICO PRECOZ DEL CACU (PAP, IVAA, COLPOS.)",
+    "rotation": null
+  },
+  {
+    "id": 1095,
+    "subjectId": 36,
+    "title": "CÁNCER INVASOR DE CUELLO UTERINO",
+    "rotation": null
+  },
+  {
+    "id": 1096,
+    "subjectId": 36,
+    "title": "MIOMAS UTERINOS",
+    "rotation": null
+  },
+  {
+    "id": 1097,
+    "subjectId": 36,
+    "title": "HIPERPLASIA DE ENDOMETRIO",
+    "rotation": null
+  },
+  {
+    "id": 1098,
+    "subjectId": 36,
+    "title": "ADENOCARCINOMA DE ENDOMETRIO",
+    "rotation": null
+  },
+  {
+    "id": 1099,
+    "subjectId": 36,
+    "title": "TUMORES BENIGNOS DE OVARIO",
+    "rotation": null
+  },
+  {
+    "id": 1100,
+    "subjectId": 36,
+    "title": "TUMORES MALIGNOS DE OVARIO",
+    "rotation": null
+  },
+  {
+    "id": 1101,
+    "subjectId": 36,
+    "title": "DISTOPÍAS Y PROLAPSOS DE ORGANOS PÉLVIANOS",
+    "rotation": null
+  },
+  {
+    "id": 1102,
+    "subjectId": 36,
+    "title": "INCONTINENCIAS URINARIAS, FÍSTULAS UROGENITALES",
+    "rotation": null
+  },
+  {
+    "id": 1103,
+    "subjectId": 36,
+    "title": "TRAUMATISMOS GENITALES, AGRESIÓN SEXUAL",
+    "rotation": null
+  },
+  {
+    "id": 1104,
+    "subjectId": 36,
+    "title": "SÍNDROME DEL OVARIO POLIQUÍSTICO",
+    "rotation": null
+  },
+  {
+    "id": 1105,
+    "subjectId": 36,
+    "title": "PATOLOGÍA VULVAR",
+    "rotation": null
+  },
+  {
+    "id": 1106,
+    "subjectId": 36,
+    "title": "ABDOMEN AGUDO GINECOLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 1107,
+    "subjectId": 36,
+    "title": "SEMIOLOGÍA DE MAMA, PAT. BENIGNA DE MAMA",
+    "rotation": null
+  },
+  {
+    "id": 1108,
+    "subjectId": 36,
+    "title": "CÁNCER DE MAMA",
+    "rotation": null
+  },
+  {
+    "id": 1109,
+    "subjectId": 36,
+    "title": "ESTERILIDAD E INFERTILIDAD",
+    "rotation": null
+  },
+  {
+    "id": 1110,
+    "subjectId": 37,
+    "title": "GENERALIDADES DE LA OBSTETRICIA",
+    "rotation": null
+  },
+  {
+    "id": 1111,
+    "subjectId": 37,
+    "title": "HISTORIA DE LA OBSTETRICIA",
+    "rotation": null
+  },
+  {
+    "id": 1112,
+    "subjectId": 37,
+    "title": "BIOÉTICA EN LA PRÁCTICA OBSTÉTRICA. CONCEPTOS GENERALES",
+    "rotation": null
+  },
+  {
+    "id": 1113,
+    "subjectId": 37,
+    "title": "FISIOLOGIA DE LA FECUNDACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 1114,
+    "subjectId": 37,
+    "title": "LA PLACENTA",
+    "rotation": null
+  },
+  {
+    "id": 1115,
+    "subjectId": 37,
+    "title": "DESARROLLO EMBRIOFETAL. FISIOLOGÍA DEL FETO",
+    "rotation": null
+  },
+  {
+    "id": 1116,
+    "subjectId": 37,
+    "title": "PELVIS OSEA",
+    "rotation": null
+  },
+  {
+    "id": 1117,
+    "subjectId": 37,
+    "title": "MODIFICACIONES GENERALES",
+    "rotation": null
+  },
+  {
+    "id": 1118,
+    "subjectId": 37,
+    "title": "MODIFICACIONES LOCALES",
+    "rotation": null
+  },
+  {
+    "id": 1119,
+    "subjectId": 37,
+    "title": "SEMIOLOGÍA I - DIAGNÓSTICO DEL EMBARAZO",
+    "rotation": null
+  },
+  {
+    "id": 1120,
+    "subjectId": 37,
+    "title": "SEMIOLOGÍA II - ESTÁTICA FETAL",
+    "rotation": null
+  },
+  {
+    "id": 1121,
+    "subjectId": 37,
+    "title": "ECOGRAFIA Y RESONANCIA MAGNÉTICA. MÉTODOS COMPLEMENTARIOS DE DX EN OBSTETRICIA",
+    "rotation": null
+  },
+  {
+    "id": 1122,
+    "subjectId": 37,
+    "title": "CONTROL PRENATAL",
+    "rotation": null
+  },
+  {
+    "id": 1123,
+    "subjectId": 37,
+    "title": "ADOLESCENCIA Y EMBARAZO",
+    "rotation": null
+  },
+  {
+    "id": 1124,
+    "subjectId": 37,
+    "title": "FISIOLOGÍA DEL PARTO",
+    "rotation": null
+  },
+  {
+    "id": 1125,
+    "subjectId": 37,
+    "title": "MECANISMO DEL PARTO",
+    "rotation": null
+  },
+  {
+    "id": 1126,
+    "subjectId": 37,
+    "title": "ASISTENCIA DE PARTO - INTERCULTURALIDAD",
+    "rotation": null
+  },
+  {
+    "id": 1127,
+    "subjectId": 37,
+    "title": "ALUMBRAMIENTO FISIOLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 1128,
+    "subjectId": 37,
+    "title": "PUERPERIO NORMAL",
+    "rotation": null
+  },
+  {
+    "id": 1129,
+    "subjectId": 37,
+    "title": "LACTANCIA MATERNA / NUTRICIÓN DURANTE Y DESPUES DEL EMBARAZO",
+    "rotation": null
+  },
+  {
+    "id": 1130,
+    "subjectId": 37,
+    "title": "ANTICONCEPCIÓN MATERNA",
+    "rotation": null
+  },
+  {
+    "id": 1131,
+    "subjectId": 37,
+    "title": "HEMORRAGIAS DE LA 2DA. MITAD DEL EMBARAZO I Y II",
+    "rotation": null
+  },
+  {
+    "id": 1132,
+    "subjectId": 37,
+    "title": "EMBARAZO MÚLTIPLE",
+    "rotation": null
+  },
+  {
+    "id": 1133,
+    "subjectId": 37,
+    "title": "HIPERTENSIÓN INDUCIDA POR EL EMBARAZO 1 (PREECLAMP.)",
+    "rotation": null
+  },
+  {
+    "id": 1134,
+    "subjectId": 37,
+    "title": "HIPERTENSIÓN INDUCIDA POR EL EMBARAZO 2 (ECLAMPSIA)",
+    "rotation": null
+  },
+  {
+    "id": 1135,
+    "subjectId": 37,
+    "title": "SUFRIMIENTO FETAL AGUDO",
+    "rotation": null
+  },
+  {
+    "id": 1136,
+    "subjectId": 37,
+    "title": "SUFRIMIENTO FETAL CRÓNICO- RCIU",
+    "rotation": null
+  },
+  {
+    "id": 1137,
+    "subjectId": 37,
+    "title": "AMENAZA Y PARTO PREMATURO",
+    "rotation": null
+  },
+  {
+    "id": 1138,
+    "subjectId": 37,
+    "title": "ROTURA PREMATURA DE MEMBRANAS-MUERTE FETAL",
+    "rotation": null
+  },
+  {
+    "id": 1139,
+    "subjectId": 37,
+    "title": "PRESENTACIÓN PODÁLICA Y DE HOMBRO",
+    "rotation": null
+  },
+  {
+    "id": 1140,
+    "subjectId": 37,
+    "title": "DISTOCIAS DINÁMICAS - INDUCTO CONDUCCIÓN",
+    "rotation": null
+  },
+  {
+    "id": 1141,
+    "subjectId": 37,
+    "title": "DISTOCIAS DE CANAL OSEO",
+    "rotation": null
+  },
+  {
+    "id": 1142,
+    "subjectId": 37,
+    "title": "ACCIDENTES DEL PARTO- DISTOCIAS DE PARTES BLANDAS",
+    "rotation": null
+  },
+  {
+    "id": 1143,
+    "subjectId": 37,
+    "title": "COMPLICACIONES DEL ALUMBRAMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 1144,
+    "subjectId": 37,
+    "title": "PUERPERIO PATOLÓGICO",
+    "rotation": null
+  },
+  {
+    "id": 1145,
+    "subjectId": 37,
+    "title": "DIABETES - TUBERCULOSIS Y EMBARAZO",
+    "rotation": null
+  },
+  {
+    "id": 1146,
+    "subjectId": 37,
+    "title": "INFECCIÓN DEL TRACTO URINARIO - CARDIOPATIA DURANTE EL EMBARAZO",
+    "rotation": null
+  },
+  {
+    "id": 1147,
+    "subjectId": 37,
+    "title": "PATOLOGÍA INFECCIOSA I TORCH",
+    "rotation": null
+  },
+  {
+    "id": 1148,
+    "subjectId": 37,
+    "title": "PATOLOGÍA INFECCIOSA II LUES Y SIDA",
+    "rotation": null
+  },
+  {
+    "id": 1149,
+    "subjectId": 37,
+    "title": "CESÁREA",
+    "rotation": null
+  },
+  {
+    "id": 1150,
+    "subjectId": 38,
+    "title": "GENERALIDADES E INTRODUCCIÓN A LA PEDIATRÍA.",
+    "rotation": null
+  },
+  {
+    "id": 1151,
+    "subjectId": 38,
+    "title": "ASPECTOS EPIDEMIOLÓGICOS Y ÉTICOS",
+    "rotation": null
+  },
+  {
+    "id": 1152,
+    "subjectId": 38,
+    "title": "MEDICINA BASADA EN LA EVIDENCIA",
+    "rotation": null
+  },
+  {
+    "id": 1153,
+    "subjectId": 38,
+    "title": "HISTORIA CLÍNICA EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1154,
+    "subjectId": 38,
+    "title": "EL CONTÍNUO DE LA ATENCIÓN EN EL CURSO DE LA VIDA (A.I.E.P.I)",
+    "rotation": null
+  },
+  {
+    "id": 1155,
+    "subjectId": 38,
+    "title": "ATENCIÓN DEL RECIÉN NACIDO Y VALORACIÓN DE LA EDAD GESTACIONAL",
+    "rotation": null
+  },
+  {
+    "id": 1156,
+    "subjectId": 38,
+    "title": "REANIMACIÓN NEONATAL",
+    "rotation": null
+  },
+  {
+    "id": 1157,
+    "subjectId": 38,
+    "title": "RN DE ALTO RIESGO / PRETÉRMINO Y POSTÉRMINO",
+    "rotation": null
+  },
+  {
+    "id": 1158,
+    "subjectId": 38,
+    "title": "DIFICULTAD RESPIRATORIA DEL RECIÉN NACIDO",
+    "rotation": null
+  },
+  {
+    "id": 1159,
+    "subjectId": 38,
+    "title": "ICTERICIA NEONATAL",
+    "rotation": null
+  },
+  {
+    "id": 1160,
+    "subjectId": 38,
+    "title": "SEPSIS NEONATAL. TORCH",
+    "rotation": null
+  },
+  {
+    "id": 1161,
+    "subjectId": 38,
+    "title": "CRECIMIENTO Y DESARROLLO",
+    "rotation": null
+  },
+  {
+    "id": 1162,
+    "subjectId": 38,
+    "title": "PROBLEMAS DE SALUD EN LA NIÑEZ Y LA ADOLESCENCIA",
+    "rotation": null
+  },
+  {
+    "id": 1163,
+    "subjectId": 38,
+    "title": "PUERICULTURA Y COMPORTAMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 1164,
+    "subjectId": 38,
+    "title": "LACTANCIA MATERNA",
+    "rotation": null
+  },
+  {
+    "id": 1165,
+    "subjectId": 38,
+    "title": "NUTRICIÓN Y ALIMENTACIÓN EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1166,
+    "subjectId": 38,
+    "title": "INMUNIZACIONES Y VACUNAS COVID 19",
+    "rotation": null
+  },
+  {
+    "id": 1167,
+    "subjectId": 38,
+    "title": "COVID 19 EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1168,
+    "subjectId": 38,
+    "title": "SEPSIS EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1169,
+    "subjectId": 38,
+    "title": "ENFERMEDADES INMUNOPREVENIBLES",
+    "rotation": null
+  },
+  {
+    "id": 1170,
+    "subjectId": 38,
+    "title": "INFECCIONES RESPIRATORIAS ALTAS. S.B.O.",
+    "rotation": null
+  },
+  {
+    "id": 1171,
+    "subjectId": 38,
+    "title": "NEUMONÍAS",
+    "rotation": null
+  },
+  {
+    "id": 1172,
+    "subjectId": 38,
+    "title": "ENFERMEDAD DIARREICA",
+    "rotation": null
+  },
+  {
+    "id": 1173,
+    "subjectId": 38,
+    "title": "FIEBRE ENTÉRICA Y SALMONELOSIS",
+    "rotation": null
+  },
+  {
+    "id": 1174,
+    "subjectId": 38,
+    "title": "PARASITOSIS INTESTINAL",
+    "rotation": null
+  },
+  {
+    "id": 1175,
+    "subjectId": 38,
+    "title": "HEPATITIS INFECCIOSA VIRAL Y FALLA HEPÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 1176,
+    "subjectId": 38,
+    "title": "INFECCIÓN URINARIA",
+    "rotation": null
+  },
+  {
+    "id": 1177,
+    "subjectId": 38,
+    "title": "TUBERCULOSIS INFANTIL",
+    "rotation": null
+  },
+  {
+    "id": 1178,
+    "subjectId": 38,
+    "title": "INFECCIONES DEL SISTEMA NERVIOSO CENTRAL",
+    "rotation": null
+  },
+  {
+    "id": 1179,
+    "subjectId": 38,
+    "title": "ENFERMEDADES TROPICALES TRANSMITIDAS POR VECTORES",
+    "rotation": null
+  },
+  {
+    "id": 1180,
+    "subjectId": 38,
+    "title": "VIH. INFECCIONES DE TRANSMISIÓN SEXUAL",
+    "rotation": null
+  },
+  {
+    "id": 1181,
+    "subjectId": 38,
+    "title": "ENFERMEDADES TROPICALES",
+    "rotation": null
+  },
+  {
+    "id": 1182,
+    "subjectId": 38,
+    "title": "ANTIBIÓTICOTERAPIA EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1183,
+    "subjectId": 38,
+    "title": "AGUA Y ELECTROLITOS",
+    "rotation": null
+  },
+  {
+    "id": 1184,
+    "subjectId": 38,
+    "title": "EDEMA EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1185,
+    "subjectId": 38,
+    "title": "FIEBRE EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1186,
+    "subjectId": 38,
+    "title": "MALNUTRICIÓN EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1187,
+    "subjectId": 38,
+    "title": "INTOXICACIONES EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1188,
+    "subjectId": 38,
+    "title": "TRAUMA CRANEOENCEFÁLICO EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1189,
+    "subjectId": 38,
+    "title": "ACCIDENTES EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1190,
+    "subjectId": 38,
+    "title": "DOLOR ABDOMINAL EN PEDIATRÍA",
+    "rotation": null
+  },
+  {
+    "id": 1191,
+    "subjectId": 38,
+    "title": "CONSTIPACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 1192,
+    "subjectId": 38,
+    "title": "ANEMIAS Y TRASTORNOS ONCOHEMATOLÓGICOS",
+    "rotation": null
+  },
+  {
+    "id": 1193,
+    "subjectId": 38,
+    "title": "DISPLASIA DE LA CADERA",
+    "rotation": null
+  },
+  {
+    "id": 1194,
+    "subjectId": 38,
+    "title": "DEFECTOS CONGÉNITOS",
+    "rotation": null
+  },
+  {
+    "id": 1195,
+    "subjectId": 38,
+    "title": "DEFECTOS DEL TUBO NEURAL",
+    "rotation": null
+  },
+  {
+    "id": 1196,
+    "subjectId": 38,
+    "title": "ENFERMEDADES DERMATOLÓGICAS",
+    "rotation": null
+  },
+  {
+    "id": 1197,
+    "subjectId": 38,
+    "title": "ENFERMEDADES AUTOINMUNES",
+    "rotation": null
+  },
+  {
+    "id": 1198,
+    "subjectId": 38,
+    "title": "MALTRATO INFANTIL",
+    "rotation": null
+  },
+  {
+    "id": 1199,
+    "subjectId": 39,
+    "title": "GENERALIDADES DE LA GASTROENTEROLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1200,
+    "subjectId": 39,
+    "title": "PATOLOGÍA DEL ESÓFAGO/ REFLUJO GASTROESOFÁGICO",
+    "rotation": null
+  },
+  {
+    "id": 1201,
+    "subjectId": 39,
+    "title": "TRASTORNOS MOTORES DEL ESÓFAGO",
+    "rotation": null
+  },
+  {
+    "id": 1202,
+    "subjectId": 39,
+    "title": "ESOFAGITIS CÁUSTICA",
+    "rotation": null
+  },
+  {
+    "id": 1203,
+    "subjectId": 39,
+    "title": "GASTRITIS AGUDA Y CRÓNICA",
+    "rotation": null
+  },
+  {
+    "id": 1204,
+    "subjectId": 39,
+    "title": "ENFERMEDAD ULCERO PÉPTICA",
+    "rotation": null
+  },
+  {
+    "id": 1205,
+    "subjectId": 39,
+    "title": "CÁNCER GÁSTRICO",
+    "rotation": null
+  },
+  {
+    "id": 1206,
+    "subjectId": 39,
+    "title": "HEMORRAGIA DIGESTIVA",
+    "rotation": null
+  },
+  {
+    "id": 1207,
+    "subjectId": 39,
+    "title": "TRASTORNOS DIGESTIVOS FUNCIONALES",
+    "rotation": null
+  },
+  {
+    "id": 1208,
+    "subjectId": 39,
+    "title": "ENTEROPARASITOSIS",
+    "rotation": null
+  },
+  {
+    "id": 1209,
+    "subjectId": 39,
+    "title": "ESTREÑIMIENTO",
+    "rotation": null
+  },
+  {
+    "id": 1210,
+    "subjectId": 39,
+    "title": "ENFERMEDAD DIVERTICULAR DEL COLÓN",
+    "rotation": null
+  },
+  {
+    "id": 1211,
+    "subjectId": 39,
+    "title": "CÁNCER DE COLON",
+    "rotation": null
+  },
+  {
+    "id": 1212,
+    "subjectId": 39,
+    "title": "HEPATITIS VIRAL AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1213,
+    "subjectId": 39,
+    "title": "ENFERM. INFLAMATORIAS INTESTINALES",
+    "rotation": null
+  },
+  {
+    "id": 1214,
+    "subjectId": 39,
+    "title": "PRUEBAS FUNCIONALES HEPÁTICAS",
+    "rotation": null
+  },
+  {
+    "id": 1215,
+    "subjectId": 39,
+    "title": "HEPATITIS CRÓNICAS",
+    "rotation": null
+  },
+  {
+    "id": 1216,
+    "subjectId": 39,
+    "title": "ENFERMEDAD HEPÁTICA ALCOHÓLICA / CIRROSIS",
+    "rotation": null
+  },
+  {
+    "id": 1217,
+    "subjectId": 39,
+    "title": "PANCREATITIS AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1218,
+    "subjectId": 39,
+    "title": "TUMORES HEPÁTICOS",
+    "rotation": null
+  },
+  {
+    "id": 1219,
+    "subjectId": 39,
+    "title": "ENCEFALOPATÍA HEPÁTICA",
+    "rotation": null
+  },
+  {
+    "id": 1220,
+    "subjectId": 39,
+    "title": "CANCER DE PÁNCREAS",
+    "rotation": null
+  },
+  {
+    "id": 1221,
+    "subjectId": 39,
+    "title": "ABDOMEN AGUDO MÉDICO",
+    "rotation": null
+  },
+  {
+    "id": 1222,
+    "subjectId": 40,
+    "title": "GENERALIDADES E INTROD. A LA NEFROLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1223,
+    "subjectId": 40,
+    "title": "ANATOMÍA/FISIOLOGÍA/ HISTOLOGÍA DEL RIÑON",
+    "rotation": null
+  },
+  {
+    "id": 1224,
+    "subjectId": 40,
+    "title": "EXÁMEN COMPLEMENTARIO EN NEFROLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1225,
+    "subjectId": 40,
+    "title": "SÍNDROME NEFRÍTICO (GN. POSTESTREPTOCÓCICA)",
+    "rotation": null
+  },
+  {
+    "id": 1226,
+    "subjectId": 40,
+    "title": "SÍNDROME NEFRÓTICO (LESIÓN DE CAMBIOS MÍNIMOS Y GN. MEMBRANOSA)",
+    "rotation": null
+  },
+  {
+    "id": 1227,
+    "subjectId": 40,
+    "title": "GN CRÓNICA (SEGMENTARIA FOCAL, MEMBRANO PROLIF., NEFROPATÍA POR IgA)",
+    "rotation": null
+  },
+  {
+    "id": 1228,
+    "subjectId": 40,
+    "title": "ENFERMEDAD SISTÉMICA Y DE RIÑÓN I: NEFROPATÍA LÚPICA",
+    "rotation": null
+  },
+  {
+    "id": 1229,
+    "subjectId": 40,
+    "title": "ENFERMEDAD SISTÉMICA Y DE RIÑÓN II: VASCULITIS RENAL",
+    "rotation": null
+  },
+  {
+    "id": 1230,
+    "subjectId": 40,
+    "title": "ENFERMEDAD SISTÉMICA Y DE RIÑÓN III: ENFERMEDAD RENAL DIABÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 1231,
+    "subjectId": 40,
+    "title": "EQUIL. HIDROELECTROLÍTICO I: SODIO (NA)",
+    "rotation": null
+  },
+  {
+    "id": 1232,
+    "subjectId": 40,
+    "title": "EQUIL. HIDROELECTROLÍTICO II: POTASIO (K)",
+    "rotation": null
+  },
+  {
+    "id": 1233,
+    "subjectId": 40,
+    "title": "EQUILIBRIO ÁCIDO BASE",
+    "rotation": null
+  },
+  {
+    "id": 1234,
+    "subjectId": 40,
+    "title": "HIPERTENSIÓN ARTERIAL 2ª: RENOVASCULAR",
+    "rotation": null
+  },
+  {
+    "id": 1235,
+    "subjectId": 40,
+    "title": "RIÑÓN Y EMBARAZO/ TRASTORNOS HIPERTENSIVOS",
+    "rotation": null
+  },
+  {
+    "id": 1236,
+    "subjectId": 40,
+    "title": "INFECCIÓN URINARIA",
+    "rotation": null
+  },
+  {
+    "id": 1237,
+    "subjectId": 40,
+    "title": "LITIASIS RENAL",
+    "rotation": null
+  },
+  {
+    "id": 1238,
+    "subjectId": 40,
+    "title": "COVID-19 Y RIÑÓN",
+    "rotation": null
+  },
+  {
+    "id": 1239,
+    "subjectId": 40,
+    "title": "INJURIA RENAL AGUDA",
+    "rotation": null
+  },
+  {
+    "id": 1240,
+    "subjectId": 40,
+    "title": "ENFERMEDAD RENAL CRÓNICA",
+    "rotation": null
+  },
+  {
+    "id": 1241,
+    "subjectId": 40,
+    "title": "DIÁLISIS: HEMODIÁLISIS Y DIÁLISIS PERITONEAL",
+    "rotation": null
+  },
+  {
+    "id": 1242,
+    "subjectId": 40,
+    "title": "TRASPLANTE RENAL",
+    "rotation": null
+  },
+  {
+    "id": 1243,
+    "subjectId": 41,
+    "title": "GENERALIDADES E INTROD. A LA ENDOCRINOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1244,
+    "subjectId": 41,
+    "title": "EJE HIPOTÁLAMO-HIPOFISIARIO",
+    "rotation": null
+  },
+  {
+    "id": 1245,
+    "subjectId": 41,
+    "title": "HIPERFUNCIÓN HIPOFISIARIA",
+    "rotation": null
+  },
+  {
+    "id": 1246,
+    "subjectId": 41,
+    "title": "HIPOFUNCIÓN HIPOFISIARIA",
+    "rotation": null
+  },
+  {
+    "id": 1247,
+    "subjectId": 41,
+    "title": "NEUROENDOCRINOLOGÍA: DIABETES INSÍPIDA",
+    "rotation": null
+  },
+  {
+    "id": 1248,
+    "subjectId": 41,
+    "title": "HIPOTIROIDISMO",
+    "rotation": null
+  },
+  {
+    "id": 1249,
+    "subjectId": 41,
+    "title": "HIPERTIROIDISMO",
+    "rotation": null
+  },
+  {
+    "id": 1250,
+    "subjectId": 41,
+    "title": "BOCIO NODULAR TIROIDEO",
+    "rotation": null
+  },
+  {
+    "id": 1251,
+    "subjectId": 41,
+    "title": "CÁNCER TIROIDEO",
+    "rotation": null
+  },
+  {
+    "id": 1252,
+    "subjectId": 41,
+    "title": "TIROIDITIS",
+    "rotation": null
+  },
+  {
+    "id": 1253,
+    "subjectId": 41,
+    "title": "HIPOFUNCIÓN SUPRARRENAL",
+    "rotation": null
+  },
+  {
+    "id": 1254,
+    "subjectId": 41,
+    "title": "HIPERFUNCIÓN SUPRARRENAL",
+    "rotation": null
+  },
+  {
+    "id": 1255,
+    "subjectId": 41,
+    "title": "OSTEOPOROSIS",
+    "rotation": null
+  },
+  {
+    "id": 1256,
+    "subjectId": 41,
+    "title": "GÓNADA FEMENINA, SOP",
+    "rotation": null
+  },
+  {
+    "id": 1257,
+    "subjectId": 41,
+    "title": "NUTRICIÓN / MALNUTRICIÓN",
+    "rotation": null
+  },
+  {
+    "id": 1258,
+    "subjectId": 41,
+    "title": "MACRONUTRIENTES: HIDRATOS DE CARBONO, PROTEÍNAS Y LÍPIDOS",
+    "rotation": null
+  },
+  {
+    "id": 1259,
+    "subjectId": 41,
+    "title": "MICRONUTRIENTES: MINERALES Y VITAMINAS",
+    "rotation": null
+  },
+  {
+    "id": 1260,
+    "subjectId": 41,
+    "title": "DISLIPIDEMIAS / ARTERIOSCLEROSIS",
+    "rotation": null
+  },
+  {
+    "id": 1261,
+    "subjectId": 41,
+    "title": "OBESIDAD / SÍNDROME METABÓLICO",
+    "rotation": null
+  },
+  {
+    "id": 1262,
+    "subjectId": 41,
+    "title": "DIABETES: CLASIFICACIÓN",
+    "rotation": null
+  },
+  {
+    "id": 1263,
+    "subjectId": 41,
+    "title": "DIABETES MELLITUS TIPO 2",
+    "rotation": null
+  },
+  {
+    "id": 1264,
+    "subjectId": 41,
+    "title": "DIABETES MELLITUS TIPO 1",
+    "rotation": null
+  },
+  {
+    "id": 1265,
+    "subjectId": 41,
+    "title": "COMPLICACIONES MICROVASCULARES/ RETINOPATÍA DIABÉTICA",
+    "rotation": null
+  },
+  {
+    "id": 1266,
+    "subjectId": 41,
+    "title": "NEUROPATÍA DIABÉTICA / PIE DIABÉTICO",
+    "rotation": null
+  },
+  {
+    "id": 1267,
+    "subjectId": 41,
+    "title": "HIPOGLUCEMIA",
+    "rotation": null
+  },
+  {
+    "id": 1268,
+    "subjectId": 41,
+    "title": "MANEJO FARMACOLÓGICO DE DIABETES MELLITUS",
+    "rotation": null
+  },
+  {
+    "id": 1269,
+    "subjectId": 41,
+    "title": "MANEJO NO FARMACOLÓGICO DE DIABETES MELLITUS",
+    "rotation": null
+  },
+  {
+    "id": 1270,
+    "subjectId": 41,
+    "title": "DIABETES Y EMBARAZO",
+    "rotation": null
+  },
+  {
+    "id": 1271,
+    "subjectId": 42,
+    "title": "GENERALIDADES E INTROD., HEMATOLOGÍA/HEMATOPOY.",
+    "rotation": null
+  },
+  {
+    "id": 1272,
+    "subjectId": 42,
+    "title": "SÍNDROME ANÉMICO",
+    "rotation": null
+  },
+  {
+    "id": 1273,
+    "subjectId": 42,
+    "title": "ANEMIA FERROPÉNICA",
+    "rotation": null
+  },
+  {
+    "id": 1274,
+    "subjectId": 42,
+    "title": "ANEMIA MEGALOBLÁSTICA",
+    "rotation": null
+  },
+  {
+    "id": 1275,
+    "subjectId": 42,
+    "title": "ANEMIA DE TRASTORNOS CRÓNICOS",
+    "rotation": null
+  },
+  {
+    "id": 1276,
+    "subjectId": 42,
+    "title": "ANEMIA APLÁSICA",
+    "rotation": null
+  },
+  {
+    "id": 1277,
+    "subjectId": 42,
+    "title": "ANEMIA HEMOLÍTICA HEREDITARIA Y ADQUIRIDA",
+    "rotation": null
+  },
+  {
+    "id": 1278,
+    "subjectId": 42,
+    "title": "ERITROCITOSIS Y POLICITEMIA",
+    "rotation": null
+  },
+  {
+    "id": 1279,
+    "subjectId": 42,
+    "title": "NEUTROPENIA FEBRIL",
+    "rotation": null
+  },
+  {
+    "id": 1280,
+    "subjectId": 42,
+    "title": "ALTERACIONES LEUCOCITARIAS",
+    "rotation": null
+  },
+  {
+    "id": 1281,
+    "subjectId": 42,
+    "title": "SÍNDROME ADENOMEGÁLICO",
+    "rotation": null
+  },
+  {
+    "id": 1282,
+    "subjectId": 42,
+    "title": "ENFERMEDAD DE HODGKIN/ LINFOMA NO HODGKIN",
+    "rotation": null
+  },
+  {
+    "id": 1283,
+    "subjectId": 42,
+    "title": "LEUCEMIAS AGUDAS",
+    "rotation": null
+  },
+  {
+    "id": 1284,
+    "subjectId": 42,
+    "title": "LEUCEMIAS CRÓNICAS",
+    "rotation": null
+  },
+  {
+    "id": 1285,
+    "subjectId": 42,
+    "title": "SX MIELOPROLIFERATIVO",
+    "rotation": null
+  },
+  {
+    "id": 1286,
+    "subjectId": 42,
+    "title": "SÍNDROME MIELODISPLÁSICO",
+    "rotation": null
+  },
+  {
+    "id": 1287,
+    "subjectId": 42,
+    "title": "MIELOMA MÚLTIPLE",
+    "rotation": null
+  },
+  {
+    "id": 1288,
+    "subjectId": 42,
+    "title": "FIBRINÓLISIS / HEMOSTASIA 1ª Y 2ª / ANTICOAGULANTES",
+    "rotation": null
+  },
+  {
+    "id": 1289,
+    "subjectId": 42,
+    "title": "SÍNDROME HEMORRÁGICO POR DÉFICIT DE FACTORES",
+    "rotation": null
+  },
+  {
+    "id": 1290,
+    "subjectId": 42,
+    "title": "SÍNDROME HEMORRÁGICO POR TROMBOCITOPENIA",
+    "rotation": null
+  },
+  {
+    "id": 1291,
+    "subjectId": 42,
+    "title": "TROMBOFILIA 1ª Y 2ª",
+    "rotation": null
+  },
+  {
+    "id": 1292,
+    "subjectId": 42,
+    "title": "GRUPOS SANGUÍNEOS E INMUNOHEMATOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1293,
+    "subjectId": 42,
+    "title": "MEDICINA TRANSFUSIONAL/ COMPLICACIONES",
+    "rotation": null
+  },
+  {
+    "id": 1294,
+    "subjectId": 43,
+    "title": "GENERALIDADES DE LA MEDICINA LEGAL",
+    "rotation": null
+  },
+  {
+    "id": 1295,
+    "subjectId": 43,
+    "title": "LEX ARTIS / MALA PRAXIS",
+    "rotation": null
+  },
+  {
+    "id": 1296,
+    "subjectId": 43,
+    "title": "DOCUMENTOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1297,
+    "subjectId": 43,
+    "title": "LEY 3131 / EJERCICIO PROFESIONAL DEL MÉDICO",
+    "rotation": null
+  },
+  {
+    "id": 1298,
+    "subjectId": 43,
+    "title": "DELITO DE LESIONES",
+    "rotation": null
+  },
+  {
+    "id": 1299,
+    "subjectId": 43,
+    "title": "TANATOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1300,
+    "subjectId": 43,
+    "title": "TRAUMATOLOGÍA MÉDICO- LEGAL",
+    "rotation": null
+  },
+  {
+    "id": 1301,
+    "subjectId": 43,
+    "title": "HECHOS DE TRÁNSITO",
+    "rotation": null
+  },
+  {
+    "id": 1302,
+    "subjectId": 43,
+    "title": "IDENTIFICACIÓN MÉDICO- LEGAL",
+    "rotation": null
+  },
+  {
+    "id": 1303,
+    "subjectId": 43,
+    "title": "CRIMINALÍSTICA",
+    "rotation": null
+  },
+  {
+    "id": 1304,
+    "subjectId": 43,
+    "title": "ASFIXIOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1305,
+    "subjectId": 43,
+    "title": "TOCO GINECOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1306,
+    "subjectId": 43,
+    "title": "PSIQUIATRÍA FORENSE",
+    "rotation": null
+  },
+  {
+    "id": 1307,
+    "subjectId": 43,
+    "title": "MEDICINA LEGAL LABORAL",
+    "rotation": null
+  },
+  {
+    "id": 1308,
+    "subjectId": 43,
+    "title": "TOXICOLOGÍA FORENSE",
+    "rotation": null
+  },
+  {
+    "id": 1309,
+    "subjectId": 43,
+    "title": "SEXOLOGÍA",
+    "rotation": null
+  },
+  {
+    "id": 1310,
+    "subjectId": 43,
+    "title": "EUTANASIA Y OTROS",
+    "rotation": null
+  },
+  {
+    "id": 1311,
+    "subjectId": 44,
+    "title": "R-1: FUNDAMENTOS DE LA ADMINISTRACIÓN Y GERENCIA EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1312,
+    "subjectId": 44,
+    "title": "ADMINISTRACIÓN DE SISTEMAS DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1313,
+    "subjectId": 44,
+    "title": "ADMINISTRACIÓN DE SISTEMAS DE SALUD EN BOLIVIA",
+    "rotation": null
+  },
+  {
+    "id": 1314,
+    "subjectId": 44,
+    "title": "CENTRALIZACIÓN Y DESCENTRALIZACIÓN EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1315,
+    "subjectId": 44,
+    "title": "SISTEMAS ADMINISTRATIVOS DE ORGANIZACIÓN EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1316,
+    "subjectId": 44,
+    "title": "SISTEMAS ADMINISTRATIVOS DE CONTROL",
+    "rotation": null
+  },
+  {
+    "id": 1317,
+    "subjectId": 44,
+    "title": "CALIDAD EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1318,
+    "subjectId": 44,
+    "title": "DERECHOS HUMANOS Y DERECHO A LA SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1319,
+    "subjectId": 44,
+    "title": "ADMINISTRACIÓN DE SERVICIOS DE SALUD Y ADM. HOSPITALARIA",
+    "rotation": null
+  },
+  {
+    "id": 1320,
+    "subjectId": 44,
+    "title": "MODELOS DE GERENCIA EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1321,
+    "subjectId": 44,
+    "title": "LA GERENCIA Y LOS SERVICIOS DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1322,
+    "subjectId": 44,
+    "title": "SALUD Y DESARROLLO",
+    "rotation": null
+  },
+  {
+    "id": 1323,
+    "subjectId": 44,
+    "title": "REDES DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1324,
+    "subjectId": 44,
+    "title": "ESTRATEGIAS MUNDIALES",
+    "rotation": null
+  },
+  {
+    "id": 1325,
+    "subjectId": 44,
+    "title": "R-2: FUNDAMENTOS DE LA ECONOMÍA DE LA SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1326,
+    "subjectId": 44,
+    "title": "ECONOMÍA DE LA SALUD EN BOLIVIA",
+    "rotation": null
+  },
+  {
+    "id": 1327,
+    "subjectId": 44,
+    "title": "PROMOCIÓN DE LA DEMANDA/OFERTA DE SERVICIOS DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1328,
+    "subjectId": 44,
+    "title": "GASTO, INVERSIÓN, COSTO DE LOS SERVICIOS DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1329,
+    "subjectId": 44,
+    "title": "NIVEL DE VIDA Y DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1330,
+    "subjectId": 44,
+    "title": "SALUD GLOBAL Y POLÍTICAS INTERNACIONALES EN SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1331,
+    "subjectId": 44,
+    "title": "FILOSOFÍA DEL CUIDADO DE LA SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1332,
+    "subjectId": 44,
+    "title": "R-3: FUNDAMENTOS DE LAS POLÍTICAS PÚBLICAS Y DE SALUD",
+    "rotation": null
+  },
+  {
+    "id": 1333,
+    "subjectId": 44,
+    "title": "GENERACIÓN DE POLÍTICAS PÚBLICAS",
+    "rotation": null
+  },
+  {
+    "id": 1334,
+    "subjectId": 44,
+    "title": "MODELOS DE SALUD ACTUAL EN BOLIVIA - COMPARACIÓN CON OTROS MODELOS",
+    "rotation": null
+  },
+  {
+    "id": 1335,
+    "subjectId": 44,
+    "title": "SEGURIDAD SOCIAL EN BOLIVIA",
+    "rotation": null
+  },
+  {
+    "id": 1336,
+    "subjectId": 44,
+    "title": "PROGRAMAS EN SALUD, INTERCULTURALIDAD",
+    "rotation": null
+  },
+  {
+    "id": 1337,
+    "subjectId": 44,
+    "title": "PROGRAMAS EN SALUD: ASPECTOS DE GÉNERO, INTERGENERACIONALES Y ÉTNICOS",
+    "rotation": null
+  }
+]
