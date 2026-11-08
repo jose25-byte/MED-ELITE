@@ -232,7 +232,7 @@ class TopicDetailScreen extends StatelessWidget {
       onPressed:()=>push(context,ScienceScreen(store:store,initialSubject:subject.id,initialTopic:topic.id)))]),
       body:ListView(padding:const EdgeInsets.all(16),children:[
         Container(padding:const EdgeInsets.all(20),decoration:BoxDecoration(borderRadius:BorderRadius.circular(22),
-          color:Color.lerp(dark?const Color(0xFF202126):Colors.white,subject.accent,dark?.22:.12)),
+          color:Color.lerp(dark?const Color(0xFF202126):Colors.white,subject.accent,dark ? 0.22 : 0.12)),
           child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[
             Text(subject.name.toUpperCase(),style:TextStyle(color:dark?Colors.white70:Colors.black54,fontSize:11,fontWeight:FontWeight.w800,letterSpacing:1.1)),
             const SizedBox(height:7),Text('${topic.id}. ${topic.title}',style:const TextStyle(fontWeight:FontWeight.w900,fontSize:21)),
